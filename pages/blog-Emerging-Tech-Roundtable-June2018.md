@@ -16,9 +16,9 @@ banner-text:
 banner-button-text: 
 banner-button-link: 
 ---
-In the late 1800’s, nearly 50% of the American workforce was employed through agriculture. According to the Bureau of Labor Statistics, that figure dropped to less than 2% by 2008. This major restructuring of the economy happened over a period of decades, leading to the emergence of new occupations, fundamental shifts in how the workforce was deployed and inherent changes to the social fabric of the country.
+In the late 1800’s, nearly 50% of the American workforce was employed through agriculture. According to the Bureau of Labor Statistics, that figure dropped to less than 2% by 2008 [1]. This major restructuring of the economy happened over a period of decades, leading to the emergence of new occupations, fundamental shifts in how the workforce was deployed and inherent changes to the social fabric of the country.
 
-With the rise of the digital economy over the last couple of decades, we are facing a similar revolution in our workforce.  According to annual census data, approximately 18% of American households used the internet in 1997. This figure quadrupled in less than two decades rising to 73% by 2015. With the rapid speed of technological advancement, we are in the midst of another massive economic shift. 
+With the rise of the digital economy over the last couple of decades, we are facing a similar revolution in our workforce.  According to annual census data, approximately 18% of American households used the internet in 1997. This figure quadrupled in less than two decades rising to 73% by 2015. With the rapid speed of technological advancement, we are in the midst of another massive economic shift [2]. 
 
 The adoption and integration of artificial intelligence is happening even faster. As artificial intelligence becomes ubiquitous within the next ten years, many jobs will be transformed. Simultaneously, this major technological shift will create demand for new jobs and skill sets that are yet to be defined. Skills and qualifications needed to perform these jobs will be fundamentally different than what we see in the workforce today, and new educational curriculum for grades K-12 as well as higher education is lagging. The skills gap will create economic, social, and security challenges cross-cutting all segments of the population and industry sectors -- including the Federal Government.
 
@@ -32,3 +32,5 @@ When considering how Federal Government agencies can proactively prepare public 
 
 Providing services to the American people might even be something that private tech companies consider including as desired experience on candidate resumes. Similarly, the CIO Council is supporting the 21st Century Workforce Cross-Agency Priority Goal, which focuses on the need to recruit, retain, and develop a modern, digital workforce who can maximize the benefits of these technological advancements.
 
+[1] https://www.bls.gov/emp/tables/employment-by-major-industry-sector.htm
+[2] https://www.census.gov/content/dam/Census/library/publications/2017/acs/acs-37.pdf
