@@ -1,13 +1,13 @@
 ---
 layout: blog
 body-class: home
-title: Emerging Technologies Roundtable Blog
+title: Digital Transformation: Artificial Intelligence and the Workforce
 blog-date: June 22, 2018
 blog-author: Maria Roat, CIO of the Small Business Administration and Chair of the CIO Council's Innovation Committee
 blog-title:
 permalink: /2018/06/22/Emerging-Technologies-Roundtable-Blog/
 background-image: /assets/img/grey.background.png
-hero-text: Emerging Technologies Roundtable Blog
+hero-text: Digital Transformation: Artificial Intelligence and the Workforce
 hero-byline:
 hero-button-text: 
 hero-button-link: 
