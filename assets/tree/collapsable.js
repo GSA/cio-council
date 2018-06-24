@@ -17,20 +17,18 @@
         },
         nodeStructure: {
             text: {
-              name:"Governance",
-              title:"Governance",
+              name: "Governance",
+              title: "Governance",
             }
-            image: "assets/img/about.jpg",
+
             children: [
                 {
-                    image: "img/lana.png",
-                    collapsed: true,
-                    children: [
-                        {
-                            image: "img/figgs.png"
-                        }
-                    ]
-                },
+                    text: {
+                      name: "Guidance",
+                      title: "Guidance"
+                    }
+                    image: "/assets/img/about.jpg",
+
                 {
                     image: "img/sterling.png",
                     childrenDropLevel: 1,
