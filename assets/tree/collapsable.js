@@ -16,7 +16,11 @@
             }
         },
         nodeStructure: {
-            image: "img/malory.png",
+            text: {
+              name:"Governance",
+              title:"Governance",
+            }
+            image: "assets/img/about.jpg",
             children: [
                 {
                     image: "img/lana.png",
