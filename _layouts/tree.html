@@ -16,8 +16,13 @@ layout: base
 </section>
 
 <section>
-
-  <a class="usa-button" href="{{ page.attachment | prepend: site.baseurl }}">View Mindmap</a>
+<div class="usa-grid">
+  <div class="usa-width-one-half">
+    {{ content }}
+    <br>
+    <a class="usa-button" href="{{ page.attachment | prepend: site.baseurl }}">View Mindmap</a>
+  </div>
+</div>
 </section>
 <!-- jquerytree
 <section>
