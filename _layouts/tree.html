@@ -27,10 +27,75 @@ layout: base
   <script src="{{ site.baseurl }}/assets/tree/vendor/jquery.min.js"></script>
   <script src="{{ site.baseurl }}/assets/tree/vendor/jquery.easing.js"></script>
   
-  
-  <script src="{{ site.baseurl }}/assets/tree/collapsable.js"></script>
+ 
   <script>
-    const tree = new Treant(chart_config);
+    var chart_config = {
+  chart: {
+    container: "#collapsable-example",
+
+    animateOnInit: true,
+
+    node: {
+      collapsable: true
+    },
+    animation: {
+      nodeAnimation: "easeOutBounce",
+      nodeSpeed: 700,
+      connectorsAnimation: "bounce",
+      connectorsSpeed: 700
+    }
+  },
+  nodeStructure: {
+    text: {
+      name: "GOVERNANCE",
+      desc: "A basic example",
+      contact: {
+        val: "CLICK HERE YO",
+        href: "http://twitter.com/",
+        target: "_self",
+      }
+    },
+    link: "http://twitter.com/",
+    children: [{
+        text: {
+          name: "Law"
+        },
+        contact: {
+          val: "contact me",
+          href: "http://twitter.com/",
+          target: "_self"
+        },
+        link: {
+          href: "http://twitter.com/"
+        },
+        collapsed: true,
+        children: [{
+          image: "http://fperucic.github.io/treant-js/examples/collapsable/img/figgs.png"
+        }]
+      },
+      {
+        image: "http://fperucic.github.io/treant-js/examples/collapsable/img/sterling.png",
+        childrenDropLevel: 1,
+        children: [{
+          image: "http://fperucic.github.io/treant-js/examples/collapsable/img/woodhouse.png"
+        }]
+      },
+      {
+        pseudo: true,
+        children: [{
+            image: "http://fperucic.github.io/treant-js/examples/collapsable/img/cheryl.png"
+          },
+          {
+            image: "http://fperucic.github.io/treant-js/examples/collapsable/img/pam.png"
+          }
+        ]
+      }
+    ]
+  }
+};
+
+const tree = new Treant(chart_config);
+
   </script>
 </section>
 
