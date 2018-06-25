@@ -14,6 +14,7 @@ button: Download the Handbook
 attachment: /assets/files/CISO_Handbook.pdf
 hero-byline:
 ---
+_June 25, 2018 - Posted by: CIO Council Support_
 
 One of the key pillars of the <a href="https://www.performance.gov/PMA/">President’s Management Agenda</a> is to <a href="https://www.performance.gov/CAP/CAP_goal_1.html">Modernize IT to Improve Productivity and Security</a>. A central pillar of the Administration’s IT Modernization strategy is to improve the skills, leadership abilities, and overall pipeline of talent in the Federal government to address our growing cybersecurity threats. Building security into technology from the beginning is a critical component of the Administration’s modernization efforts and essential to securely delivering effective, efficient, customer-centered services to our citizens.
  
