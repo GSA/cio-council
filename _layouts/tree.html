@@ -1,12 +1,8 @@
 ---
 layout: base
 ---
-<link rel="stylesheet" href="/assets/tree/Treant.css">
-<link rel="stylesheet" href="/assets/tree/collapsable.css">
-<link rel="stylesheet" href="/assets/tree/vendor/perfect-scrollbar/perfect-scrollbar.css">
-
 <section >
-  <div class="standard-unit" style="background-image: url('{{ page.background-image | prepend: site.baseurl }}'); height: 200px;">
+  <div class="standard-unit" style="background-image: url('{{ page.background-image | prepend: site.baseurl }}'); height: auto;">
     <section class="usa-grid usa-section">
         <div  style="position: absolute; bottom: 0;">
         <h1 style="font-family: 'Poppins', sans-serif; COLOR: #515151; font-size: 42px; align: left;">{{ page.hero-text }}</h1>
@@ -24,44 +20,20 @@ layout: base
   </div>
 </div>
 </section>
-<!-- jquerytree
 <section>
-  <script src="/assets/tree/vendor/raphael.js"></script>
-  <script src="/assets/tree/Treant.js"></script>
-  <script src="/assets/tree/collapsable.js"></script>
+  <script src="{{ site.baseurl }}/assets/tree/vendor/raphael.js"></script>
+  <script src="{{ site.baseurl }}/assets/tree/Treant.js"></script>
+  <script src="{{ site.baseurl }}/assets/tree/vendor/jquery.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/tree/vendor/jquery.easing.js"></script>
+  
+  
+  <script src="{{ site.baseurl }}/assets/tree/collapsable.js"></script>
   <script>
     tree = new Treant( chart_config );
   </script>
   <div id="collapsable-example" class="chart Treant loaded">
  </div>
 </section>
--->
-<BR><BR>
 
-
-{% if page.banner-heading %}
-<section class="usa-section banner tagline" style="background-color: #a1b1bc;">
-  <div class="usa-grid">
-
-    <div class="usa-width-one-whole usa-end-row">
-
-<!--
-    <div class="usa-width-whole hero-content">
-  -->
-<h2>{{ page.banner-heading }}</h2>
-      {% if page.banner-text %}
-        <p>{{ page.banner-text }}</p>
-      {% endif %}
-      {% if page.banner-button-text %}
-      <div class="center-content">
-        <a href="{{ page.banner-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.banner-button-text }}</a>
-      </div>
-      {% endif %}
-    </div>
-  </div>
-</section>
-{% endif %}
-
-    <BR>
 
  {% include quick.links.html %}
