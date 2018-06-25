@@ -1,0 +1,28 @@
+---
+layout: blog-sidenav
+body-class: home
+title: The Chief Information Security Officer (CISO) Handbook
+permalink: /ciso-handbook/
+background-image: /assets/img/grey.background.png
+hero-text: The Chief Information Security Officer (CISO) Handbook
+navtitle: More on the CISO Handbook
+related: "Blog: Introducing a New, Informative Resource for Security Professionals"
+relatedurl: /2018/06/25/ciso-handbook/
+attachment: /assets/files/CISO_Handbook.pdf
+button: Download the Handbook
+---
+The CISO Handbook was created to educate and inform new and existing CISOs about their role in Federal cybersecurity. It provides resources to help CISOs responsibly apply risk management principles to help Federal agencies meet mission objectives, and makes CISOs aware of laws, policies, tools, and initiatives that can assist them as they develop or improve cybersecurity programs for their organizations. 
+
+The Handbook is a key document, coordinated through the CIO and CISO Councils, to improve the vital federal cybersecurity reskilling and workforce development efforts outlined in the <a href="https://www.performance.gov/PMA/">President’s Management Agenda</a>. Below are **five takeaways** from the handbook: 
+  
++ Overview of the **CISO role** (page 7) and **key government-wide organizations** (page 11).
+
++ **CISO Reference Sections** with high-level information about important cybersecurity documents:
+  - **Federal risk management** publications (page 31)
+  - **Government-wide policy** documents (page 50) 
+
++ Information on the <a href="https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf">Framework for Improving Critical Infrastructure Cybersecurity</a> (also known as **the NIST Cybersecurity Framework or the CSF**) and how it can be leveraged in conjunction with other NIST risk management publications.
+
++ Resources and links for **workforce, contracting**, and other **government-wide services** with which CISOs should be familiar.
+
++ Extensive, searchable **appendices** that consolidate **key statutory language, policy templates, government-wide services**, and other previously disparate resources.
