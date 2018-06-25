@@ -21,6 +21,7 @@ layout: base
 </div>
 </section>
 <section>
+  <div class="chart Treant loaded" id="collapsable-example"></div>
   <script src="{{ site.baseurl }}/assets/tree/vendor/raphael.js"></script>
   <script src="{{ site.baseurl }}/assets/tree/Treant.js"></script>
   <script src="{{ site.baseurl }}/assets/tree/vendor/jquery.min.js"></script>
@@ -29,10 +30,8 @@ layout: base
   
   <script src="{{ site.baseurl }}/assets/tree/collapsable.js"></script>
   <script>
-    tree = new Treant( chart_config );
+    const tree = new Treant(chart_config);
   </script>
-  <div id="collapsable-example" class="chart Treant loaded">
- </div>
 </section>
 
 
