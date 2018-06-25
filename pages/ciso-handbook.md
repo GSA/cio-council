@@ -27,6 +27,8 @@ The Handbook is a key document, coordinated through the CIO and CISO Councils, t
 
 + Extensive, searchable **appendices** that consolidate **key statutory language, policy templates, government-wide services**, and other previously disparate resources.
 
+### ANNUAL REPORTING SCHEDULE
+
 |  | FY Q1 | FY Q2 | FY Q3 | FY Q4 |
 |-------|--------|---------|--------|---------|
 | Esimated Deadline | January | April | July | October |
