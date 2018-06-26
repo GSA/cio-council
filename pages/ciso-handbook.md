@@ -13,6 +13,8 @@ button: Download the Handbook
 ---
 The CISO Handbook was created to educate and inform new and existing CISOs about their role in Federal cybersecurity. It provides resources to help CISOs responsibly apply risk management principles to help Federal agencies meet mission objectives, and makes CISOs aware of laws, policies, tools, and initiatives that can assist them as they develop or improve cybersecurity programs for their organizations. 
 
+<br>
+
 The Handbook is a key document, coordinated through the CIO and CISO Councils, to improve the vital federal cybersecurity reskilling and workforce development efforts outlined in the <a href="https://www.performance.gov/PMA/">President’s Management Agenda</a>. Below are **five takeaways** from the handbook: 
   
 + Overview of the **CISO role** (page 7) and **key government-wide organizations** (page 11).
