@@ -2,15 +2,17 @@
 layout: home
 body-class: home
 permalink: /
-hero-image: /assets/img/ciodotgovbanner-gear3.png
-hero-text: "Agency IT modernization plans must be focused on delivering better service to the public, and in doing so should be developed in furtherance of these priorities. This will result in building and maintaining a modern, secure, and resilient IT, which improves the lives of the American public."
-hero-byline2: "PRESIDENT'S MANAGEMENT AGENDA"
-hero-byline: LEARN MORE ABOUT THE ROLE OF THE CIO COUNCIL IN IMPLEMENTING THE CROSS-AGENCY PRIORITY GOALS.
+hero-image: /assets/img/banners/2018.06.25-CISO-banner.png
+hero-text: "CISO HANDBOOK" 
+hero-byline2: 
+hero-byline: A COMPREHENSIVE REFERENCE FOR FEDERAL CHIEF INFORMATION SECURITY OFFICERS
 hero-button-text: Read More
-hero-button-link: /PMA-landing/
+hero-button-link: /ciso-handbook/
 banner-heading: NEWS AND UPDATES
 banner-text: 
 
+  - <a href="/2018/06/25/ciso-handbook/"> June 25, 2018 - Introducing a New, Informative Resource for Security Professionals</a><br>
+  
   - <a href="/2018/06/22/Emerging-Technologies-Roundtable-Blog/"> June 22, 2018 - Digital Transformation Artificial Intelligence and the Workforce</a><br>
  
   - <a href="/2018/06/18/TBM-FBO-Blog/"> June 18, 2018 - Help Wanted, Increase the Effectiveness of your Tax Dollar!</a><br>
