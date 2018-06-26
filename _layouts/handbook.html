@@ -1,0 +1,75 @@
+---
+layout: base
+---
+
+
+  <div class="usa-section" style="background-image: url('{{ page.background-image | prepend: site.baseurl }}'); height: auto;">
+    <section class="usa-grid">
+        <h1 style="font-family: 'Poppins', sans-serif; COLOR: #515151; font-size: 42px; align: left;">{{ page.hero-text }}</h1>
+      </section>    
+  </div>
+
+  	
+<section class="usa-section">
+<div class="usa-grid">
+  <div class="usa-width-two-thirds">
+   <font style="font-size:18px;">
+    {{  content  }}
+    </font>
+  </div>
+  <div class="usa-width-one-third">
+    <a href="{{ page.attachment | prepend: site.baseurl }}"><button class="usa-button-gray usa-button-big">{{ page.button }}</button></a>
+   <h6 class="usa-heading-alt">{{ page.navtitle }}</h6>
+        <nav>
+            <ul class="usa-sidenav-list">
+                <li>
+                    <a href="{{ page.relatedurl | prepend: site.baseurl }}" class="usa-current">{{ page.related }}</a>
+                </li>
+            </ul>
+        </nav>
+  </div>                           
+ </div>
+ <br><br>
+ <div class="usa-grid"> 
+  <div class="usa-width-one-whole">
+  <h3 style="font-family: 'Poppins'; COLOR: #515151;">ANNUAL REPORTING SCHEDULE</h3>
+  <table>
+    <thead>
+        <tr>
+          <th></th>
+          <th>FY Q1</th>
+          <th>FY Q2</th>
+          <th>FY Q3</th>
+          <th>FY Q4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+           <th>Esitmated Deadline</th>
+           <td>January</td>
+           <td>April</td>
+           <td>July</td>
+           <td>October</td>
+        </tr>
+      <tr>
+           <th>Reporting</th>
+           <td>Q1 CIO FISMA Reporting<br> Annual HVA Reporting</td>
+           <td>Q2 CIO FISMA Reporting</td>
+           <td>Q3 CIO FISMA Reporting</td>
+           <td>Annual CIO FISMA Reporting <br>Annual IG FISMA Reporting<br>Annual SAOP FISMA Reporting</td>
+        </tr>
+      <tr>
+           <th>Responsible Parties</th>
+           <td>CFO Act Agencies (required)<br>Small agencies (optional)</td>
+           <td>All Civilian Agencies</td>
+           <td>CFO Act Agencies (required)<br>Small agencies (optional)</td>
+           <td>All Civilian Agencies</td>
+        </tr>
+    </tbody>
+   </table>
+  </div>
+</div>
+</section>
+
+
+ {% include quick.links.html %}
