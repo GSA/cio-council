@@ -33,7 +33,7 @@ The Handbook is a key document, coordinated through the CIO and CISO Councils, t
 
 |  | FY Q1 | FY Q2 | FY Q3 | FY Q4 |
 |-------|--------|---------|--------|---------|
-| **Esimated Deadline** | January | April | July | October |
+| **Estimated Deadline** | January | April | July | October |
 | **Reporting** | Q1 CIO FISMA Reporting<br/><br/> Annual HVA  Reporting | Q2 CIO FISMA Report | Q3 CIO FISMA Reporting | Annual CIO FISMA Reporting <br/><br/> Annual IG FISMA Reporting <br/><br/> Annual SAOP FISMA Reporting|
 | **Responsible Parties** | CFO Act Agencies (Required) <br/><br/>Small Agenies (Optional) | All Civilian Agencies | CFO Act Agencies (Requried) <br/><br/> Small Agencies (Optional) | All Civilian Agencies|
 
