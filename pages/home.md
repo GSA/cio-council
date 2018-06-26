@@ -11,7 +11,7 @@ hero-button-link: /ciso-handbook/
 banner-heading: NEWS AND UPDATES
 banner-text: 
 
-  - <a href="/2018/06/25/ciso-handbook/"> June 25, 2018 - Introducing a New, Informative Resource for Security Professionals</a><br>
+  - <a href="/2018/06/25/ciso-handbook/"> June 26, 2018 - Introducing a New, Informative Resource for Security Professionals</a><br>
   
   - <a href="/2018/06/22/Emerging-Technologies-Roundtable-Blog/"> June 22, 2018 - Digital Transformation Artificial Intelligence and the Workforce</a><br>
  
