@@ -3,22 +3,16 @@ layout: base
 ---
 
 <section>
- <link href="https://fonts.googleapis.com/css?family=Montserrat|Raleway" rel="stylesheet">
-  <div class="hero-unit" style="background-image: url('{{ page.hero-image | prepend: site.baseurl }}')">
-    <div class="usa-grid"  style="text-align:center">
+  <div class="usa-hero" style="background-image: url('{{ page.hero-image | prepend: site.baseurl }}')">
+   <div class="usa-grid">
+      <div class="usa-hero-callout usa-section">
+          <h3 style="font-family: 'Raleway', sans-serif; COLOR: #e2e2e2; font-size: 24px; text-align: left;">{{ page.hero-text }}</h3>
  
-      <div class="usa-width-whole">
-        <div style="padding: 45px; margin: 0 auto;">
-          <h3 style="font-family: 'Montserrat', sans-serif; COLOR: #808080; font-size: 24px; text-align: left;">"{{ page.hero-text }}"</h3>
- 
-          <h4 style="font-family: 'Raleway', sans-serif; COLOR: #d4b22a; font-size: 18px; text-align: left;">{{ page.hero-byline2 }}</h4>
-          <BR>
-          <h4 style="font-family: 'Raleway', sans-serif; COLOR: #808080; font-size: 13px; text-align: left;">{{ page.hero-byline }}</h4>
+          <h4 style="font-family: 'Montserrat', sans-serif; COLOR: #FFFFFF; font-size: 18px; text-align: left;">{{ page.hero-byline2 }}</h4>
+          <h4 style="font-family: 'Raleway', sans-serif; COLOR: #aaaaaa; font-size: 13px; text-align: left;">{{ page.hero-byline }}</h4>
           <a class="usa-button" href="{{ page.hero-button-link | prepend: site.baseurl }}">{{ page.hero-button-text }}</a>
-        </div>
-      </div>
-      
-</div>
+    </div>   
+   </div>
   </div>
 </section>
 
