@@ -14,7 +14,7 @@ button: Download the Handbook
 attachment: /assets/files/CISO_Handbook.pdf
 hero-byline:
 ---
-_June 25, 2018 - Posted by: CIO Council Support_
+<i>June 25, 2018 - Posted by: CIO Council Support</i>
 
 <br>
 
