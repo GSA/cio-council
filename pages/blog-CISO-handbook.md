@@ -2,7 +2,7 @@
 layout: blog-sidenav
 body-class: home
 title: "Introducing a New, Informative Resource for Security Professionals"
-blog-date: June 25, 2018
+blog-date: June 26, 2018
 blog-author: CIO Council Support
 permalink: /2018/06/25/ciso-handbook/
 background-image: /assets/img/grey.background.png
@@ -14,7 +14,7 @@ button: Download the Handbook
 attachment: /assets/files/CISO_Handbook.pdf
 hero-byline:
 ---
-<i>June 25, 2018 - Posted by: CIO Council Support</i>
+<i>June 26, 2018 - Posted by: CIO Council Support</i>
 
 <br>
 
