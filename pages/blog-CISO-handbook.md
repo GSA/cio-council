@@ -15,7 +15,7 @@ attachment: /assets/files/CISO_Handbook.pdf
 hero-byline:
 ---
 _June 25, 2018 - Posted by: CIO Council Support_
-
+<br>
 One of the key pillars of the <a href="https://www.performance.gov/PMA/">President’s Management Agenda</a> is to <a href="https://www.performance.gov/CAP/CAP_goal_1.html">Modernize IT to Improve Productivity and Security</a>. A central pillar of the Administration’s IT Modernization strategy is to improve the skills, leadership abilities, and overall pipeline of talent in the Federal government to address our growing cybersecurity threats. Building security into technology from the beginning is a critical component of the Administration’s modernization efforts and essential to securely delivering effective, efficient, customer-centered services to our citizens.
  
 In recognition of these critical goals, the Chief Information Security Officers Council (CISO Council) sought to produce the “CISO Handbook” – a compendium of key information and actionable templates and processes – to provide a “one stop shop” for new and emerging information security professionals to begin their upskilling into future cybersecurity executives. The Handbook is a foundational document that will help agency leadership drive transformational workforce changes in a standardized, repeatable manner and create greater collaboration and coordination across agencies to address systemic cybersecurity challenges.
