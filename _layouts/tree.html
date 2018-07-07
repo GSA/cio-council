@@ -2,7 +2,7 @@
 layout: base
 ---
 
-<section >
+<section class="usa-section">
   <div class="standard-unit" style="background-image: url('{{ page.background-image | prepend: site.baseurl }}'); height: auto;">
     <section class="usa-grid usa-section">
         <div  style="position: absolute; bottom: 0;">
@@ -11,10 +11,9 @@ layout: base
       </section>
   </div>
 </section>
-
-<section>
+<section class="usa-section">
 <div class="usa-grid">
-  <div class="usa-width-one-half">
+  <div class="usa-width-one-whole">
     {{ content }}
     <br>
     <a class="usa-button" href="{{ page.attachment | prepend: site.baseurl }}">View Mindmap</a>
@@ -23,9 +22,14 @@ layout: base
 </section>
   <link rel="stylesheet" href="{{ '/assets/tree/Treant.css' | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ '/assets/tree/collapsable.css' | prepend: site.baseurl }}">
-<section>
+<section class="usa-section">
+<div class="usa-grid">
+  <div class="usa-width-one-whole">
+    <div class="chart Treant loaded" id="collapsable-example"></div>
+  </div>
+</div>
+</section>
 
-  <div class="chart Treant loaded" id="collapsable-example"></div>
   <script src="{{ site.baseurl }}/assets/tree/vendor/raphael.js"></script>
   <script src="{{ site.baseurl }}/assets/tree/Treant.js"></script>
   <script src="{{ site.baseurl }}/assets/tree/vendor/jquery.min.js"></script>
@@ -190,7 +194,7 @@ layout: base
 const tree = new Treant(chart_config);
 
   </script>
-</section>
+
 
 
  {% include quick.links.html %}
