@@ -7,3 +7,9 @@ background-image: /assets/img/grey.background.png
 hero-text: CISO Handbook
 attachment: /assets/files/policy-mindmap.pdf
 ---
+The following is an interactive list of key government-wide reference policies and memos. These documents collect many of the key information security requirements with which Federal agencies must comply.
+
+A more comprehensive list of policies related to cybersecurity can be found in the of the appendices of the CISO Handbook.
+Additional policies and related resources can be found on <a href="https://omb.gov">OMB.gov</a> and
+<a href="http://dhs.gov">DHS.gov</a>
+ 
