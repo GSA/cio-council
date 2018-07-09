@@ -54,7 +54,7 @@ body {
   border: 1px solid #c1c1c1;
   border-radius: 20px;
   max-width: 175px;
-  font-family: 'Raleway', sans-serif;
+  font-family: sans-serif;
 }
 
 .Treant>.node img {
