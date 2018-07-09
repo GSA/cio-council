@@ -20,17 +20,14 @@ layout: base
   <div class="usa-width-one-fourth">
     <a class="usa-button" href="{{ page.attachment | prepend: site.baseurl }}">Download Mindmap PDF</a>
   </div>
+  <div class="usa-width-one-whole">
+    <div class="chart Treant loaded" id="collapsable-example"></div>
+  </div>
 </div>
 </section>
 
   <link rel="stylesheet" href="{{ '/assets/mind-map/Treant.css' | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ '/assets/mind-map/collapsable.css' | prepend: site.baseurl }}">
-<section class="usa-section usa-grid">
-  <div class="usa-width-one-whole">
-    <div class="chart Treant loaded" id="collapsable-example"></div>
-  </div>
-</section>
-
   <script src="{{ site.baseurl }}/assets/mind-map/vendor/raphael.js"></script>
   <script src="{{ site.baseurl }}/assets/mind-map/Treant.js"></script>
   <script src="{{ site.baseurl }}/assets/mind-map/vendor/jquery.min.js"></script>
