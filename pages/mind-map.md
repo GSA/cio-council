@@ -12,3 +12,5 @@ Below is an interactive list of key government-wide reference policies and memos
 A more comprehensive list of policies related to cybersecurity can be found in the of the appendices of the CISO Handbook.
 Additional policies and related resources can be found on <a href="https://omb.gov">OMB.gov</a> and
 <a href="http://dhs.gov">DHS.gov</a>
+
+_*This interactive list does not fully function on mobil devices_
