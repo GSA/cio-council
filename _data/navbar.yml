@@ -3,6 +3,7 @@ assigned:
         text: About
         href: pages/about.md
         permalink: /about/
+        sectionid: basic-nav-section-one
         show_in_menu: false
         show_in_footer: true
         children:
@@ -14,7 +15,7 @@ assigned:
               permalink: /about/members-and-leadership/
           -
               text: Committees & Communities of Practice
-              permalink:
+              permalink: /about/committees-cops/
 
     -
         text: Agenda
@@ -22,6 +23,7 @@ assigned:
         permalink: /cioc-priorities/
         show_in_menu: true
         show_in_footer: true
+        sectionid: basic-nav-section-two
         children:
           -
               text: Priorities
