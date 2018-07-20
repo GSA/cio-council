@@ -16,7 +16,6 @@
   {% endif %}
   <div class="usa-footer-secondary_section">
     <div class="usa-grid">
-
       <div class="usa-footer-logo usa-width-one-half">
         {% if site.footer.image %}
           <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="Logo image">
@@ -46,19 +45,19 @@
           {% endif %}
           <p><a href="mailto:{{ site.footer.contact.email }}">{{ site.footer.contact.email }}</a></p>
         </address>
-
       </div>
-    </div>
-    <div clas="usa-width-one-half">
+
+    <div clas="usa-footer-contact-links usa-width-one-half">
       <div role="search">
-      <form class="search-form" id="search_form" role="search" action="https://search.usa.gov/search" method="get" accept-charset="UTF-8">
-        <LABEL><INPUT name="utf8" type="hidden" value="✓">
-         <INPUT name="affiliate" id="affiliate" type="hidden" value="ciomain">
+        <form class="search-form" id="search_form" role="search" action="https://search.usa.gov/search" method="get" accept-charset="UTF-8">
+          <LABEL><INPUT name="utf8" type="hidden" value="✓">
+            <INPUT name="affiliate" id="affiliate" type="hidden" value="ciomain">
               <INPUT name="query" class="usagov-search-autocomplete search-field" id="query" type="search" placeholder="Search …" value="" autocomplete="off">
                 <INPUT class="search-submit" type="submit" value="Search">
-      </LABEL>
-      </form>
+                </LABEL>
+        </form>
       </div>
+    </div>
     </div>
   </div>
 </footer>
