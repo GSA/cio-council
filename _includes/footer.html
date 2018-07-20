@@ -16,29 +16,26 @@
   {% endif %}
   <div class="usa-footer-secondary_section">
     <div class="usa-grid">
-      
-        <FORM class="search-form" id="search_form" role="search" action="https://search.usa.gov/search" 
-method="get" 
-accept-charset="UTF-8">
-      
-      <div class="usa-footer-logo usa-width-one-half">
+
+      <div class="usa-footer-logo usa-width-one-third">
         {% if site.footer.image %}
           <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="Logo image">
         {% endif %}
         {% if site.footer.text %}
           <p>{{ site.footer.text }} <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/{{ page.path }}" target="_blank">Suggest an edit</a>.</p>
         {% endif %}
-        <LABEL><INPUT name="utf8" type="hidden" value="✓">        
-         <INPUT name="affiliate" id="affiliate" type="hidden" value="ciomain">   
-              <INPUT name="query" class="usagov-search-autocomplete search-field" id="query" type="search" placeholder="Search …" value="" autocomplete="off"> 
-                <INPUT class="search-submit" type="submit" value="Search">       
-      </LABEL>         
-        
-        
-      </div>
-           </form>
-           
-      <div class="usa-footer-contact-links usa-width-one-half">
+        </div>
+    <div class="usa-width-one-third">
+      <FORM class="search-form" id="search_form" role="search" action="https://search.usa.gov/search" method="get" accept-charset="UTF-8">
+        <LABEL><INPUT name="utf8" type="hidden" value="✓">
+         <INPUT name="affiliate" id="affiliate" type="hidden" value="ciomain">
+              <INPUT name="query" class="usagov-search-autocomplete search-field" id="query" type="search" placeholder="Search …" value="" autocomplete="off">
+                <INPUT class="search-submit" type="submit" value="Search">
+      </LABEL>
+      </form>
+    </div>
+
+      <div class="usa-footer-contact-links usa-width-one-third">
           <a class="usa-link-twitter" href="https://twitter.com/ciodotgov"><span>Twitter</span></a>
           {% if site.footer.contact.facebook %}
           <a class="usa-link-facebook" href="https://facebook.com/{{ facebook }}"><span>Facebook</span></a>
@@ -46,9 +43,9 @@ accept-charset="UTF-8">
           {% if site.footer.contact.youtube %}
           <a class="usa-link-youtube" href="https://youtube.com/{{ youtube }}"><span>YouTube</span></a>
           {% endif %}
-        
+
           <a class="usa-link-rss" href="{{ site.baseurl }}/data/cio.rss"><span>RSS feed</span></a>
-        
+
         <address>
           {% if site.footer.contact.name %}
             <h3 class="usa-footer-contact-heading">{{ site.footer.contact.name }}</h3>

@@ -51,7 +51,7 @@ defaults:
     path: "" # an empty string here means all files in the project
   values:
     layout:
- 
+
 
 forms:
 - type: newsletter
@@ -69,17 +69,23 @@ forms:
 
 footer:
   links:
-    
-        
-        
+      - text: About
+        permalink: /about/
+      - text: Agenda
+        permalink: /cioc-priorities/
+      - text: Blog
+        permalink: /blog/
+      - text: Reources
+        permalink: /resources/
+
   image: /assets/img/CIO-council-Logo-silver1.png
   contact:
     name: CIO Council
     email: feedback@cio.gov
     twitter:
       - ciodotgov
-    rss: https://federalist-proxy.app.cloud.gov/site/gsa/cio-council/data/cio.rss
-  text:
+    rss: https://www.cio.gov/feed/
+  text: 
  # Change to a tag line for your agency
 
 # Build settings
