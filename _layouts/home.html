@@ -17,34 +17,29 @@ layout: base
 </section>
 
 <section class="usa-section">
-
-  <div class="usa-grid ">
-  <div class="usa-width-one-half">
-    <A HREF="cioc-priority-tbm/"><IMG SRC="assets/img/cio.priority.png" border=0
-                                                   alt="CIO Priority - TBM" height=117 width=115></A>
-      <h2 class="priority_title">CIO Council Priority:<BR>
-        Technology Business Management</h2>
+  <div class="usa-grid usa-graphic_list-row">
+    <div class="usa-width-one-half usa-media_block">
+    <A HREF="cioc-priority-tbm/"><IMG  class="usa-media_block-img" SRC="assets/img/cio.priority.png" border=0 alt="CIO Priority - TBM" height=117 width=115></A>
+      <div class="usa-media_block-body">
+      <h3 class="priority_title">Technology Business Management</h3>
       <p class="priority">
       Federal Agencies are currently at various stages of implementing TBM. The CIO Council,
       the General Services Administration (GSA), and the Office of the Federal CIO (OFCIO) are
       committed to guiding agency adoption of TBM.</p>
+    </div>
 
   </div>
-  <div class="usa-width-one-half">
+    <div class="usa-width-one-half usa-media_block">
 
-    <A HREF="2018/03/20/presidents-management-agenda-release/"><IMG SRC="assets/img/ciopriority_pma_2.png"
-          border=0 alt="CIO Priority - President's Management Agenda" height=117 width=115></A>
-        <h2 class="priority_title">CIO Council Priority: <br> President's Management Agenda Release</h2>
+    <A HREF="2018/03/20/presidents-management-agenda-release/"><IMG SRC="assets/img/ciopriority_pma_2.png" class="usa-media_block-img"border=0 alt="CIO Priority - President's Management Agenda" height=117 width=115></A>
+      <div class="usa-media_block-body">
+        <h3 class="priority_title">President's Management Agenda</h3>
       <br><p>The CIO Council, in collaboration with the other CXO communities, will play a leading role in working to fulfill a number of CAP goals outlined by the PMA.</p>
-
+    </div>
   </div>
-  </div>
+</div>
 
 </section>
-
-
-
-
 
 {% if page.banner-heading %}
 <section class="usa-section banner tagline" style="background-color: #a1b1bc;">
@@ -52,26 +47,7 @@ layout: base
 
     <div class="usa-width-one-whole usa-end-row">
 
-<!--
-    <div class="usa-width-whole hero-content">
-  -->
-<h2>{{ page.banner-heading }}</h2>
-      {% if page.banner-text %}
-        <p>{{ page.banner-text }}</p>
-      {% endif %}
-      {% if page.banner-button-text %}
-      <div class="center-content">
-        <a href="{{ page.banner-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.banner-button-text }}</a>
-      </div>
-      {% endif %}
-    </div>
-  </div>
-</section>
-{% endif %}
-
-      <!--
-<section class="usa-grid usa-section">
-  <div class="usa-width-one-whole usa-end-row"></div>
-</section>
-    -->
  {% include quick.links.html %}
+</div>
+</div>
+</section>
