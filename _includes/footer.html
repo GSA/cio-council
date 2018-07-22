@@ -1,8 +1,8 @@
 <footer class="usa-footer usa-footer-medium" role="contentinfo">
   {% if site.footer.links %}
   <div class="usa-footer-primary-section">
-    <div class="usa-grid-full">
-      <nav class="usa-footer-nav">
+    <div class="usa-grid">
+      <nav class="usa-footer-nav usa-width-two-thirds">
         <ul class="usa-unstyled-list">
         {% for link in site.footer.links %}
           <li class="usa-width-one-sixth usa-footer-primary-content">
@@ -11,6 +11,16 @@
         {% endfor %}
         </ul>
       </nav>
+      <div class="usa-sign_up-block usa-width-one-third">
+        <h3 class="usa-sign_up-header">Sign up</h3>
+
+        <label class="" for="email" id="">Your email address</label>
+        <input id="email" name="email" type="email">
+
+        <button type="submit">Search</button>
+      </div>
+    </div>
+  </div>
     </div>
   </div>
   {% endif %}
