@@ -2,53 +2,70 @@
 layout: base
 ---
 
-<section >
-  <div class="standard-unit" style="background-image: url('{{ page.background-image | prepend: site.baseurl }}'); height: 200px;">
-    <section class="usa-grid usa-section">
-        <div  style="position: absolute; bottom: 0;">
-        <h1 style="font-family: 'Poppins', sans-serif; COLOR: #515151; font-size: 42px; align: left;">{{ page.hero-text }}</h1>
-        </div>
-      </section>    
-  </div>
-</section>
+<section class="usa-section usa-section-dark usa-graphic_list">
+   <div class="usa-grid usa-graphic_list-row">
+     <div class="usa-width-one-half usa-media_block">
+       <div class="usa-media_block-body">
+         <a href="{{ site.baseurl }}/news" style="text-decoration:none;">
 
-<div style="margin: auto; width: 60%;">
-  <BR>
-   <h1 style="font-family: 'Poppins', sans-serif; COLOR: #515151; font-size: 26px; align: left;"><B>{{ page.blog-title }}</B></H1>
-  <I>{{page.blog-date }} - Posted by: {{ page.blog-author }}</I><BR><BR>
+           <b>&#10094; &nbsp; Back to News</a></b>
 
-    <font style="font-size:18px;">
-{{  content    }}
-    </font>
-      
-  </div>
-  
-<BR><BR>
+           <p class="card-tag-post"> {{ page.agency }}</p>
+              <h1-post>{{ page.title }}
+              </h1>
+              {% include post-author.html context="page" %}
 
-
-{% if page.banner-heading %}
-<section class="usa-section banner tagline" style="background-color: #a1b1bc;">
-  <div class="usa-grid">
-
-    <div class="usa-width-one-whole usa-end-row">
-     
-<!--
-    <div class="usa-width-whole hero-content">
-  -->
-<h2>{{ page.banner-heading }}</h2>
-      {% if page.banner-text %}
-        <p>{{ page.banner-text }}</p>
-      {% endif %}
-      {% if page.banner-button-text %}
-      <div class="center-content">
-        <a href="{{ page.banner-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.banner-button-text }}</a>
       </div>
-      {% endif %}
+    </div>
+<div class="usa-width-one-half">
+    <!-- <img src="{{ site.baseurl }}{{ page.image }}">-->
     </div>
   </div>
+  </div>
 </section>
-{% endif %}
-    
-    <BR>
 
- {% include quick.links.html %}
+<section class="usa-section usa-graphic_list">
+   <div class="usa-grid usa-graphic_list-row">
+      <div class="usa-width-two-thirds usa-media_block">
+        <div class="usa-media_block-body">
+            <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+          </p>
+
+          <span class="card-tag-text">Tags:</span><br>
+          <span class="post-tags" itemprop="keywords">
+            {% for tag in page.tags %}
+              <span class="usa-label">
+              <a href="{{ site.baseurl }}/tags/{{ tag}}/">{{ tag }}</a>
+              </a>
+            </span>
+            {% endfor %}
+          <p>
+            {{ content }}
+          </p>
+      </div>
+<br />
+      {% if page.previous or page.next %}
+        <section class="post-pagination usa-grid">
+          <div class="usa-width-one-half">
+            {% if page.previous %}
+              <b><a href="{{ site.baseurl }}{{ page.previous.url }}" style="text-decoration:none;">
+                <span class="link-arrow-left">
+                &#10094;  Previous Post
+                </span>
+                <h5>&ldquo;{{ page.previous.title }}&rdquo;</h5>
+              </a></b>
+            {% endif %}
+          </div>
+          <div class="usa-width-one-half">
+            {% if page.next %}
+                <b><a href="{{ site.baseurl }}{{ page.next.url }}" style="text-decoration:none;">
+                  <span class="link-arrow-right">
+                    Next Post &#10095;
+                                    </span>
+                  <h5>&ldquo;{{ page.next.title }}&rdquo;</h5>
+                </a></b>
+            {% endif %}
+          </div>
+        </section>
+{% endif %}
+{% include quick.links.html %}
