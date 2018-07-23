@@ -104,10 +104,10 @@ collections:
     output: true
   team:
     output: true
-    
+
 plugins: [jekyll-paginate]
 paginate: 6
-paginate_path: /blog/page:num/
+paginate_path: /blogs/page:num/
 
 
 wds-version: 1.1.0
