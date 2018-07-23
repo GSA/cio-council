@@ -102,8 +102,6 @@ exclude:
 collections:
   blogs:
     output: true
-  projects:
-    output: true
   team:
     output: true
 
