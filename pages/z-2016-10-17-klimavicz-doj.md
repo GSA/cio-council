@@ -1,7 +1,7 @@
 ---
 layout: blog
 body-class: home
-title: Blog - Future Ready Workforce: DOJ’s IT Workforce Strategy
+title: Blog Future Ready Workforce: DOJ’s IT Workforce Strategy
 blog-date: October 17, 2016
 blog-author: Joseph Klimavicz			
 blog-title: Future Ready Workforce: DOJ’s IT Workforce Strategy
@@ -9,12 +9,12 @@ permalink: /2016/10/17/future-ready-workforce-dojs-it-workforce-strategy/
 background-image: /assets/img/grey.background.png
 hero-text:  News & Updates
 hero-byline:
-hero-button-text: 
-hero-button-link: 
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
+hero-button-text:
+hero-button-link:
+banner-heading:
+banner-text:
+banner-button-text:
+banner-button-link:
 ---
 <img src="https://www.cio.gov/assets/img/bio.klimavicz.joe.png"><BR>
 As the Department of Justice (DOJ) Chief Information Officer, I am often asked which new products or technology advancements will support our critical missions of litigation and law enforcement. Although I frequently engage with industry and government agencies about products or services to best suit our immediate and future needs, there is one, often overlooked resource – its people. Workforce is a critical component for any successful IT organization to effectively support the mission.
