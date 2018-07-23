@@ -5,12 +5,12 @@ layout: base
 <div class="usa-grid usa-section usa-content">
   <aside class="usa-width-one-fourth">
     <ul class="usa-sidenav-list">
-      {% for project in site.projects %}
+      {% for blog in site.blogs %}
           <li>
-            {% if page.permalink == project.permalink %}
-              <a class="usa-current" href="{{ project.permalink | prepend: site.baseurl }}">{{ project.title }}</a>
+            {% if page.permalink == blog.permalink %}
+              <a class="usa-current" href="{{ blog.permalink | prepend: site.baseurl }}">{{ blog.title }}</a>
             {% else %}
-              <a href="{{ project.permalink | prepend: site.baseurl }}">{{ project.title }}</a>
+              <a href="{{ blog.permalink | prepend: site.baseurl }}">{{ blog.title }}</a>
             {% endif %}
           </li>
       {% endfor %}
