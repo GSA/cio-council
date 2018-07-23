@@ -106,13 +106,7 @@ collections:
     output: true
 
 plugins: jekyll-paginate-v2
-pagination:
-     enabled: true
-     per_page: 3
-     title: ':title - page :num'
-     limit: 0
-     trail:
-        before: 2
-        after: 2
+paginate_path: blogs/page:num/
+paginate: 5
 
 wds-version: 1.1.0
