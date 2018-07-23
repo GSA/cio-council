@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: base
 title: CIO Council Blog
 permalink: /blog/
 background-image: /assets/img/grey.background.png
