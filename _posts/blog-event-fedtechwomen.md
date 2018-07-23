@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 body-class: home
 title: CIO Council Honors Women in Tech for Women's History Month
 blog-date: March 30, 2018
@@ -9,12 +9,12 @@ permalink:  /2018/03/30/blog-event-fedtechwomen/
 background-image: /assets/img/grey.background.png
 hero-text:  News & Updates
 hero-byline:
-hero-button-text: 
-hero-button-link: 
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
+hero-button-text:
+hero-button-link:
+banner-heading:
+banner-text:
+banner-button-text:
+banner-button-link:
 ---
 
 <em>This blog entry is a cross post of a GSA press release on behalf of the CIO Council</em>
