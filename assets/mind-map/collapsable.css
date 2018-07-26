@@ -139,7 +139,7 @@ body {
 
 .law {
   background-color: #ddaddd;
-  color: #ffff;
+  color: #ffffff;
 }
 
 .law-child{
@@ -148,7 +148,7 @@ body {
 
 .guidance {
   background-color: #7d5d96;
-  color: #fff;
+  color: #ffffff;
 }
 .guidance-child{
   background-color: #d0c8f7;
@@ -156,7 +156,7 @@ body {
 
 .policy {
   background-color: #406d3b;
-  color: #fff;
+  color: #ffffff;
 }
 .policy-child {
   background-color: #a9d66f;
@@ -170,11 +170,11 @@ body {
 
 .standards {
   background-color: #40aef7;
-  color: #fff;
+  color: #ffffff;
 }
 .standards-child{
   background-color: #3862a5;
-  color: #fff
+  color: #ffffff;
 }
 
 .standards-grandchild{
