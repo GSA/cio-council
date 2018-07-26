@@ -83,15 +83,16 @@ body {
 
 .chart {
   height: 600px;
-  margin: 5px;
-  width: 1000px;
+  margin: 0px;
+  width: 1100x;
 }
 
 .Treant>.node {
   padding: 10px 15px;
   border: 1px solid #c1c1c1;
   border-radius: 20px;
-  max-width: 150px;
+  min-width: 50px;
+  max-width: 160px;
 }
 
 .Treant>.node img {
@@ -119,11 +120,17 @@ body {
 
 .node-name {
   font-weight: 700;
-  font-size: 16px;
+  font-size: 14x;
 }
 
 .node-desc {
-  font-size: 13px;
+  font-size: 12px;
+  display: none;
+  z-index: -1
+}
+.node:hover .node-desc{
+  display: block;
+  z-index: 1000
 }
 
 .governance {
@@ -132,7 +139,7 @@ body {
 
 .law {
   background-color: #ddaddd;
-  color: #eaeaea;
+  color: #ffff;
 }
 
 .law-child{
