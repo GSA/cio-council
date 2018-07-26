@@ -1,6 +1,13 @@
 ---
 layout: base
 ---
+ <link rel="stylesheet" href="{{ '/assets/mind-map/Treant.css' | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ '/assets/mind-map/collapsable.css' | prepend: site.baseurl }}">
+  <script src="{{ site.baseurl }}/assets/mind-map/vendor/raphael.js"></script>
+  <script src="{{ site.baseurl }}/assets/mind-map/Treant.js"></script>
+  <script src="{{ site.baseurl }}/assets/mind-map/vendor/jquery.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/mind-map/vendor/jquery.easing.js"></script>
+
 <section >
   <div class="standard-unit" style="background-image: url('{{ page.background-image | prepend: site.baseurl }}'); height: 200px;">
     <section class="usa-grid usa-section">
@@ -21,17 +28,12 @@ layout: base
 </div>
 <div class="usa-grid">
   <div class="usa-width-one-whole">
-    <div class="chart Treant loaded" id="collapsable-example"></div>
+   
   </div>
 </div>
 </section>
 
-  <link rel="stylesheet" href="{{ '/assets/mind-map/Treant.css' | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ '/assets/mind-map/collapsable.css' | prepend: site.baseurl }}">
-  <script src="{{ site.baseurl }}/assets/mind-map/vendor/raphael.js"></script>
-  <script src="{{ site.baseurl }}/assets/mind-map/Treant.js"></script>
-  <script src="{{ site.baseurl }}/assets/mind-map/vendor/jquery.min.js"></script>
-  <script src="{{ site.baseurl }}/assets/mind-map/vendor/jquery.easing.js"></script>
+ 
 
 
   <script>
