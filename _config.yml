@@ -108,8 +108,6 @@ collections:
 plugins_dir: jekyll-paginate-v2
 pagination:
   enabled: true
-  collection: 'blogs'
-  permalink: 'blog/:num/'
   per_page: 5
   sort_field: 'date'
   sort_reverse: true
