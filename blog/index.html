@@ -6,8 +6,8 @@ pagination:
   per_page: 5
 ---
 {% for post in paginator.posts %}
-  <h3>{{ post.title }}</h3>
-  <h6>{{post.URL}}</h6>
+  <a href="{{post.url | prepend: site.baseurl}}"><h3>{{ post.title }}</h3></a>
+
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
