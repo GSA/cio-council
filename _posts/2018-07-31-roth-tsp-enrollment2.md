@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Servicemember TSP Enrollment
 description: A single email to military Servicemembers nearly doubled the rate of enrollment for a savings plan.
 permalink: /projects/tsp-enrollment/
