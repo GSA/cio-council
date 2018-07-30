@@ -14,9 +14,7 @@ abstract: /assets/files/microloans-for-farmers.pdf
 
 Many farms in the United States, including smaller and newer enterprises, do not have access to the credit they need to build and sustain their operations. To fulfill this need, the Farm Service Agency (FSA) at the United States Department of Agriculture (USDA) provides small amounts of credit to qualified borrowers who have been unable to obtain farm credit from commercial lenders. This extension of credit might be especially helpful for new farmers, or farmers who are establishing operations such as urban farms that are not served by the commercial lending industry. Farms like these often lack the type of business records necessary to qualify for commercial loans, creating a catch-22 situation that makes it difficult to build new businesses. Microloans are a particular type of loan offered by FSA that helps to fulfill the needs of businesses like these.
 
-## What is the insight?
 
-In order to provide credit to a broad array of agricultural entrepreneurs, especially those who might be new to farming and who might not participate in other USDA programs, it is critical to widely share information about the availability of microloans.  This information must be concise and targeted, providing individuals with clear action steps that they can take to learn more about, and potentially apply for, loans from FSA.
 
 ## What was the intervention?
 
