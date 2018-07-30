@@ -2,7 +2,7 @@
 layout: post
 title: Servicemember TSP Enrollment
 description: A single email to military Servicemembers nearly doubled the rate of enrollment for a savings plan.
-permalink: /projects/tsp-enrollment/
+url: /2018-07-31-roth-tsp-enrollment
 tags: project
 image: /assets/img/project-images/roth-tsp-enrollment.jpg
 abstract: /assets/files/servicemember-tsp-enrollment.pdf
