@@ -5,8 +5,11 @@ layout: base
 <section class="usa-section usa-section-dark">
   <div class="usa-grid">
     <h1> {{ page.title }}</h1>
+  </div>
 </section>
 <section class="usa-section">
+  <div class="usa-grid">
+    <div class="usa-width-one-whole"
     {% if page.image %}
     <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
     {% endif %}
