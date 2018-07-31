@@ -5,11 +5,12 @@ pagination:
   enabled: true
   per_page: 5
 ---
+<div class="usa-width-one-whole">
 {% for post in paginator.posts %}
   <a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
 
 {% endfor %}
-
+</div>
 {% if paginator.total_pages > 1 %}
 <ul>
   {% if paginator.previous_page %}
