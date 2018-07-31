@@ -5,12 +5,11 @@ layout: base
 <div class="usa-grid usa-section usa-content">
   <aside class="usa-width-one-fourth">
     <ul class="usa-sidenav-list">
+      <h5>Recent Posts</h5>
       {% for post in site.posts %}
           <li>
-            {% if page.permalink == blog.permalink %}
-              <a class="usa-current" href="{{ post.permalink | prepend: site.baseurl }}">{{ post.title }}</a>
-            {% else %}
-              <a href="{{ post.permalink | prepend: site.baseurl }}">{{ post.title }}</a>
+            {% if page.permalink == blog.permalink limit:4 %}
+              <a href="{{ post.url }}">{{ post.title }}</a>
             {% endif %}
           </li>
       {% endfor %}
