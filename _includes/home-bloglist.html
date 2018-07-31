@@ -17,7 +17,7 @@
           <span>{{ post.title }}</span>
         </h3>
         <h6>By: {{ post.author }}</h6>
-        <p class="card-summary">{{ post.description }}</p>
+        <p class="card-summary">{{ post.content | strip_html | truncatewords:25 }}</p>
       </div>
       <a class="card-read" href="{{ post.url | prepend: site.baseurl }}">
         Read more
