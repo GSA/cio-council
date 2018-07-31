@@ -2,12 +2,19 @@
 layout: post
 title: Reducing Summer Melt
 description: Eight personalized text messages to low-income students resulted in a nearly 9% increase in college enrollment.
-date: 2018-07-30
+date: 2018-07-31
 tags: project
 image: /assets/img/project-images/summer-melt.jpg
 image-credit: https://www.flickr.com/photos/jenumfamily
 abstract: /assets/files/reducing-summer-melt.pdf
 ---
+<span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
+
 ## What is the issue?
 
 Every year 20 to 30 percent of college-accepted high school graduates in urban districts fail to matriculate in college in the fall—a phenomenon known as “summer melt.”
