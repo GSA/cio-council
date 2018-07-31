@@ -16,6 +16,7 @@
         <h3 class="card-description">
           <span>{{ post.title }}</span>
         </h3>
+        <h6>By: {{ post.author }}</h6>
         <p class="card-summary">{{ post.description }}</p>
       </div>
       <a class="card-read" href="{{ post.url | prepend: site.baseurl }}">

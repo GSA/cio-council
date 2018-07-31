@@ -100,7 +100,9 @@ exclude:
 
 # Inititalize project and team collections
 collections:
-  blogs:
+  highlights:
+    output: true
+  priorities:
     output: true
   team:
     output: true

@@ -3,6 +3,7 @@ layout: post
 title: Microloans for Farmers
 description: A new letter increases farmers' access to credit by 22%.
 date: 2018-06-22
+author: Jane Doe
 tags: blog test
 image: /assets/img/project-images/microloans-for-farmers.jpg
 image-credit: https://www.flickr.com/photos/usdagov
