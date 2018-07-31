@@ -1,0 +1,22 @@
+---
+layout: base
+---
+
+<section class="usa-section">
+  <div class="usa-grid">
+    <div class="usa-width-one-whole">
+      <a href="{{ site.baseurl }}/blog" style="text-decoration:none;">
+        <b>&#10094; &nbsp; Back</a></b>
+      <h1>Tag: {{ page.tag }}</h1>
+  </div>
+</div>
+</section>
+<section class="usa-section">
+  <div class="usa-grid">
+    {% for post in site.posts[page.tag] %}
+    <div class="usa-width-one-whole">
+
+
+    </div>
+  </div>
+</section>

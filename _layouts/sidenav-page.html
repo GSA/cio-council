@@ -8,7 +8,7 @@ layout: base
       <h5>Recent Posts</h5>
       {% for post in site.posts limit:4  %}
           <li>
-              <a href="{{ post.url | prepend:baseurl }}">{{ post.title }}</a>
+              <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             {% endif %}
           </li>
       {% endfor %}
