@@ -6,10 +6,9 @@ layout: base
   <aside class="usa-width-one-fourth">
     <ul class="usa-sidenav-list">
       <h5>Recent Posts</h5>
-      {% for post in site.posts %}
+      {% for post in site.posts limit:4  %}
           <li>
-            {% if page.permalink == blog.permalink limit:4 %}
-              <a href="{{ post.url }}">{{ post.title }}</a>
+              <a href="{{ post.url | prepend:baseurl }}">{{ post.title }}</a>
             {% endif %}
           </li>
       {% endfor %}
