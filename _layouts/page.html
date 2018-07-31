@@ -2,13 +2,17 @@
 layout: base
 ---
 
-<section class="usa-section usa-section-dark usa-grid">
-  <h1> {{ page.title }}</h1>
-  {% if page.image %}
-  <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
-  {% endif %}
+<section class="usa-section usa-section-dark">
+  <div class="usa-grid">
+    <h1> {{ page.title }}</h1>
+</section>
+<section class="usa-section">
+    {% if page.image %}
+    <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
+    {% endif %}
 
-  <!-- add search function here -->
-  {{ content }}
+    <!-- add search function here -->
+    {{ content }}
+    </div>
   </div>
 </section>
