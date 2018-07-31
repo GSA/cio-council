@@ -105,7 +105,9 @@ collections:
   team:
     output: true
 
-plugins_dir: jekyll-paginate-v2
+plugins_dir:
+  - jekyll-paginate-v2
+
 pagination:
   paginate_path: "blog/page:num"
   enabled: true

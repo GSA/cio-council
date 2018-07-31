@@ -11,12 +11,7 @@ pagination:
 <h6> {{ post.date | date_to_string }}</h6>
 <a href="{{ post.url | prepend: site.baseurl }}"><h3 style="margin-top:3px">{{ post.title }}</h3></a>
 <p> {{ post.description }}</p>
-<span>[
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-  {% endfor %}
-]</span>
+
 
 {% endfor %}
 </div>
