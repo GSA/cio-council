@@ -5,9 +5,10 @@ pagination:
   enabled: true
   per_page: 5
 ---
+
 <div class="usa-width-one-whole">
 {% for post in paginator.posts %}
-<h6> {{ post.date | date_to_string }}</h6>
+<h6 style="margin-top:3px"> {{ post.date | date_to_string }}</h6>
 <a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
 <p> {{ post.description }}</p>
 <span class="usa-label">{{ post.tags }}</span>
