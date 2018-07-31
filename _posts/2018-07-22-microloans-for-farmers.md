@@ -2,7 +2,7 @@
 layout: post
 title: Microloans for Farmers
 description: A new letter increases farmers' access to credit by 22%.
-url: /2018-07-22-microloans-for-farmers/
+date: 2018-07-22
 tags:
   - blog
   - test
