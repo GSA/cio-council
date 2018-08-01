@@ -16,8 +16,8 @@ pagination:
 {% if post.tags.size > 0 %}
   <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
   {% assign tags = post.tags | split: &nbsp; %}
-
-    {% for tag in page.tags %}
+  <ul class="tags">
+    {% for tag in tags %}
       <a href="{{ site.baseurl }}/tags/{{ tag }}"<li class="tag">{{ tag }}</li></a>
   </ul>
   {% endfor %}
