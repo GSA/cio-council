@@ -12,7 +12,7 @@ layout: base
 </section>
 <section class="usa-section">
   <div class="usa-grid">
-    {% for post in site.tags %}
+    {% for post in site.tags[page.tag] %}
         <p>{{ post.date | date: '%B %d, %Y' }}</p>
           <a href="{{ site.baseurl }}{{ post.permalink }}">
             <h3 style="margin-top:1em;">{{ post.title }}</h3>
