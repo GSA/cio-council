@@ -13,7 +13,10 @@ pagination:
 <a href="{{ post.url | prepend: site.baseurl }}"><h3 style="margin-top:0px">{{ post.title }}</h3></a>
 <p> {{ post.description }}</p>
 
-  {{ post.tags }}
+{% if post.tags.size > 0 %}
+  Tag{% if post.tags.size > 1 %}s{% endif %}: <br>
+  {{ post.tags | sort | join: ", " }}
+{% endif %}
 
 {% endfor %}
 </div>
