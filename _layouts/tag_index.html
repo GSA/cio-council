@@ -13,10 +13,7 @@ layout: base
 </section>
 <section class="usa-section">
   <div class="usa-grid">
-    {% for tag in site.tags %}
-    <div class="usa-width-one-whole">
-      <a href="{{ }}"><h3>{{ tag.title }}</h3>
-    {% endfor %}
+    {{ content }}
     </div>
   </div>
 </section>
