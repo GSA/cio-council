@@ -9,15 +9,13 @@ pagination:
 
 <div class="usa-width-one-whole">
 {% for post in paginator.posts %}
-  <h6 style="margin-bottom:3px"> {{ post.date | date_to_string }}</h6>
+  <h6 style="margin-bottom:3px; margin-top: 15px"> {{ post.date | date_to_string }}</h6>
   <a href="{{ post.url | prepend: site.baseurl }}"><h3 style="margin-top:0px">{{ post.title }}</h3></a>
   <p> {{ post.description }}</p>
 {% if post.tags.size > 0 %}
   <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
-  <ul>
-    {% for tags in page.tags %}
-      <li>{{ tags }}</li>
-    {% endfor %}
+  <ul class="tags">
+      <li class="tag">{{ post.tags }}</li>
   </ul>
   {% endif %}
 {% endfor %}
