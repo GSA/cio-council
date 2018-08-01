@@ -11,15 +11,18 @@ pagination:
 {% for post in paginator.posts %}
   <h6 style="margin-bottom:3px; margin-top: 15px"> {{ post.date | date_to_string }}</h6>
   <a href="{{ post.url | prepend: site.baseurl }}"><h3 style="margin-top:0px">{{ post.title }}</h3></a>
-  <p> {{ post.description }}</p>
+  <p>{{ post.content | strip_html | truncatewords:50 }}</p>
 {% if post.tags.size > 0 %}
   <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
+  {% assign tags = post.tags | split:&nbsp; %}
   <ul class="tags">
-      <li class="tag">{{ post.tags }}</li>
+    {% for tag in tags %}
+      <li class="tag">{{ tag }}</li>
   </ul>
   {% endif %}
 {% endfor %}
 </div>
+<br>
 
 <div class="usa-width-one-whole">
 {% if paginator.total_pages > 1 %}
