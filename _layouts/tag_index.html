@@ -6,13 +6,13 @@ layout: base
     <div class="usa-width-one-whole">
       <a href="{{ site.baseurl }}/blog" style="text-decoration:none;">
         <b>&#10094; &nbsp; Blog</a></b>
-      <h1>Posts tagged: {{ post.title }}</h1>
+      <h1>Posts tagged: {{ page.title }}</h1>
   </div>
 </div>
 </section>
 <section class="usa-section">
   <div class="usa-grid">
-    {% for post in site.tags[page.tag] %}
+    {% for post in site.tags %}
         <p>{{ post.date | date: '%B %d, %Y' }}</p>
           <a href="{{ site.baseurl }}{{ post.permalink }}">
             <h3 style="margin-top:1em;">{{ post.title }}</h3>
