@@ -13,12 +13,14 @@ pagination:
 <a href="{{ post.url | prepend: site.baseurl }}"><h3 style="margin-top:0px">{{ post.title }}</h3></a>
 <p> {{ post.description }}</p>
 
+  {{ post.tags }}
+
 {% endfor %}
 </div>
 
 <div class="usa-width-one-whole">
 {% if paginator.total_pages > 1 %}
-<ul>
+<ul class="pagination">
   {% if paginator.previous_page %}
   <li>
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
