@@ -14,7 +14,7 @@ pagination:
   <p>{{ post.content | strip_html | truncatewords:50 }}</p>
 {% if post.tags.size > 0 %}
   <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
-  {% assign tags = post.tags | split:'' %}
+  {% assign tags = post.tags | split:'&nbsp;' %}
   <ul class="tags">
     {% for tag in tags %}
       <li class="tag">{{ tag }}</li>
