@@ -16,10 +16,10 @@ pagination:
   <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
   {% assign tags = post.tags | split:&nbsp; %}
   <ul class="tags">
-
+    {% for tag in tags %}
       <li class="tag">{{ tag }}</li>
   </ul>
-
+  {% endfor %}
   {% endif %}
 {% endfor %}
 </div>
