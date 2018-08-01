@@ -18,7 +18,7 @@ pagination:
   {% assign tags = post.tags | split: &nbsp; %}
   <ul class="tags">
     {% for tag in tags %}
-      <a href="{{ site.baseurl }}/tags{{ tag }}"<li class="tag">{{ tag }}</li>
+      <a href="{{ site.baseurl }}/tags/{{ tag }}"<li class="tag">{{ tag }}</li></a>
   </ul>
   {% endfor %}
   {% endif %}
