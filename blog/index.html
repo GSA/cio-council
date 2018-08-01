@@ -14,10 +14,11 @@ pagination:
 <p> {{ post.description }}</p>
 
 {% if post.tags.size > 0 %}
-  Tag{% if post.tags.size > 1 %}s{% endif %}: <br>
-  {{ post.tags | sort | join: ", " }}
-{% endif %}
-
+  <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b> <br>
+  <ul class="tags">
+    <li class="tag">{{ post.tags | sort | join: ", " }}</li>
+  {% endif %}
+  </ul>
 {% endfor %}
 </div>
 
