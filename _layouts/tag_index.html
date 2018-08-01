@@ -13,7 +13,21 @@ layout: base
 </section>
 <section class="usa-section">
   <div class="usa-grid">
-    {{ content }}
+    {% for post in site.tags[page.tag] %}
+        <p class="card-tag">{{ post.date | date: '%B %d, %Y' }}</p>
+
+          <a href="{{ site.baseurl }}{{ post.permalink }}">
+            <h3 style="margin-top:1em;">{{ post.title }}</h3>
+          </a>
+          <p>{{ post.description}}</p>
+          {% assign tags = post.tags %}
+          {% for tag in tags %}
+            <span class="usa-label">
+              <a href="{{ site.baseurl }}/tags/{{ tag }}/">{{ tag }}</a>
+            </span>
+            {% endfor %}
+            <hr align="left">
+            {% endfor %}
     </div>
   </div>
 </section>
