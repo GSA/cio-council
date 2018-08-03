@@ -111,8 +111,11 @@ collections:
   tags:
     output: true
 
-plugins_dir:
+gems:
   - jekyll-paginate-v2
+  - jekyll-tagging
+
+tag_page_layout: tag_index
 
 pagination:
   paginate_path: "blog/page:num"
