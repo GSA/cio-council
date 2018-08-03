@@ -111,7 +111,7 @@ collections:
   tags:
     output: true
 
-gems:
+plugins_dir:
   - jekyll-paginate-v2
   - jekyll-tagging
 
