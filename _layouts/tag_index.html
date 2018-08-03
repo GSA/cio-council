@@ -13,8 +13,7 @@ layout: base
 <section class="usa-section">
   <div class="usa-grid">
     <ul>
-  {% assign posts = site.tags[page.tags] %}
-  {% for post in posts %}
+  {% for post in site.tags[page.tags] %}
     <li>
         {{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
     </li>

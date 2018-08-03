@@ -12,7 +12,6 @@ group :jekyll_plugins do
   gem 'jekyll-archives', git: 'git://github.com/jekyll/jekyll-archives.git', ref: '112c508'
   gem 'jekyll-feed', "~> 0.6"
   gem 'jekyll-paginate-v2'
-  gem 'jekyll-tagging'
   gem 'jekyll-redirect-from'
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
