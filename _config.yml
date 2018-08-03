@@ -113,7 +113,6 @@ collections:
 
 plugins_dir:
   - jekyll-paginate-v2
-  - jekyll-tagging
 
 tag_page_layout: tag_index
 
