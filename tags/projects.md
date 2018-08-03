@@ -1,6 +1,6 @@
 ---
 layout: tag_index
 title: Project
-tags: project
+tag: project
 permalink: /tags/project/
 ---

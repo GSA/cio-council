@@ -6,26 +6,19 @@ layout: base
     <div class="usa-width-one-whole">
       <a href="{{ site.baseurl }}/blog" style="text-decoration:none;">
         <b>&#10094; &nbsp; Blog</a></b>
-      <h1>Posts tagged: {{ page.title }}</h1>
+      <h1>Posts tagged: {{ page.tag | capitalize }}</h1>
   </div>
 </div>
 </section>
 <section class="usa-section">
   <div class="usa-grid">
-    {% for post in site.posts[page.tag] %}
-        <p>{{ post.date | date: '%B %d, %Y' }}</p>
-          <a href="{{ site.baseurl }}{{ post.permalink }}">
-            <h3 style="margin-top:1em;">{{ post.title }}</h3>
-          </a>
-          <p>{{ post.description}}</p>
-          {% assign tags = post.tags %}
-          {% for tag in tags %}
-            <span class="usa-label">
-              <a href="{{ site.baseurl }}/tags/{{ tag }}/">{{ tag }}</a>
-            </span>
-            {% endfor %}
-            <hr align="left">
-            {% endfor %}
+    <ul>
+    {% for post in site.tags[page.tag] %}
+    <li>
+        {{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+    </ul>
     </div>
   </div>
 </section>
