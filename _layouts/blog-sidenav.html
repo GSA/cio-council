@@ -6,23 +6,26 @@ layout: base
     <h1> {{ page.hero-text }}</h1>
   </div>
 </section>
-  <div class="usa-width-three-fourths usa-content" id="main" tabindex="-1">
-     {{ content }}
-  </div>
+<section class"usa-section">
   <div class="usa-grid usa-section usa-content">
-    <aside class="usa-width-one-fourth">
+    <div class="usa-width-three-fourths usa-content" id="main" tabindex="-1">
+       {{ content }}
+    </div>
 
-        <h5>Tags</h5>
-        {% assign tags = site.tags | sort %}
-         <ul class="tags">
-        {% for tag in tags %}
-            <a href="/tag/{{ tag | first | slugify }}/"
-                style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
-                    <li class="tag">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})</li></a>
-            </a>
-        </ul>
-        {% endfor %}
-      <br>
-      <b><a href="{{ site.baseurl }}/blog">&#10094; &nbsp; BLOG</a></b>
-    </aside>
-  </div>
+      <aside class="usa-width-one-fourth">
+
+          <h5>Tags</h5>
+          {% assign tags = site.tags | sort %}
+           <ul class="tags">
+          {% for tag in tags %}
+              <a href="/tag/{{ tag | first | slugify }}/"
+                  style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+                      <li class="tag">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})</li></a>
+              </a>
+          </ul>
+          {% endfor %}
+        <br>
+        <b><a href="{{ site.baseurl }}/blog">&#10094; &nbsp; BLOG</a></b>
+      </aside>
+    </div>
+</section>
