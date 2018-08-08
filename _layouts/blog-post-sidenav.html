@@ -29,7 +29,8 @@ layout: base
      {{ content }}
   </div>
   <aside class="usa-width-one-fourth">
-    {% assign maxRelated = 4 %}
+    <h5>Related Posts</h5>
+  {% assign maxRelated = 4 %}
   {% assign minCommonTags =  1 %}
   {% assign maxRelatedCounter = 0 %}
 
@@ -50,7 +51,6 @@ layout: base
       {% endif %}
     {% endfor %}
     {% if sameTagCount >= minCommonTags %}
-      <h5>Related Posts</h5>
     <ul class="usa-sidenav-list">
           <li>
               <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
