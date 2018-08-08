@@ -50,8 +50,8 @@ layout: base
       {% endif %}
     {% endfor %}
     {% if sameTagCount >= minCommonTags %}
-    <ul class="usa-sidenav-list">
       <h5>Related Posts</h5>
+    <ul class="usa-sidenav-list">
           <li>
               <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </li>
@@ -63,7 +63,7 @@ layout: base
      {% endfor %}
     </ul>
     <br>
-    <b><a href="{{ site.baseurl }}/blog">&#10094; &nbsp; BLOG</a></b>
   </aside>
+  <b><a href="{{ site.baseurl }}/blog">&#10094; &nbsp; BLOG</a></b>
 
 </div>
