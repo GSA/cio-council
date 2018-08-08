@@ -16,9 +16,9 @@ layout: base
       {% for tag in tags %}
         <a href="{{ site.baseurl }}/tags/{{ tag }}"<li class="tag">{{ tag }}</li></a>
     </ul>
-    <br>
     {% endfor %}
     {% endif %}
+    <br>
   <div class="usa-width-three-fourths usa-content" id="main" tabindex="-1">
     {% if page.image %}
       <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
