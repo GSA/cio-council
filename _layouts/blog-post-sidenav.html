@@ -7,17 +7,10 @@ layout: base
     <h5> By: {{ page.author }} </h5>
   </div>
 </section>
+<br><br>
 <div class="usa-grid usa-content">
   <div class="usa-width-three-fourths usa-content" id="main" tabindex="-1">
-    {% if post.tags.size > 0 %}
-      <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
-      {% assign tags = post.tags %}
-      <ul class="tags">
-        {% for tag in tags %}
-          <a href="{{ site.baseurl }}/tags/{{ tag }}"<li class="tag">{{ tag }}</li></a>
-      </ul>
-      {% endfor %}
-      {% endif %}
+
     {% if page.image %}
       <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
     {% endif %}
