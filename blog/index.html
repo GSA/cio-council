@@ -1,13 +1,14 @@
 ---
-layout: page
+layout: blog-sidenav
 title: CIOC Blog
 hero-text: CIOC Blog
 pagination:
   enabled: true
   per_page: 5
 ---
-
-<div class="usa-width-one-whole">
+<section class="usa-section">
+  <div class="usa-grid">
+    <div class="usa-width-one-whole">
 {% for post in paginator.posts %}
   <h6 style="margin-bottom:3px; margin-top: 15px"> {{ post.date | date_to_string }}</h6>
   <a href="{{ post.url | prepend: site.baseurl }}"><h3 style="margin-top:0px">{{ post.title }}</h3></a>
@@ -47,3 +48,6 @@ pagination:
 </ul>
 {% endif %}
 </div>
+
+    </div>
+</section>

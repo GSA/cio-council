@@ -1,34 +1,28 @@
 ---
 layout: base
 ---
-
-<div class="usa-grid usa-section usa-content">
-  <aside class="usa-width-one-fourth">
-
-      <h5>Tags</h5>
-      {% assign tags = site.tags | sort %}
-      {% for tag in tags %}
-       <span class="site-tag">
-          <a href="/tag/{{ tag | first | slugify }}/"
-              style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
-                  {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
-          </a>
-      </span>
-      {% endfor %}
-    <br>
-    <b><a href="{{ site.baseurl }}/blog">&#10094; &nbsp; BLOG</a></b>
-  </aside>
+<section class="usa-section usa-section-dark">
+  <div class="usa-grid">
+    <h1> {{ page.hero-text }}</h1>
+  </div>
+</section>
   <div class="usa-width-three-fourths usa-content" id="main" tabindex="-1">
-    <h1>{{ page.title }}</h1>
-    <h5> By: {{ page.author }} </h5>
-
-    {% if page.image %}
-      <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
-    {% endif %}
-    {% if page.image-credit %}
-      <span class="caption"><a href="{{page.image-credit}}" target="_blank">Photo credit</a> (Creative Commons)</span>
-    {% endif %}
-
      {{ content }}
   </div>
-</div>
+  <div class="usa-grid usa-section usa-content">
+    <aside class="usa-width-one-fourth">
+
+        <h5>Tags</h5>
+        {% assign tags = site.tags | sort %}
+         <ul class="tags">
+        {% for tag in tags %}
+            <a href="/tag/{{ tag | first | slugify }}/"
+                style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+                    <li class="tag">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})</li></a>
+            </a>
+        </ul>
+        {% endfor %}
+      <br>
+      <b><a href="{{ site.baseurl }}/blog">&#10094; &nbsp; BLOG</a></b>
+    </aside>
+  </div>
