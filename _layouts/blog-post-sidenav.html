@@ -3,12 +3,23 @@ layout: base
 ---
 <section class="usa-section usa-section-dark">
   <div class="usa-grid">
-    <h1> {{ page.hero-text }}</h1>
+    <h1> {{ page.title }}</h1>
     <h5> By: {{ page.author }} </h5>
+    <h5>{{ post.date | date_to_string }}</h5>
   </div>
 </section>
-<div class="usa-grid usa-section usa-content">
+<div class="usa-grid usa-content">
   <div class="usa-width-three-fourths usa-content" id="main" tabindex="-1">
+    <h6>Tags: </h6>
+    {% if post.tags.size > 0 %}
+      <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
+      {% assign tags = post.tags %}
+      <ul class="tags">
+        {% for tag in tags %}
+          <a href="{{ site.baseurl }}/tags/{{ tag }}"<li class="tag">{{ tag }}</li></a>
+      </ul>
+      {% endfor %}
+      {% endif %}
     {% if page.image %}
       <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
     {% endif %}
