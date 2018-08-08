@@ -12,7 +12,7 @@ layout: base
   <div class="usa-width-three-fourths usa-content" id="main" tabindex="-1">
     {% if page.tags.size > 0 %}
       <b>Tag{% if page.tags.size > 1 %}s{% endif %}:</b>
-      {% assign tags = post.tags %}
+      {% assign tags = page.tags %}
       <ul class="tags">
         {% for tag in tags %}
           <a href="{{ site.baseurl }}/tags/{{ tag }}"<li class="tag">{{ tag }}</li></a>
