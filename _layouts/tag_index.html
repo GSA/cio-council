@@ -15,8 +15,24 @@ layout: base
 
       {% for post in site.tags[page.tag] %}
 
-          {{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
+            <h6 style="margin-bottom:3px; margin-top: 15px"> {{ post.date | date_to_string }}</h6>
+            <a href="{{ post.url | prepend: site.baseurl }}"><h3 style="margin-top:0px">{{ post.title }}</h3></a>
+            <h5>By: {{ post.author }}</h5>
+            <p>{{ post.content | strip_html | truncatewords:50 }}</p>
 
+            {% if post.tags.size > 0 %}
+              <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
+              {% assign tags = post.tags %}
+              <ul class="tags">
+                {% for tag in tags %}
+                  <a href="{{ site.baseurl }}/tags/{{ tag }}"<li class="tag">{{ tag }}</li></a>
+              </ul>
+              {% endfor %}
+              {% endif %}
+              <br><br>
+              <hr>
+              <br>
+            {% endfor %}
       {% endfor %}
 
     </div>
