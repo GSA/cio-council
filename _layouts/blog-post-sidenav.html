@@ -10,8 +10,8 @@ layout: base
 <br><br>
 <div class="usa-grid usa-content">
   <div class="usa-width-three-fourths usa-content" id="main" tabindex="-1">
-    {% if post.tags.size > 0 %}
-      <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
+    {% if page.tags.size > 0 %}
+      <b>Tag{% if page.tags.size > 1 %}s{% endif %}:</b>
       {% assign tags = post.tags %}
       <ul class="tags">
         {% for tag in tags %}
