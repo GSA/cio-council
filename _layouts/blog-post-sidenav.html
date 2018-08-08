@@ -10,6 +10,7 @@ layout: base
 <br><br>
 <div class="usa-grid usa-content">
   {% if page.tags.size > 0 %}
+    <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
     {% assign tags = page.tags %}
     <ul class="tags">
       {% for tag in tags %}
@@ -29,14 +30,11 @@ layout: base
      {{ content }}
   </div>
   <aside class="usa-width-one-fourth">
-    {% assign maxRelated = 4 %}
+      <h5>Related Posts</h5>
+  {% assign maxRelated = 4 %}
   {% assign minCommonTags =  1 %}
   {% assign maxRelatedCounter = 0 %}
-
-
   {% for post in site.posts %}
-
-
     {% assign sameTagCount = 0 %}
     {% assign commonTags = '' %}
 
@@ -51,7 +49,6 @@ layout: base
     {% endfor %}
     {% if sameTagCount >= minCommonTags %}
     <ul class="usa-sidenav-list">
-      <h5>Related Posts</h5>
           <li>
               <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </li>
@@ -63,7 +60,7 @@ layout: base
      {% endfor %}
     </ul>
     <br>
-    <b><a href="{{ site.baseurl }}/blog">&#10094; &nbsp; BLOG</a></b>
   </aside>
+  <b><a href="{{ site.baseurl }}/blog">&#10094; &nbsp; BLOG</a></b>
 
 </div>
