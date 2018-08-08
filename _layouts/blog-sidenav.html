@@ -2,32 +2,33 @@
 layout: base
 ---
 
-  <div class="usa-section" style="background-image: url('{{ page.background-image | prepend: site.baseurl }}'); height: auto;">
-    <section class="usa-grid">
-        <h1 style="font-family: 'Poppins', sans-serif; COLOR: #515151; font-size: 42px; align: left;">{{ page.hero-text }}</h1>
-      </section>    
-  </div>
+<div class="usa-grid usa-section usa-content">
+  <aside class="usa-width-one-fourth">
 
-<section class="usa-section">  	
-<div class="usa-grid">
-  <div class="usa-width-two-thirds">
-   <font style="font-size:18px;">
-    {{  content  }}
-    </font>
-  </div>
-  <div class="usa-width-one-third">
-    <a href="{{ page.attachment | prepend: site.baseurl }}"><button class="usa-button-gray usa-button-big">{{ page.button }}</button></a>
-   <h6 class="usa-heading-alt">{{ page.navtitle }}</h6>
-        <nav>
-            <ul class="usa-sidenav-list">
-                <li>
-                    <a href="{{ page.relatedurl | prepend: site.baseurl }}" class="usa-current">{{ page.related }}</a>
-                </li>
-            </ul>
-        </nav>
-   </div>                           
-  </div>
-</section>
+      <h5>Tags</h5>
+      {% assign tags = site.tags | sort %}
+      {% for tag in tags %}
+       <span class="site-tag">
+          <a href="/tag/{{ tag | first | slugify }}/"
+              style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+                  {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
+          </a>
+      </span>
+      {% endfor %}
+    <br>
+    <b><a href="{{ site.baseurl }}/blog">&#10094; &nbsp; BLOG</a></b>
+  </aside>
+  <div class="usa-width-three-fourths usa-content" id="main" tabindex="-1">
+    <h1>{{ page.title }}</h1>
+    <h5> By: {{ page.author }} </h5>
 
+    {% if page.image %}
+      <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
+    {% endif %}
+    {% if page.image-credit %}
+      <span class="caption"><a href="{{page.image-credit}}" target="_blank">Photo credit</a> (Creative Commons)</span>
+    {% endif %}
 
- {% include quick.links.html %}
+     {{ content }}
+  </div>
+</div>
