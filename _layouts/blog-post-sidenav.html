@@ -29,7 +29,7 @@ layout: base
 
      {{ content }}
   </div>
-  <aside class="usa-width-one-fourth">
+  <div class="usa-width-one-fourth">
       <h5>Related Posts</h5>
   {% assign maxRelated = 4 %}
   {% assign minCommonTags =  1 %}
@@ -52,15 +52,16 @@ layout: base
           <li>
               <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </li>
+      </ul>
           {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
          {% if maxRelatedCounter >= maxRelated %}
            {% break %}
          {% endif %}
        {% endif %}
      {% endfor %}
-    </ul>
     <br>
-  </aside>
-  <b><a href="{{ site.baseurl }}/blog">&#10094; &nbsp; BLOG</a></b>
+    <b><a href="{{ site.baseurl }}/blog">&#10094; &nbsp; BLOG</a></b>
+  </div>
+
 
 </div>
