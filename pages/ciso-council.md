@@ -25,13 +25,13 @@ The Council promotes collaboration and community building among Federal Agency C
 * Performance Metrics
 
 ## LEADERSHIP
-Grant Schneider, Chair
-Acting Federal Chief Information Security Officer
-Office of Management and Budget
+Grant Schneider, Chair  
+Acting Federal Chief Information Security Officer  
+Office of Management and Budget  
 
-Cord Chase, Co-Chair
-Chief Information Security Officer
-Office of Personnel Management
+Cord Chase, Co-Chair  
+Chief Information Security Officer  
+Office of Personnel Management  
 
 
 The [MAX Federal CISO Council Page](https://community.max.gov/display/Egov/Federal+CISO+Council) (login required) provides tools and resources to encourage information sharing and collaboration.

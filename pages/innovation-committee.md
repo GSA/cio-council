@@ -17,9 +17,9 @@ Innovation can bring about both incremental growth and radical change in how we 
 
 
 ## LEADERSHIP
-Maria Roat, Chair
-Chief Information Officer
-Small Business Administration
+Maria Roat, Chair  
+Chief Information Officer  
+Small Business Administration  
 
 
 

@@ -16,16 +16,16 @@ The Services, Strategy, and Infrastructure (SSI) Committee operates under the au
 * Shared Services
 
 ## LEADERSHIP
-Joseph Klimavicz, Co-Chair
-Chief Information Officer
-Department of Justice
+Joseph Klimavicz, Co-Chair  
+Chief Information Officer  
+Department of Justice  
 
-Sylvia Burns, Co-Chair
-Chief Information Officer
-Department of the Interior
+Sylvia Burns, Co-Chair  
+Chief Information Officer  
+Department of the Interior  
 
-David Shive, Co-Chair
-Chief Information Officer
-General Services Administration
+David Shive, Co-Chair  
+Chief Information Officer  
+General Services Administration  
 
 The [SSI MAX page](https://community.max.gov/x/URp5K) (login required) provides tools and resources to encourage information sharing and collaboration.

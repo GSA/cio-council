@@ -15,13 +15,13 @@ The Workforce Committee's agenda encompasses the full employment life cycle: wor
 * Strategic Career Roadmaps
 
 ## LEADERSHIP
-Jason Gray, Co-Chair
-Chief Information Officer
-Department of Education
+Jason Gray, Co-Chair  
+Chief Information Officer  
+Department of Education  
 
-Beth Killoran, Co-Chair
-Chief Information Officer
-Department of Health and Human Services
+Beth Killoran, Co-Chair  
+Chief Information Officer  
+Department of Health and Human Services  
 
 
 The [Workforce Committee Max Page](https://community.max.gov/display/Egov/CIO+Council+Workforce+Committee) (login required) provides tools and resources to encourage information sharing and collaboration.

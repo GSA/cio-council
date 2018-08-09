@@ -16,9 +16,9 @@ The Accessibility Committee serves as the principal interagency forum to improve
   *  Increasing awareness of the Section 508 law, regulations, and expectations for Federal employees.
 
 ## LEADERSHIP
-Craig Luigart
-Executive Advisor for Technology
-Department of Veterans Affairs
+Craig Luigart  
+Executive Advisor for Technology  
+Department of Veterans Affairs  
 
 ## RESOURCES
 * [GSA’s Government-wide Section 508 Accessibility Program (Section508.gov)](http://section508.gov/)
