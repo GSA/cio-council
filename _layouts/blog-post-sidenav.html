@@ -54,11 +54,12 @@ layout: base
           {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
          {% if maxRelatedCounter >= maxRelated %}
            {% break %}
+         </li>
+      </ul>
          {% endif %}
        {% endif %}
      {% endfor %}
-   </li>
-</ul>
+
     <br>
     <b><a href="{{ site.baseurl }}/blog">&#10094; &nbsp; BLOG</a></b>
   </div>
