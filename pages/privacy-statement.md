@@ -3,7 +3,7 @@ layout: page
 title: Privacy Statement
 permalink: /privacy-statement/
 background-image: /assets/img/grey.background.png
-hero-byline: Resources
+hero-byline: 
 hero-text: Privacy Statement
 ---
 Thank you for visiting CIO.gov.
