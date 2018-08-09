@@ -9,7 +9,7 @@ The Accessibility Committee serves as the principal interagency forum to improve
 
   *  Promoting accountability and transparency for agency progress on implementing the Section 508 standards;
   *  Identifying and promoting best practices for implementing the Section 508 law and the Section 508 Electronic and Information Technology Accessibility Standards;
-  *    Engaging disability advocacy groups, industry, and academia to tap into new sources of information and innovation for accessible technology;
+  *  Engaging disability advocacy groups, industry, and academia to tap into new sources of information and innovation for accessible technology;
   *  Establishing and promoting a Community of Practice approach to Section 508 implementation and encouraging agencies to share successful practices and information with each other;
   *  Providing a forum for discussing cross-agency issues regarding Section 508 implementation;
   *  Providing resources such as training curricula, tools and guidance to assist agencies with Section 508 implementation; and
