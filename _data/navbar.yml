@@ -27,7 +27,7 @@ assigned:
         children:
           -
               text: Priorities
-              permalink: /agenda/Priorities/
+              permalink: /agenda/priorities/
           -
               text: Initiatives
               permalink: /agenda/initiatives/
