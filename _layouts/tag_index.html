@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-<section class="usa-section">
+<section class="usa-section usa-section-dark">
   <div class="usa-grid">
     <div class="usa-width-one-whole">
       <a href="{{ site.baseurl }}/blog" style="text-decoration:none;">
@@ -9,6 +9,7 @@ layout: base
       <h1>Blog Posts tagged: {{ page.tag }}</h1>
   </div>
 </div>
+</section>
   <div class="usa-grid">
       {% for post in site.tags[page.tag] %}
 
@@ -32,4 +33,3 @@ layout: base
       {% endfor %}
 
     </div>
-</section>
