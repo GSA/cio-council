@@ -13,7 +13,7 @@ The CIO Council is one element of an interagency support structure established t
 ## MISSION & VISION
 The U.S. CIO supports goals of greater transparency, accountability, and citizen participation in Federal Government through the use of innovative IT strategies. The U.S. CIO works to ensure information security, protect individual privacy, and save taxpayer dollars by creating a Federal Government that strategically, efficiently, and effectively uses IT to serve and protect U.S. citizens.
 
-## GOVERNING PRINCIPLES
+#### GOVERNING PRINCIPLES
 The U.S. CIO and the CIO Council establish standards against which the success of all agency programs can be measured, including:
 
 <UL>
@@ -29,5 +29,12 @@ The U.S. CIO and the CIO Council establish standards against which the success o
 The Chair of the CIO Council is the Deputy Director for Management for the Office of Management and Budget (OMB) and the Vice Chair is elected by the CIO Council from its membership. Membership on the Council comprises CIOs and Deputy CIOs from 28 Federal executive Agencies. Additional members of the Council include liaisons from the [Chief Acquisition Officers Council](http://www.caoc.gov/), [Chief Financial Officers Council](http://www.cfoc.gov/), [Chief Human Capital Officers Council](http://www.chcoc.gov/), and other groups selected by the CIO Council’s Executive Committee. Also included as members are a representative from the Office of Science and Technology Policy and representatives from OMB’s [Office of Information and Regulatory Affairs](http://www.whitehouse.gov/omb/inforeg_default).
 
 ### Committees
+* [Chief Information Security Officer Council]({{ site.baseurl }}/about/ciso-council/)
+* [Innovation Committee]({{ site.baseurl }}/about/innovation-committee)
+* [Services, Strategies, and Infrastructure Committee]({{ site.baseurl }}/about/ssi-committee)
+* [Workforce Committee]({{ site.baseurl }}/about/workforce-committee)
 
 ### Communities of Practice
+* [Technology Business Management Community of Practice]({{ site.baseurl }}/tbm-cop)
+* [Data Center Optimization Initiative Community of Practice]({{ site.baseurel }}/datacenter-cop)
+* [Accessibility Community of Practice]({{ site.baseurl }}/accessibility-cop)

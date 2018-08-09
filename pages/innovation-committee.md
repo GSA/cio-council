@@ -1,15 +1,26 @@
 ---
-layout: innovation-committee
-body-class: home
-title: Innovation Committee 
-permalink: /about/committees-affiliates/innovation-committee/
+layout: page
+title: Innovation Committee
+permalink: /about/innovation-committee/
 background-image: /assets/img/grey.background.png
 hero-text: Innovation Committee
-hero-byline:
-hero-button-text: 
-hero-button-link: 
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
 ---
+Innovation can bring about both incremental growth and radical change in how we use technology to serve the American people. The Innovation Committee, which operates under the authority of the Federal CIO Council, helps agencies to speed the adoption of new practices, processes and technologies.
+
+
+## STRATEGIC INITIATIVES
+* Investigating Emerging Technology
+* Innovative Acquisition Efforts
+* Data Analytics and Big Data
+* Sharing Best Practices
+* Transforming Mobility
+
+
+## LEADERSHIP
+> Maria Roat, Chair
+Chief Information Officer
+Small Business Administration
+
+
+
+The [Innovation Committee Max Page](https://community.max.gov/display/Egov/CIO+Council+Innovation+Committee) (login required) provides tools and resources to encourage information sharing and collaboration.
