@@ -3,6 +3,7 @@ layout: page
 title: Technology Business Management - Community of Practice
 permalink: /about/tbm-cop/
 background-image: /assets/img/grey.background.png
+hero-byline: About
 hero-text: Technology Business Management - Community of Practice
 ---
 The TBM Community of Practice (TBM CoP) was established in December 2016 as a component of the [Strategies, Services, and Infrastructure Committee]({{ site.baseurl/about/ssi-committee}}) within the CIO Council.
