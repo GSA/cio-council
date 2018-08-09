@@ -108,8 +108,7 @@ collections:
     output: true
   team:
     output: true
-  tags:
-    output: true
+
 
 plugins_dir:
   - jekyll-paginate-v2

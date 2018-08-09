@@ -1,13 +1,11 @@
 ---
-layout: sidenav-page
+layout: blog-post-sidenav
 ---
-<i>{{ page.blog-date }} - by {{ page.blog-author }}</i>
 
 {{ content }}
 
-{% if page.abstract %}
-<a class="usa-button" href="{{ page.abstract | prepend: site.baseurl }}">View Abstract</a>
+{% if page.attachment %}
+<a class="usa-button" href="{{ page.attachment | prepend: site.baseurl }}">View Abstract</a>
 {% endif %}
-
 
 <p><br></p>

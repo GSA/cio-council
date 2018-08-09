@@ -1,0 +1,66 @@
+---
+layout: base
+---
+<section class="usa-section usa-section-dark">
+  <div class="usa-grid">
+    <h1> {{ page.title }}</h1>
+    <h5> By: {{ page.author }} </h5>
+  </div>
+</section>
+<br><br>
+<div class="usa-grid usa-content">
+  {% if page.tags.size > 0 %}
+    <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
+    {% assign tags = page.tags %}
+    <ul class="tags">
+      {% for tag in tags %}
+        <a href="{{ site.baseurl }}/tags/{{ tag }}"<li class="tag">{{ tag }}</li></a>
+    </ul>
+    {% endfor %}
+    {% endif %}
+  <div class="usa-width-three-fourths usa-content" id="main" tabindex="-1">
+    {% if page.image %}
+      <br><br>
+      <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
+    {% endif %}
+    {% if page.image-credit %}
+      <span class="caption"><a href="{{page.image-credit}}" target="_blank">Photo credit</a> (Creative Commons)</span>
+    {% endif %}
+
+     {{ content }}
+  </div>
+  <aside class="usa-width-one-fourth">
+      <h5>Related Posts</h5>
+  {% assign maxRelated = 4 %}
+  {% assign minCommonTags =  1 %}
+  {% assign maxRelatedCounter = 0 %}
+  {% for post in site.posts %}
+    {% assign sameTagCount = 0 %}
+    {% assign commonTags = '' %}
+
+    {% for tag in post.tags %}
+      {% if post.url != page.url %}
+        {% if page.tags contains tag %}
+          {% assign sameTagCount = sameTagCount | plus: 1 %}
+          {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+          {% assign commonTags = commonTags | append: tagmarkup %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    {% if sameTagCount >= minCommonTags %}
+    <ul class="usa-sidenav-list">
+          <li>
+              <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+          {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+         {% if maxRelatedCounter >= maxRelated %}
+           {% break %}
+         {% endif %}
+       {% endif %}
+     {% endfor %}
+    </ul>
+    <br>
+  </aside>
+  <b><a href="{{ site.baseurl }}/blog">&#10094; &nbsp; BLOG</a></b>
+
+</div>

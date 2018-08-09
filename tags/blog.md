@@ -1,5 +1,6 @@
 ---
+layout: tag_index
 title: Blog
-tags: Blog
+tag: blog
 permalink: /tags/blog/
 ---
