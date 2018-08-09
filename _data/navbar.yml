@@ -1,15 +1,15 @@
 assigned:
     -
         text: About
-        href: pages/about.md
-        permalink: /about/
+        href:
+        permalink:
         sectionid: basic-nav-section-one
         show_in_menu: false
         show_in_footer: true
         children:
           -
-              text: Mission & Vision
-              permalink: /about/mission-vision/
+              text: About the Council
+              permalink: /about/
           -
               text: Leadership & Members
               permalink: /about/members-and-leadership/
