@@ -19,13 +19,6 @@ layout: base
     {% endfor %}
     {% endif %}
   <div class="usa-width-three-fourths usa-content" id="main" tabindex="-1">
-    {% if page.image %}
-      <br><br>
-      <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
-    {% endif %}
-    {% if page.image-credit %}
-      <span class="caption"><a href="{{page.image-credit}}" target="_blank">Photo credit</a> (Creative Commons)</span>
-    {% endif %}
 
      {{ content }}
   </div>
@@ -53,9 +46,10 @@ layout: base
               <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
          {% if maxRelatedCounter >= maxRelated %}
+       </li>
+    </ul>
            {% break %}
-         </li>
-      </ul>
+
          {% endif %}
        {% endif %}
      {% endfor %}
