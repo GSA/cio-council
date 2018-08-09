@@ -27,10 +27,10 @@ assigned:
         children:
           -
               text: Priorities
-              permalink: /cioc-Priorities/
+              permalink: /agenda/Priorities/
           -
               text: Initiatives
-              permalink: /cioc-initiatives/
+              permalink: /agenda/initiatives/
 
     -
         text: Blog
