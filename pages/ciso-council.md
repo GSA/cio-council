@@ -3,6 +3,7 @@ layout: page
 title: Chief Information Security Officer (CISO) Council
 permalink: /about/ciso-council/
 background-image: /assets/img/grey.background.png
+hero-byline: About
 hero-text: Chief Information Security Officer (CISO) Council
 ---
 The Federal Chief Information Security Officer (CISO) Council is the primary body for inter-agency CISO collaboration and communication.

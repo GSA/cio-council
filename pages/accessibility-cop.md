@@ -3,6 +3,7 @@ layout: page
 title: Accessibility Community of Practice
 permalink: /about/accessibility-cop/
 background-image: /assets/img/grey.background.png
+hero-byline: About
 hero-text: Accessibility Community of Practice
 ---
 The Accessibility Committee serves as the principal interagency forum to improve the Federal government’s implementation of Section 508. Working in conjunction with the U.S. Access Board, the Department of Justice, and the General Services Administration’s Section 508 Accessibility Program, the Accessibility Committee provides a forum for federal agencies, disability advocacy groups, industry, and academia stakeholders to enable and support the Federal government’s implementation of accessible information technology by:
