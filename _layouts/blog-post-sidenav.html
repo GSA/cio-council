@@ -51,14 +51,14 @@ layout: base
     <ul class="usa-sidenav-list">
           <li>
               <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </li>
-      </ul>
           {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
          {% if maxRelatedCounter >= maxRelated %}
            {% break %}
          {% endif %}
        {% endif %}
      {% endfor %}
+   </li>
+</ul>
     <br>
     <b><a href="{{ site.baseurl }}/blog">&#10094; &nbsp; BLOG</a></b>
   </div>
