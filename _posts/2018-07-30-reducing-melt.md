@@ -3,7 +3,7 @@ layout: blog
 title: Reducing Summer Melt
 description: Eight personalized text messages to low-income students resulted in a nearly 9% increase in college enrollment.
 date: 2018-07-30
-display-date: July 30th 2018
+display-date: 30 July 2018
 author: Jane Doe
 tags: 2018 blog test project
 image: /assets/img/project-images/summer-melt.jpg

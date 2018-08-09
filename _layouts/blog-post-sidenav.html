@@ -3,6 +3,7 @@ layout: base
 ---
 <section class="usa-section usa-section-dark">
   <div class="usa-grid">
+    <h6>{{ page.display-date }}</h6>
     <h1> {{ page.title }}</h1>
     <h4> By: {{ page.author }} </h4>
   </div>
@@ -10,8 +11,6 @@ layout: base
 <br>
 <div class="usa-grid usa-content">
   <div class="usa-width-three-fourths usa-content" id="main" tabindex="-1">
-
-  <h6>{{ page.display-date }}</h6>
   {% if page.tags.size > 0 %}
     <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
     {% assign tags = page.tags %}
