@@ -43,7 +43,7 @@ layout: base
     {% endfor %}
     {% if sameTagCount >= minCommonTags %}
     <ul class="usa-sidenav-list">
-          <li>
+          <li style="border-bottom: 1px solid #ccc">
               <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </li>
          </ul>
