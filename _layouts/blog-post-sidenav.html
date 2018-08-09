@@ -3,16 +3,14 @@ layout: base
 ---
 <section class="usa-section usa-section-dark">
   <div class="usa-grid">
-    <h1>CIO Council Blog</h1>
+    <h6 style="margin-bottom: 5px;">{{ page.display-date }}</h6>
+    <h1 style="margin-top: 0px;"> {{ page.title }}</h1>
+    <h4> By: {{ page.author }} </h4>
   </div>
 </section>
 <br>
 <div class="usa-grid usa-content">
   <div class="usa-width-three-fourths usa-content" id="main" tabindex="-1">
-    <h1 style="margin-bottom: 0px;"> {{ page.title }}</h1>
-    <h6 style="margin-top: 10px;">{{ page.display-date }}</h6>
-    <h4> By: {{ page.author }} </h4>
-
   {% if page.tags.size > 0 %}
     <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
     {% assign tags = page.tags %}
@@ -26,7 +24,7 @@ layout: base
      {{ content }}
   </div>
   <div class="usa-width-one-fourth">
-      <h4>Related Posts</h4>
+      <h4>Related Posts</h>
   {% assign maxRelated = 4 %}
   {% assign minCommonTags =  1 %}
   {% assign maxRelatedCounter = 0 %}
