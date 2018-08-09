@@ -13,7 +13,7 @@ pagination:
   <a href="{{ post.url | prepend: site.baseurl }}"><h3 style="margin-top:0px">{{ post.title }}</h3></a>
   <h5>By: {{ post.author }}</h5>
   <img src="{{ post.image | prepend: site.baseurl}}" alt="{{ post.img-alt }}" class="blogindex-img">
-  <p style="display:block; float: right;">{{ post.content | strip_html | truncatewords:50 }}</p>
+  <p>{{ post.content | strip_html | truncatewords:50 }}</p>
 
 {% if post.tags.size > 0 %}
   <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
