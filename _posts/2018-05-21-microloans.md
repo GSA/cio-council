@@ -7,6 +7,7 @@ display-date: 21 May 2018
 author: Jane Doe
 tags: 2018 project test
 image:
+img-alt:
 image-credit:
 ---
 ## What is the issue?

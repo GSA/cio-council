@@ -7,6 +7,7 @@ display-date: 22 July 2018
 author: Jane Doe
 tags: 2018 blog test
 image:
+img-alt:
 image-credit:
 attachment: /assets/files/microloans-for-farmers.pdf
 ---

@@ -7,6 +7,7 @@ display-date: 10 June 2018
 author: Jane Doe
 tags: 2018 blog test
 image: /assets/img/project-images/summer-melt.jpg
+img-alt:
 image-credit: https://www.flickr.com/photos/jenumfamily
 attachment:
 ---

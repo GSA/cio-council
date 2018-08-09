@@ -1,8 +1,8 @@
 ---
 layout: blog-sidenav
 title: CIO Council Blog
-hero-byline: CIO Council
-hero-text: Blog
+hero-byline:
+hero-text: CIO Council Blog
 pagination:
   enabled: true
   per_page: 5
@@ -13,6 +13,7 @@ pagination:
   <a href="{{ post.url | prepend: site.baseurl }}"><h3 style="margin-top:0px">{{ post.title }}</h3></a>
   <h5>By: {{ post.author }}</h5>
   <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+  <img src="{{ post.image | prepend: site.baseurl}}" alt="{{ post.img-alt }}">
 
 {% if post.tags.size > 0 %}
   <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
