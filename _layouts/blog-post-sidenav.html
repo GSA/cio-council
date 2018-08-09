@@ -8,9 +8,7 @@ layout: base
     <h4> By: {{ page.author }} </h4>
   </div>
 </section>
-<br>
-<div class="usa-grid usa-content">
-  <div class="usa-width-three-fourths usa-content" id="main" tabindex="-1">
+<div style="background-color: #d6d7d9;">
   {% if page.tags.size > 0 %}
     <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
     {% assign tags = page.tags %}
@@ -20,11 +18,15 @@ layout: base
     </ul>
     {% endfor %}
     {% endif %}
-
+    <b><a href="{{ site.baseurl }}/blog" style="float: right; text-decoration: none;">  BLOG &nbsp;  	&#10095;</a></b>
+</div>
+<br>
+<div class="usa-grid usa-content">
+  <div class="usa-width-three-fourths usa-content" id="main" tabindex="-1">
      {{ content }}
   </div>
   <div class="usa-width-one-fourth">
-      <h4>Related Posts</h>
+      <h4>Related Posts</h4>
   {% assign maxRelated = 4 %}
   {% assign minCommonTags =  1 %}
   {% assign maxRelatedCounter = 0 %}
@@ -56,7 +58,7 @@ layout: base
      {% endfor %}
 
     <br>
-    <b><a href="{{ site.baseurl }}/blog" style="float: right; text-decoration: none;">  BLOG &nbsp;  	&#10095;</a></b>
+
   </div>
 
 
