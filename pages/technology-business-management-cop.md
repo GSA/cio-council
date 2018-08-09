@@ -13,6 +13,6 @@ To learn more, please visit the [CIO Council TBM CoP MAX page](https://community
 
 
 ## RESOURCES
-* [Washington State Case Study](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/08/Washington_State_Case_Study_For-CIO.gov_.pdf
+* [Washington State Case Study](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/08/Washington_State_Case_Study_For-CIO.gov_.pdf)
 * [U.S. Environmental Protection Agency Case Study](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/10/TBM-EPA-Case-Study.pdf)
 * [U.S. Department of Justice, Executive Office for Immigration Review Case Study](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/10/EOIR_CaseStudy_FINAL_10-17.pdf)
