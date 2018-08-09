@@ -6,6 +6,7 @@ date: 2018-07-30
 display-date: 30 July 2018
 author: Jane Doe
 tags: 2018 blog test project
+image-thumbnail: /assets/img/project-images/summer-melt.jpg
 image: /assets/img/project-images/summer-melt.jpg
 img-alt:
 image-credit: https://www.flickr.com/photos/jenumfamily

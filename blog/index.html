@@ -12,7 +12,7 @@ pagination:
   <h6 style="margin-bottom:3px; margin-top: 15px"> {{ post.date | date_to_string }}</h6>
   <a href="{{ post.url | prepend: site.baseurl }}"><h3 style="margin-top:0px">{{ post.title }}</h3></a>
   <h5>By: {{ post.author }}</h5>
-  <img src="{{ post.image | prepend: site.baseurl}}" alt="{{ post.img-alt }}" class="blogindex-img">
+  <img src="{{ post.image-thumbnail | prepend: site.baseurl}}" alt="{{ post.img-alt }}" class="blogindex-img">
   <p>{{ post.content | strip_html | truncatewords:50 }}</p>
 
 {% if post.tags.size > 0 %}

@@ -6,6 +6,7 @@ date: 2018-06-22
 display-date: 22 June 2018
 author: Jane Doe
 tags: 2018 blog test
+image-thumbnail: /assets/img/project-images/microloans-for-farmers.jpg
 image: /assets/img/project-images/microloans-for-farmers.jpg
 img-alt:
 image-credit: https://www.flickr.com/photos/usdagov

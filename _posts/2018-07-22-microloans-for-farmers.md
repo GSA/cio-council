@@ -6,7 +6,8 @@ date: 2018-07-22
 display-date: 22 July 2018
 author: Jane Doe
 tags: 2018 blog test
-image: /assets/img/CIO-council-Logo-silver1.png
+image: 
+image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo
 image-credit:
 attachment: /assets/files/microloans-for-farmers.pdf
