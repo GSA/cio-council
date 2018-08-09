@@ -1,15 +1,9 @@
 ---
-layout: committees-affiliates
+layout: page
 body-class: home
 title: Committees
 permalink: /about/committees-affiliates/
 background-image: /assets/img/grey.background.png
 hero-text: Committees
 hero-byline:
-hero-button-text: 
-hero-button-link: 
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
 ---
