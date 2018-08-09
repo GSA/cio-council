@@ -7,8 +7,8 @@ display-date: 21 May 2018
 author: Jane Doe
 tags: 2018 project test
 image:
-image-thumbnail:
-img-alt:
+image-thumbnail: /assets/img/project-images/microloans-for-farmers.jpg
+img-alt: 
 image-credit:
 ---
 ## What is the issue?
