@@ -24,12 +24,12 @@ The Council promotes collaboration and community building among Federal Agency C
 * Shared Services
 * Performance Metrics
 
-##LEADERSHIP
-> Grant Schneider, Chair
+## LEADERSHIP
+Grant Schneider, Chair
 Acting Federal Chief Information Security Officer
 Office of Management and Budget
 
-> Cord Chase, Co-Chair
+Cord Chase, Co-Chair
 Chief Information Security Officer
 Office of Personnel Management
 

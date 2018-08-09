@@ -35,6 +35,6 @@ The Chair of the CIO Council is the Deputy Director for Management for the Offic
 * [Workforce Committee]({{ site.baseurl }}/about/workforce-committee)
 
 ### Communities of Practice
-* [Technology Business Management Community of Practice]({{ site.baseurl }}/tbm-cop)
-* [Data Center Optimization Initiative Community of Practice]({{ site.baseurel }}/datacenter-cop)
-* [Accessibility Community of Practice]({{ site.baseurl }}/accessibility-cop)
+* [Technology Business Management Community of Practice]({{ site.baseurl }}/about/tbm-cop)
+* [Data Center Optimization Initiative Community of Practice]({{ site.baseurel }}/about/datacenter-cop)
+* [Accessibility Community of Practice]({{ site.baseurl }}/about/accessibility-cop)
