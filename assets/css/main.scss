@@ -158,7 +158,9 @@ $on-laptop:        800px;
  .blogindex-img{
    float: left;
    display: block;
-   margin-right: 5px;
+   background-size: cover;
+   background-repeat: no-repeat;
+   margin-right: 10px;
    max-width: 30%;
    max-height: 150px;
 
