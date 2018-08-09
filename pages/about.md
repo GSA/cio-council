@@ -1,6 +1,5 @@
 ---
 layout: page
-body-class: home
 title: About the Council
 permalink: /about/
 background-image: /assets/img/grey.background.png
