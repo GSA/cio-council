@@ -5,8 +5,8 @@
       <a class="card-link" href="{{ post.url | prepend: site.baseurl }}" aria-hidden="true" tabindex="-1"></a>
       <div class="card-image"
         style="background-image: url(
-        {% if post.image_thumbnail %}
-          {{ post.image_thumbnail | prepend: site.baseurl }}
+        {% if post.image-thumbnail %}
+          {{ post.image-thumbnail | prepend: site.baseurl }}
         {% else %}
           {{ post.image | prepend: site.baseurl }}
         {% endif %}
