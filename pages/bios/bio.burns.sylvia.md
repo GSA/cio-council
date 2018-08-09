@@ -7,14 +7,10 @@ background-image: /assets/img/grey.background.png
 bio-name-text: MS. SYLVIA BURNS
 bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. DEPARTMENT OF INTERIOR
-bio-image-url: /assets/img/bio.burns.sylvia.png
+bio-image-url: /assets/img/members/bio_Burns.png
 bio-image-alt-text: Sylvia Burns
 bio-phone: 202-208-6194
 bio-email: sylvia_burns@ios.doi.gov
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
 ---
 Sylvia Burns joined the federal government as a Presidential Management Intern in 1994 after completing her Master's Degree in Business Management and Policy from the State University of New York at Stony Brook. Her public service began at the U.S. and Foreign Commercial Service at the International Trade Administration of the U.S. Department of Commerce, where she held several positions over 12 years. She served as the first Chief Architect at the International Trade Administration, where she led several high-priority technology projects. These included the selection of a worldwide Customer Relationship Management solution to manage the organization's export promotion activities and the deployment of a secure remote network access system.
 

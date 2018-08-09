@@ -9,11 +9,7 @@ bio-title-text: CHIEF INFORMATION SECURITY OFFICER,
 bio-agency-text: OFFICE OF MANAGEMENT AND BUDGET
 bio-image-url: /assets/img/members/bio_Schneider.png
 bio-image-alt-text: Mr. Grant Schneider
-bio-phone: 
+bio-phone:
 bio-email: 
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
 ---
-Official biography information coming soon. 
+Official biography information coming soon.

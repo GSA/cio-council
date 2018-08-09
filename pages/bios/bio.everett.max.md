@@ -7,14 +7,10 @@ background-image: /assets/img/grey.background.png
 bio-name-text: MR. MAX EVERETT
 bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: DEPARTMENT OF ENERGY
-bio-image-url: /assets/img/bio.everett.max.png
+bio-image-url: /assets/img/members/bio_Everett.png
 bio-image-alt-text: Max Everett
-bio-phone: 
-bio-email: 
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
+bio-phone:
+bio-email:  
 ---
 Max Everett was selected in July 2017 to serve as Chief Information Officer (CIO) for the Department of Energy. In this position, he oversees the Department’s information technology (IT) portfolio, serves as an advisor to the Deputy Secretary and Secretary, and leads and manages the various functions within the Office of the Chief Information Officer.
 

@@ -6,14 +6,10 @@ background-image: /assets/img/grey.background.png
 bio-name-text: MR. RAJIVE MATHUR
 bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. SOCIAL SECURITY ADMINISTRATION
-bio-image-url: /assets/img/bio.mathur.rajive.png
+bio-image-url: /assets/img/members/bio_Mathur.png
 bio-image-alt-text: Rajive Mathur
-bio-phone: 
-bio-email: 
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
+bio-phone:
+bio-email:
 ---
 Rajive Mathur comes to SSA after spending six years at the IRS as its director or online services. He left the IRS last fall.
 

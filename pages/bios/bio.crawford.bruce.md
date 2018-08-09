@@ -7,14 +7,10 @@ background-image: /assets/img/grey.background.png
 bio-name-text: LTG BRUCE T. CRAWFORD
 bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. DEPARTMENT OF THE ARMY
-bio-image-url: /assets/img/bio.crawford.bruce.png
+bio-image-url: /assets/img/members/bio_Crawford.png
 bio-image-alt-text: LTG BRUCE T. CRAWFORD
-bio-phone: 
-bio-email: 
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
+bio-phone:
+bio-email:
 ---
 Lieutenant General Bruce T. Crawford became the Army Chief Information Officer (CIO)/G-6 on 1 August 2017.
 

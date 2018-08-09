@@ -7,14 +7,10 @@ background-image: /assets/img/grey.background.png
 bio-name-text: MS. BETH ANNE KILLORAN
 bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES
-bio-image-url: /assets/img/bio.killorian.beth.png
+bio-image-url: /assets/img/members/bio_Killorian.png
 bio-image-alt-text: BETH ANNE KILLORAN
 bio-phone: 202-690-6162
 bio-email: beth.killoran@hhs.gov
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
 ---
 In October 2014, Ms. Beth Killoran joined the Department of Health and Human Services. Over that period, she has served as the acting Deputy Chief Information Officer and as the Executive Director for the Office of IT Strategy, Policy and Governance. As CIO for the Department of Health and Human Services, she provides leadership on high priority projects, engages in strategic IT investment planning, and drives change across the organization.
 

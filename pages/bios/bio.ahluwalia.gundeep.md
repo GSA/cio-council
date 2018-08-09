@@ -6,14 +6,11 @@ background-image: /assets/img/grey.background.png
 bio-name-text: MR. GUNDEEP AHLUWALIA
 bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. DEPARTMENT OF LABOR
-bio-image-url: /assets/img/bio.ahluwalia.gundeep.png
+bio-image-url: /assets/img/members/bio_Ahluwalia.png
 bio-image-alt-text: GUNDEEP AHLUWALIA
 bio-phone: 202-693-4446
 bio-email: ahluwalia.gundeep@dol.gov
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
+
 ---
 As a tech leader with a unique view of IT innovation and a deep understanding of technical strategy, Mr. Gundeep Ahluwalia leads the growth and transformation of the Department of Labor’s Information Technology (IT). Since assuming the role of Chief Information Officer (CIO) in October 2016, Mr. Ahluwalia has provided strategic leadership for the Department’s IT planning, initiatives, staffing and services—ultimately advancing the mission critical work that the Department delivers to support American citizens.
 

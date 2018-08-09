@@ -6,15 +6,11 @@ permalink: /about/members-and-leadership/margie-graves/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. MARGIE GRAVES
 bio-title-text: FEDERAL DEPUTY CHIEF INFORMATION OFFICER
-bio-agency-text: 
-bio-image-url: /assets/img/bio.graves.margie.png
+bio-agency-text:
+bio-image-url: /assets/img/members/bio_Graves.png
 bio-image-alt-text: Margie Graves
-bio-phone: 
-bio-email: 
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
+bio-phone:
+bio-email:
 ---
 Margaret H. Graves is the Federal Deputy Chief Information Officer of the United States. Ms. Graves was previously selected in September, 2008, to serve as the U. S. Department of Homeland Security’s (DHS) Deputy Chief Information Officer (CIO). As the Deputy CIO, she oversees an IT portfolio of $5.4 billion in programs. In addition, Ms. Graves manages the operations of the Office of the Chief Information Officer, which covers the functional areas of Applied Technology, Enterprise Architecture, Data Management, IT Security, Infrastructure Operations, IT Accessibility, Budget and Acquisition.
 

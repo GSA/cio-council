@@ -7,14 +7,10 @@ background-image: /assets/img/grey.background.png
 bio-name-text: MS. MARIA ROAT
 bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. SMALL BUSINESS ADMINISTRATION
-bio-image-url: /assets/img/bio.roat.maria.png
+bio-image-url: /assets/img/members/bio_Roat.png
 bio-image-alt-text: Maria Roat
 bio-phone:
 bio-email:
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
 ---
 Maria A Roat became the Small Business Administration Chief Information Officer in October 2016 bringing 30 years of professional experience in information technology.
 

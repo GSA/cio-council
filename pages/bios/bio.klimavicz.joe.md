@@ -7,14 +7,10 @@ background-image: /assets/img/grey.background.png
 bio-name-text: MR. JOSEPH KLIMAVICZ
 bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. DEPARTMENT OF JUSTICE
-bio-image-url: /assets/img/bio.klimavicz.joe.png
+bio-image-url: /assets/img/members/bio_Klimavicz.png
 bio-image-alt-text: Joe Klimavicz
 bio-phone: 202-514-0507
 bio-email: joseph.klimavicz@usdoj.gov
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
 ---
 Mr. Joseph F. Klimavicz joined the Department of Justice (DOJ) leadership team as Deputy Assistant Attorney General for Information Resources Management and Chief Information Officer (CIO) in May 2014. In this position, he provides leadership and oversight of the department's information technology programs and services in support of the department's technology-intensive law enforcement mission.
 

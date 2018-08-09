@@ -7,12 +7,8 @@ background-image: /assets/img/grey.background.png
 bio-name-text: MR. ROD TURK
 bio-title-text: ACTING CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. DEPARTMENT OF COMMERCE
-bio-image-url: /assets/img/bio.turk.rod.png
+bio-image-url: /assets/img/members/bio_Turk.png
 bio-image-alt-text: Rod Turk
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
 ---
 Rod Turk was named Acting Deputy Chief Information Officer at the U.S. Department of Commerce in July 2016. Selected based on his proven ability to lead and manage while achieving efficiency and results. He serves as a member on the OCIO senior leadership team responsible for providing leadership and maintaining oversight for the information technology across the Commerce Department’s bureaus.
 
