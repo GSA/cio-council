@@ -3,6 +3,7 @@ layout: page
 title: Data Center Optimization Initiative - Community of Practice
 permalink: /about/datacenter-cop/
 background-image: /assets/img/grey.background.png
+hero-byline: About
 hero-text: DATA CENTER OPTIMIZATION INITIATIVE - COMMUNITY OF PRACTICE
 ---
 The DCOI Community of Practice (CoP) provides both in-person and virtual forums for agencies to discuss relevant data center issues including infrastructure management, facility oversight and optimization, performance reporting, new technologies, and the data center shared services marketplace, and more.
