@@ -7,7 +7,7 @@
   {% else %}
   <div class="usa-width-one-whole usa-media_block">
   {% endif %}
-    <img class="initiative-image" src="{{ event.image | prepend: site.baseurl }}" alt="{{event.img-alt}}" >
+    <a href="{{ site.baseurl }}{{ event.url }}"><img class="initiative-image" src="{{ event.image | prepend: site.baseurl }}" alt="{{event.img-alt}}"></a>
 
     <div class="usa-media_block-body">
       <h3>
