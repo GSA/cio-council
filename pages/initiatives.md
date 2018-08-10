@@ -8,6 +8,4 @@ hero-byline: Agenda
 ---
 
 ## Past Initiatives
-<section class="usa-section">
 {% include initiatives.html %}
-</section>
