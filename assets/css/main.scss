@@ -161,6 +161,7 @@ $on-laptop:        800px;
     object-fit: cover;
     margin-right: 10px;
     border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     width: 150px;
     height: 150px;
 
@@ -168,7 +169,8 @@ $on-laptop:        800px;
  .initiative-image{
     display: block;
     object-fit: cover;
-    margin-bottom: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 3rem;
     max-height: 150px;
     width: 100%;
  }
