@@ -7,7 +7,7 @@ image: /assets/img/spreadsheet.png
 img-alt:
 hero-text: TECHNOLOGY BUSINESS MANAGEMENT
 hero-byline: Council Priority
-description: Technology Business Management (TBM)is an IT management framework that implements a standard IT spend taxonomy. TBM enables organizations to disaggregate IT spending into smaller, consistent categories to provide CIOs and other C-suite executives with a more accurate and detailed understanding of their organization’s IT costs. 
+description: Federal Agencies are currently at various stages of implementing TBM. The CIO Council, the General Services Administration (GSA), and the Office of the Federal CIO (OFCIO) are committed to guiding agency adoption of TBM.
 ---
 
 ## FITARA AND IT SPENDING TRANSPARENCY

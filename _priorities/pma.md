@@ -7,7 +7,7 @@ image: /assets/img/PMA-logo.png
 img-alt: Image of the Presidents Management Agenda logo
 hero-text: "President's Management Agenda: Cross-Agency Priority Goals"
 hero-byline: Council Priority
-description: The President’s Management Agenda lays out a long-term vision for modernizing the Federal Government in key areas that will improve the ability of all agencies to deliver mission outcomes, provide excellent service, and effectively steward taxpayer dollars on behalf of the American people.
+description: The CIO Council, in collaboration with the other CXO communities, will play a leading role in working to fulfill a number of CAP goals outlined by the PMA.
 ---
 The President’s Management Agenda lays out a long-term vision for modernizing the Federal Government in key areas that will improve the ability of all agencies to deliver mission outcomes, provide excellent service, and effectively steward taxpayer dollars on behalf of the American people.
 
