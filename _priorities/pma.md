@@ -11,7 +11,7 @@ description: The President’s Management Agenda lays out a long-term vision for
 ---
 The President’s Management Agenda lays out a long-term vision for modernizing the Federal Government in key areas that will improve the ability of all agencies to deliver mission outcomes, provide excellent service, and effectively steward taxpayer dollars on behalf of the American people.
 
-![President's Management Agenda]({{ site.baseurl }}/images/PMA-logo.png)
+![President's Management Agenda]({{ site.baseurl }}/assets/img/PMA-logo.png)
 
 The agenda outlines three key drivers of modernizing government for the 21st century:
 
