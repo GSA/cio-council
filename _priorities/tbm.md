@@ -3,7 +3,7 @@ layout: page
 title: Technology Business Management
 permalink: /priorities/tbm/
 background-image: /assets/img/grey.background.png
-image: assets/img/spreadsheet.png
+image: /assets/img/spreadsheet.png
 img-alt:
 hero-text: TECHNOLOGY BUSINESS MANAGEMENT
 hero-byline: Council Priority
@@ -16,7 +16,7 @@ The Federal IT Acquisition Reform Act (FITARA) enhanced the authority of Federal
 Technology Business Management (TBM)is an IT management framework that implements a standard IT spend taxonomy. TBM enables organizations to disaggregate IT spending into smaller, consistent categories to provide CIOs and other C-suite executives with a more accurate and detailed understanding of their organization’s IT costs. This allows CIOs to identify duplicative or unnecessary spending and to make better informed decisions regarding future investments.
 
 ## WHY TBM?
-TBM increases insights into IT metrics that drive informed IT, financial, acquisition, and human resource decisions. Increased cost transparency benefits them all. The taxonomy organizes IT spending into three views - Finance, IT, and Business - that help stakeholders across the enterprise understand how IT resources are applied in the agency to support the mission. The standard taxonomy also allows agencies to benchmark their spending not only against other Federal Agencies, but also against businesses in the private sector.<br /><BR></BR>
+TBM increases insights into IT metrics that drive informed IT, financial, acquisition, and human resource decisions. Increased cost transparency benefits them all. The taxonomy organizes IT spending into three views - Finance, IT, and Business - that help stakeholders across the enterprise understand how IT resources are applied in the agency to support the mission. The standard taxonomy also allows agencies to benchmark their spending not only against other Federal Agencies, but also against businesses in the private sector.<BR></BR>
 
 ## THE TBM FRAMEWORK
 ![Image of the TBM Framework]({{site.baseurl}}/assets/img/TBM-Taxonomy.png)
