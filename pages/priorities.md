@@ -7,5 +7,4 @@ hero-text: CIO Council Priorities
 hero-byline: Agenda
 ---
 
-## Priorities
 {% include priorities.html %}
