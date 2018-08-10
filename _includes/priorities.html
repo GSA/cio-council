@@ -3,11 +3,11 @@
 {% for priority in site.priorities %}
   {% assign half = forloop.index | modulo: 2 %}
   {% if half == 1 %}
-  <div class="usa-width-one-whole usa-end-row usa-media_block">
+  <div class="usa-width-one-half usa-end-row usa-media_block">
   {% else %}
-  <div class="usa-width-one-whole usa-media_block">
+  <div class="usa-width-one-half usa-media_block">
   {% endif %}
-    <a href="{{ site.baseurl }}{{ priority.url }}"><img class="initiative-image" src="{{ priority.image | prepend: site.baseurl }}" alt="{{priority.img-alt}}"></a>
+    <a href="{{ site.baseurl }}{{ priority.url }}"><img class="team-image" src="{{ priority.image | prepend: site.baseurl }}" alt="{{priority.img-alt}}"></a>
 
     <div class="usa-media_block-body">
       <h3>
