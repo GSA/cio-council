@@ -13,5 +13,6 @@ description:  In celebration of Women’s History Month, the Federal Chief Infor
     <p class="usa-alert-text">This event occurred on March 29, 2018. Click <a href="https://youtu.be/H6kv1b6z2aY">here</a> for the event recording on YouTube.</p>
   </div>
 </div>
-
+<br>
+<br>
 {% include 2018-03-29-womeninIT.html %}
