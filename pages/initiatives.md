@@ -7,5 +7,5 @@ hero-text: CIO Council initiatives
 hero-byline: Agenda
 ---
 
-### Past Initiatives
+## Past Initiatives
 {% include initiatives.html %}
