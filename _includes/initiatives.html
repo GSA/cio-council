@@ -1,4 +1,4 @@
-<section class="usa-section">
+
 <section class="usa-graphic_list">
 {% for event in site.initiatives %}
   {% assign half = forloop.index | modulo: 2 %}
@@ -7,7 +7,7 @@
   {% else %}
   <div class="usa-width-one-half usa-media_block">
   {% endif %}
-    <div class="usa-media_block-img team-image" style="background-image: url({{ event.image | prepend: site.baseurl }});" role="image" aria-label="{{ event.name }}"> alt="{{ event.img-alt }}" </div>
+    <img class="usa-media_block-img team-image" src="{{ event.image | prepend: site.baseurl }}" role="image" alt="{{event.img-alt}}"aria-label="{{ event.name }}">
     <div class="usa-media_block-body">
       <h3>
         <a href="{{ site.baseurl }}{{ event.url }}">
@@ -18,5 +18,4 @@
     </div>
   </div>
 {% endfor %}
-</section>
 </section>
