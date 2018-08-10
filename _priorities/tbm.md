@@ -3,7 +3,7 @@ layout: page
 title: Technology Business Management
 permalink: /priorities/tbm/
 background-image: /assets/img/grey.background.png
-image: /assets/img/spreadsheet.png
+image: /assets/img/cio.priority.png
 img-alt:
 hero-text: TECHNOLOGY BUSINESS MANAGEMENT
 hero-byline: Council Priority
