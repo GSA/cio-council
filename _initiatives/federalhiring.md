@@ -1,6 +1,6 @@
 ---
 layout: page
-image: /assets/img/team/team-placeholder.jpg
+image: /assets/img/initiatives/skinny-hiring-banner-1.png
 img-alt:
 title: Federal Tech/Cyber Hiring & Recruitment
 hero-text: Federal Tech/Cyber Hiring & Recruitment

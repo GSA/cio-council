@@ -1,6 +1,6 @@
 ---
 layout: page
-image: /assets/img/team/team-placeholder.jpg
+image: /assets/img/initiatives/event.WinIT_Cyber SDate.png
 img-alt:
 title: Federal Women in IT
 hero-text: Federal Women in IT
