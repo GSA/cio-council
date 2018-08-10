@@ -13,3 +13,5 @@ description: To operate and innovate in the federal IT space, the United States 
     <p class="usa-alert-text">This event occurred on November 6, 2017. Click <a href="https://www.cio.gov/2018/02/02/preliminary-results-of-the-cio-councils-government-wide-hiring-event-demonstrate-effectiveness-of-cxo-collaboration/">here</a> for the event summary.</p>
   </div>
 </div>
+{% include hiringevent-info.html %}
+{% include hiringevent.html %}
