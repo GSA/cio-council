@@ -16,4 +16,3 @@ description: To operate and innovate in the federal IT space, the United States 
 <br>
 <br>
 {% include 2017-11-06-hiringevent-info.html %}
-{% include 2017-11-06-hiringevent.html %}
