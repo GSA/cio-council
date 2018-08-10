@@ -4,7 +4,7 @@ title: President's Management Agenda: Cross-Agency Priority Goals
 permalink: /priorities/pma/
 background-image: /assets/img/grey.background.png
 image: /assets/img/PMA-logo.png
-img-alt: 
+img-alt:
 hero-text: President's Management Agenda: Cross-Agency Priority Goals
 hero-byline: Council Priority
 ---
