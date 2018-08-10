@@ -100,7 +100,6 @@ $on-laptop:        800px;
 }
 
 .tag::before {
-  background: #fff;
   border-radius: 10px;
   box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
   content: '';
@@ -112,7 +111,6 @@ $on-laptop:        800px;
 }
 
 .tag::after {
-  background: #fff;
   border-bottom: 13px solid transparent;
   border-left: 10px solid #eee;
   border-top: 13px solid transparent;
