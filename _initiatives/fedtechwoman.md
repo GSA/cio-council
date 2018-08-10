@@ -14,4 +14,4 @@ description:  In celebration of Women’s History Month, the Federal Chief Infor
   </div>
 </div>
 
-{% include initiatives.2018-03-29-womeninIT.html %}
+{% include 2018-03-29-womeninIT.html %}
