@@ -5,4 +5,9 @@ img-alt:
 title: Federal Tech/Cyber Hiring & Recruitment
 description: To operate and innovate in the federal IT space, the United States Federal Government must continue to invest in recruiting the necessary talent. The Federal Government must compete to recruit IT talent needed to defend the nation’s infrastructure, deliver digital services to the American people, and modernize the Federal Government’s IT systems and operations.
 ---
-This is a bio for a team member. It will show up on their individual team member page. The name, title and image will be show on the team list page.
+<div class="usa-alert usa-alert-info" >
+  <div class="usa-alert-body">
+    <h3 class="usa-alert-heading">Event Status</h3>
+    <p class="usa-alert-text">This event occured on November 6, 2017. Click <a href="https://www.cio.gov/2018/02/02/preliminary-results-of-the-cio-councils-government-wide-hiring-event-demonstrate-effectiveness-of-cxo-collaboration/">here</a> for the event summary.</p>
+  </div>
+</div>
