@@ -1,13 +1,14 @@
 
 <section class="usa-graphic_list">
 {% for event in site.initiatives %}
-  {% assign half = forloop.index | modulo: 2 %}
+  {% assign half = forloop.index | modulo: 3 %}
   {% if half == 1 %}
-  <div class="usa-width-one-half usa-end-row usa-media_block">
+  <div class="usa-width-one-third usa-end-row usa-media_block">
   {% else %}
-  <div class="usa-width-one-half usa-media_block">
+  <div class="usa-width-one-third usa-media_block">
   {% endif %}
-    <img class="usa-media_block-img team-image" src="{{ event.image | prepend: site.baseurl }}" alt="{{event.img-alt}}" >
+    <img class="initative-image" src="{{ event.image | prepend: site.baseurl }}" alt="{{event.img-alt}}" >
+
     <div class="usa-media_block-body">
       <h3>
         <a href="{{ site.baseurl }}{{ event.url }}">
