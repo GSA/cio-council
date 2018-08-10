@@ -29,11 +29,12 @@ assigned:
               text: Priorities
               permalink: /agenda/priorities/
           -
+              text: Highlights
+              permalink: /agenda/highlights/
+          -
               text: Initiatives
               permalink: /agenda/initiatives/
-          -
-              text: highlights
-              permalink: /agenda/highlights/
+
 
     -
         text: Blog
