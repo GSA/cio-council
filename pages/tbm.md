@@ -3,6 +3,8 @@ layout: page
 title: Technology Business Management
 permalink: /priorities/tbm/
 background-image: /assets/img/grey.background.png
+image: assets/img/spreadsheet.png
+img-alt:
 hero-text: TECHNOLOGY BUSINESS MANAGEMENT
 hero-byline: Council Priority
 ---
@@ -17,7 +19,7 @@ Technology Business Management (TBM)is an IT management framework that implement
 TBM increases insights into IT metrics that drive informed IT, financial, acquisition, and human resource decisions. Increased cost transparency benefits them all. The taxonomy organizes IT spending into three views - Finance, IT, and Business - that help stakeholders across the enterprise understand how IT resources are applied in the agency to support the mission. The standard taxonomy also allows agencies to benchmark their spending not only against other Federal Agencies, but also against businesses in the private sector.<br /><BR></BR>
 
 ## THE TBM FRAMEWORK
-![Image of the TBM Framework](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/09/TBM-Taxonomy.png)
+![Image of the TBM Framework]({{site.baseurl}}/assets/img/TBM-Taxonomy.png)
 
 
 ## THE CIO COUNCIL SUPPORTS COST TRANSPARENCY AND REDUCED REPORTING BURDENS
