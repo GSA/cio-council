@@ -1,11 +1,11 @@
 ---
 layout: page
-title: President's Management Agenda
+title: "President's Management Agenda"
 permalink: /priorities/pma/
 background-image: /assets/img/grey.background.png
 image: /assets/img/PMA-logo.png
 img-alt:
-hero-text: 'President's Management Agenda: Cross-Agency Priority Goals'
+hero-text: "President's Management Agenda: Cross-Agency Priority Goals"
 hero-byline: Council Priority
 description: The President’s Management Agenda lays out a long-term vision for modernizing the Federal Government in key areas that will improve the ability of all agencies to deliver mission outcomes, provide excellent service, and effectively steward taxpayer dollars on behalf of the American people.
 ---
