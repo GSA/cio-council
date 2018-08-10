@@ -3,9 +3,9 @@
 {% for event in site.initiatives %}
   {% assign half = forloop.index | modulo: 2 %}
   {% if half == 1 %}
-  <div class="usa-width-one-half usa-end-row usa-media_block">
+  <div class="usa-width-one-whole usa-end-row usa-media_block">
   {% else %}
-  <div class="usa-width-one-half usa-media_block">
+  <div class="usa-width-one-whole usa-media_block">
   {% endif %}
     <img class="initiative-image" src="{{ event.image | prepend: site.baseurl }}" alt="{{event.img-alt}}" >
 
