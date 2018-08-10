@@ -1,7 +1,7 @@
 ---
 layout: page
 image: /assets/img/initiatives/event.WinIT_Cyber SDate.png
-img-alt:
+img-alt: Image of the Federal Women in IT logo
 title: Federal Women in IT
 hero-text: Federal Women in IT
 hero-byline: Past Initiative
