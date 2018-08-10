@@ -2,6 +2,7 @@
 layout: page
 image: /assets/img/team/team-placeholder.jpg
 title: Federal Tech/Cyber Hiring & Recruitment
-description: This event was cool and stuff. 
+img-alt: 
+description: This event was cool and stuff.
 ---
 This is a bio for a team member. It will show up on their individual team member page. The name, title and image will be show on the team list page.
