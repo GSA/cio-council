@@ -6,10 +6,14 @@ background-image: /assets/img/grey.background.png
 image: /assets/img/highlight.cisohandbook.png
 hero-text: The Chief Information Security Officer (CISO) Handbook
 hero-byline: CIOC Highlight
-description: The CISO Handbook was created to educate and inform new and existing CISOs about their role in Federal cybersecurity. 
+description: The CISO Handbook was created to educate and inform new and existing CISOs about their role in Federal cybersecurity.
 attachment: /assets/files/CISO_Handbook.pdf
 button: Download the Handbook
 ---
+{% if page.attachment %}
+<a class="usa-button-gray" href="{{ page.attachment | prepend: site.baseurl }}">Read the Handbook</a>
+{% endif %}
+
 The CISO Handbook was created to educate and inform new and existing CISOs about their role in Federal cybersecurity. It provides resources to help CISOs responsibly apply risk management principles to help Federal agencies meet mission objectives, and makes CISOs aware of laws, policies, tools, and initiatives that can assist them as they develop or improve cybersecurity programs for their organizations.
 
 The Handbook is a key document, coordinated through the CIO and CISO Councils, to improve the vital federal cybersecurity reskilling and workforce development efforts outlined in the <a href="https://www.performance.gov/PMA/">President’s Management Agenda</a>. Below are **five takeaways** from the handbook:
