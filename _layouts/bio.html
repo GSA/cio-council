@@ -20,8 +20,8 @@ layout: base
    <div class="usa-grid">
      <div class="usa-width-one-fourth">
        <p><img src="{{ page.bio-image-url | prepend: site.baseurl }}" alt="{{ page.bio-image-alt-text }}"><BR>
-      <b>Email:</b>{% if page.bio-email  %}
-         <A HREF="{{ page.bio-email }}">{{ page.bio-email }}</A><BR>
+      {% if page.bio-email  %}
+         <b>Email:</b><A HREF="{{ page.bio-email }}">{{ page.bio-email }}</A><BR>
       {% endif %}
       {% if page.bio-phone  %}
         <b>Phone:</b> {{ page.bio-phone }}<BR>
