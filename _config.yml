@@ -108,6 +108,8 @@ collections:
     output: true
   initiatives:
     output: true
+  resources:
+    output: true
 
 
 plugins_dir:

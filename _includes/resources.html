@@ -1,6 +1,6 @@
 <section class="usa-graphic_list">
 {% for resource in site.resources %}
-  {% assign half = forloop.index | modulo: 2 %}
+  {% assign half = forloop.index | modulo: 1 %}
   {% if half == 1 %}
   <div class="usa-width-one-whole usa-end-row usa-media_block">
   {% else %}
