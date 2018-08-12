@@ -3,7 +3,7 @@ layout: page
 body-class: home
 title: Document Library
 permalink: /resources/document-library/
-background-image: /assets/img/grey.background.png
+image: /assets/img/resources/doc-library-banner.png
 hero-text: Document Library
 hero-byline: Resources
 ---

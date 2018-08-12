@@ -3,7 +3,7 @@ layout: page
 title: Privacy Statement
 permalink: /privacy-statement/
 background-image: /assets/img/grey.background.png
-hero-byline: 
+hero-byline:
 hero-text: Privacy Statement
 ---
 Thank you for visiting CIO.gov.
@@ -37,4 +37,4 @@ We want to make it clear that we will not obtain personally identifying informat
 For site security purposes and to ensure that this service remains available to all users, EOP webservers use industry-standard methods to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload information or change information on EOP servers are strictly prohibited and may be punishable by law, including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
 ### Links to other sites
-The pages on CIO.gov may include hypertext links or pointers to information created and maintained by other public and private organizations. If you have any questions about these policies, please contact us at [feedbac@cio.gov](mailto:feedback@cio.gov).
+The pages on CIO.gov may include hypertext links or pointers to information created and maintained by other public and private organizations. If you have any questions about these policies, please contact us at [feedback@cio.gov](mailto:feedback@cio.gov).

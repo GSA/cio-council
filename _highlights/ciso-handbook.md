@@ -10,7 +10,7 @@ description: The CISO Handbook was created to educate and inform new and existin
 attachment: /assets/files/CISO_Handbook.pdf
 button: Download the Handbook
 ---
-<a class="usa-button-secondary" href="{{ page.attachment | prepend: site.baseurl }}">Read the Handbook</a>
+<a href="{{ page.attachment | prepend: site.baseurl }}"><button class="usa-button">Read the Handbook</button></a>
 
 The CISO Handbook was created to educate and inform new and existing CISOs about their role in Federal cybersecurity. It provides resources to help CISOs responsibly apply risk management principles to help Federal agencies meet mission objectives, and makes CISOs aware of laws, policies, tools, and initiatives that can assist them as they develop or improve cybersecurity programs for their organizations.
 
