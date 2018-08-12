@@ -3,7 +3,7 @@ layout: page
 title: "President's Management Agenda"
 permalink: /priorities/pma/
 background-image: /assets/img/grey.background.png
-image: /assets/img/ciopriority_pma_2.png
+image: /assets/img/priorities/ciopriority_pma_2.png
 img-alt: Image of the Presidents Management Agenda logo
 hero-text: "President's Management Agenda: Cross-Agency Priority Goals"
 hero-byline: Council Priority

@@ -1,6 +1,5 @@
 ---
 layout: page
-body-class: home
 title: Resources
 permalink: /resources/
 background-image: /assets/img/grey.background.png

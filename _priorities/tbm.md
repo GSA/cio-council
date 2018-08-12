@@ -3,8 +3,8 @@ layout: page
 title: Technology Business Management
 permalink: /priorities/tbm/
 background-image: /assets/img/grey.background.png
-image: /assets/img/cio.priority.png
-img-alt:
+image: /assets/img/priorities/cio.priority.png
+img-alt: Icon for the Technology Business Management initiative
 hero-text: TECHNOLOGY BUSINESS MANAGEMENT
 hero-byline: Council Priority
 description: Federal Agencies are currently at various stages of implementing TBM. The CIO Council, the General Services Administration (GSA), and the Office of the Federal CIO (OFCIO) are committed to guiding agency adoption of TBM.
