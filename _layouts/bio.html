@@ -2,28 +2,23 @@
 layout: base
 ---
 
-<section >
-  <div class="standard-unit" style="background-image: url('{{ page.background-image | prepend: site.baseurl }}'); height: 200px;">
-    <section class="usa-grid usa-section">
-        <div  style="position: absolute; bottom: 0;">
+<section class="usa-section-dark">
+        <div class="usa-grid">
         {% if page.bio-name-text %}
-          <font class="page_header">{{ page.bio-name-text }}</font><BR>
-       {% endif %} 
+          <h1>{{ page.bio-name-text }}</h1>
+       {% endif %}
         {% if page.bio-title-text %}
-         <font class="page_sub_header" style="align: left;">{{ page.bio-title-text }}</font><BR>
-       {% endif %} 
+         <h3>{{ page.bio-title-text }}</h3>
+       {% endif %}
        {% if page.bio-agency-text %}
-          <font class="page_sub_header" style="align: left;">{{ page.bio-agency-text }}</font>
-      {% endif %}   
+          <h3>{{ page.bio-agency-text }}</h3>
+      {% endif %}
       </div>
-      </section>    
-  </div>
 </section>
 
-<section class="usa-grid usa-section">
-   <div class="tbtable">
-  <div class="tbcell left">
-    <div><CENTER>
+<section class="usa-section">
+   <div class="usa-grid">
+     <div class="usa-width-one-fourth">
        <p><img src="{{ page.bio-image-url | prepend: site.baseurl }}" alt="{{ page.bio-image-alt-text }}"><BR>
       {% if page.bio-email  %}
          <A HREF="{{ page.bio-email }}">{{ page.bio-email }}</A><BR>
@@ -31,46 +26,10 @@ layout: base
       {% if page.bio-phone  %}
         {{ page.bio-phone }}<BR>
       {% endif %}
-     
       </p>
-      
-      </CENTER>
-      </div>
   </div>
-  <div class="tbcell right">
-    <div>{{ content }}</div>
+  <div class="usa-width-three-fourths">
+    {{ content }}
   </div>
-  </div>
-  
-  
- </section>
-
-  
-{% if page.banner-heading %}
-<section class="usa-section banner tagline" style="background-color: #a1b1bc;">
-  <div class="usa-grid">
-
-    <div class="usa-width-one-whole usa-end-row">
-     
-<!--
-    <div class="usa-width-whole hero-content">
-  -->
-<h2>{{ page.banner-heading }}</h2>
-      {% if page.banner-text %}
-        <p>{{ page.banner-text }}</p>
-      {% endif %}
-      {% if page.banner-button-text %}
-      <div class="center-content">
-        <a href="{{ page.banner-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.banner-button-text }}</a>
-      </div>
-      {% endif %}
-    </div>
-  </div>
+</div>
 </section>
-{% endif %}
-    
-    <BR>
-
- {% include quick.links.html %}
-  
-  
