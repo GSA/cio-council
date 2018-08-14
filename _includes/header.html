@@ -80,14 +80,15 @@
        {% endfor %}
       </ul>
 
-        <form class="usa-search usa-search-small search-form" id="search_form" role="search" action="https://search.usa.gov/search" method="get" accept-charset="UTF-8">
-          <div role="search">
-          <LABEL class="usa-sr-only" for="basic-search-field-small"><INPUT name="utf8" type="hidden" value="✓">
-            <INPUT name="affiliate search" id="affiliate basic-search-field-small" type="hidden search" value="ciomain">
-              <INPUT name="query" class="usagov-search-autocomplete search-field" id="query" type="search" placeholder="Search …" value="" autocomplete="off">
-                <button class="search-submit" type="submit" value="Search"><span class="usa-sr-only">Search</span></button>
-          </LABEL>
-        </form>
+      <form class="usa-search usa-search-small ">
+        <div role="search">
+          <label class="usa-sr-only" for="basic-search-field-small">Search small</label>
+          <input id="basic-search-field-small" type="search" name="search">
+          <button type="submit">
+            <span class="usa-sr-only">Search</span>
+          </button>
+        </div>
+      </form>
       </div>
     </nav>
   </div>
