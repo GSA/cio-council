@@ -12,7 +12,7 @@ image-credt:
 img-alt: CIOC Logo
 ---
 
-![Infographic of the CIOC's Accomplishments from 2017](/assets/img/blog/2017.12.29.Accomplishments.png)
+![Infographic of the CIOC's Accomplishments from 2017]({{site.baseurl}}/assets/img/blog/2017.12.29.Accomplishments.png)
 
 1. Federal Secure Mobility Toolkit  
 * 14 agency success stories included
