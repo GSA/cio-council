@@ -8,6 +8,7 @@ author: Office of the Federal Chief Information Officer
 tags: 2018 tmf
 image:
 thumbnail-image: /assets/img/CIO-council-Logo-silver1.png
+img-alt: CIOC Logo
 ---
 Washington, D.C. - The Technology Modernization Board, chaired by the Federal Chief Information Officer in the Office of Management and Budget, announced its first round of funding awards under the Technology Modernization Fund (TMF). TMF was authorized by Congress as a mechanism to finance technology modernization efforts across the Federal Government.
 

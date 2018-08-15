@@ -8,6 +8,7 @@ author: Chris Liddell
 tags: 2017 IT-Modernization
 image:
 thumbnail-image: /assets/img/CIO-council-Logo-silver1.png
+img-alt: CIOC Logo
 ---
 _This [blog post](https://www.whitehouse.gov/articles/final-modernization-report/) was originally posted on the White House blog on December 13, 2017._
 

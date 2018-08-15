@@ -8,6 +8,7 @@ author: "John Sullivan, Director, Government-wide IT Accessibility"
 tags: 2018 accessibility 508
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
+img-alt: CIOC Logo
 ---
 
 _This blog was first posted on [GSABlog](https://www.gsa.gov/blog/2018/08/07/Collaborating-for-Better-Design-Technology-and-User-Experience-0) on August 7th, 2018_
