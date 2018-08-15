@@ -1,12 +1,13 @@
 ---
 layout: blog
 title: 'Collaborating for Better Design, Technology and User Experience'
-blog-date: August 13, 2018
-blog-author: "John Sullivan, Director, Government-wide IT Accessibility"
-permalink: /2018/08/13/design-accessibility/
-background-image: /assets/img/grey.background.png
-hero-text: Collaborating for Better Design, Technology and User Experience
-
+description: In February 2018, the White House released its implementation plan to modernize IT infrastructure across the federal government.
+date: 2018-08-13
+display-date: 13 August 2018
+author: "John Sullivan, Director, Government-wide IT Accessibility"
+tags: 2018 accessibility 508
+image:
+image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 ---
 
 _This blog was first posted on [GSABlog](https://www.gsa.gov/blog/2018/08/07/Collaborating-for-Better-Design-Technology-and-User-Experience-0) on August 7th, 2018_
