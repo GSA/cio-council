@@ -7,8 +7,8 @@ display-date: 13 August 2018
 author: "John Sullivan, Director, Government-wide IT Accessibility"
 tags: 2018 accessibility 508
 image: /assets/img/blog/2018.08.13.collaborating.design.jpg
-image-thumbnail: 
-img-alt: CIOC Logo
+image-thumbnail: /assets/img/blog/2018.08.13.collaborating.design.jpg
+img-alt: Image of two individuals planning on a whiteboard
 ---
 
 _This blog was first posted on [GSABlog](https://www.gsa.gov/blog/2018/08/07/Collaborating-for-Better-Design-Technology-and-User-Experience-0) on August 7th, 2018_
