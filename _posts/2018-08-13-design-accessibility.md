@@ -7,7 +7,7 @@ display-date: 13 August 2018
 author: "John Sullivan, Director, Government-wide IT Accessibility"
 tags: 2018 accessibility 508
 image: /assets/img/blog/2018.08.13.collaborating.design.jpg
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
+image-thumbnail: 
 img-alt: CIOC Logo
 ---
 
