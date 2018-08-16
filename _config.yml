@@ -110,7 +110,8 @@ collections:
     output: true
   resources:
     output: true
-
+  fedit:
+    output: true
 
 plugins_dir:
   - jekyll-paginate-v2

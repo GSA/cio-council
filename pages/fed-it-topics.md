@@ -1,15 +1,8 @@
 ---
-layout: fed-it-topics
-body-class: home
+layout: page
 title: Federal IT Topics
-permalink: /fed-it-topics/
+permalink: /agenda/fed-it-topics/
 background-image: /assets/img/grey.background.png
-hero-text: FEDERAL IT TOPICS
-hero-byline:
-hero-button-text: 
-hero-button-link: 
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
+hero-text: Federal IT Topics
+hero-byline: Agenda
 ---
