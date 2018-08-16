@@ -1,17 +1,16 @@
 ---
 layout: blog
-title: Innovation Sandbox Pilot Launch
+title: 'Innovation Sandbox Pilot Launch'
 description:
 date: 2018-03-15
 display-date: 15 March 2018
 author: 'Maria Roat, CIO of the Small Business Administration and Chair of the CIO Council's Innovation Committee'
 tags: '2018' innovation
-image:
+image: 
 thumbnail-image: /assets/img/CIO-council-Logo-silver1.png
-image-credt:
+image-credit:
 img-alt: CIOC Logo
 ---
-
 ## Background
 The CIO Council’s Innovation Committee is a vehicle to lead innovation and drive strategic change, including digital projects across the federal enterprise. In late 2017, the Small Business Administration (SBA) received funding from the CIO Council’s Innovation Committee to develop and implement a pilot initiative allowing agencies access to a platform to test new technologies and methodologies: the Innovation Sandbox.
 

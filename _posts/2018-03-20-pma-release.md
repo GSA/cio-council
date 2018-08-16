@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: 'President's Management Agenda Release'
-description:
+description: 
 date: 2018-03-15
 display-date: 15 March 2018
 author: 'CIOC Support'

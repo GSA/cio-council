@@ -5,7 +5,7 @@ date: 2018-06-22
 display-date: 22 June 2018
 author: 'Maria Roat, CIO of the Small Business Administration and Chair of the CIO Council's Innovation Committee'
 tags: '2018' innovation
-image:
+image: 
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC logo
 ---

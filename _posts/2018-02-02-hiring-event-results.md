@@ -1,17 +1,16 @@
 ---
 layout: blog
-title: Preliminary Results of the CIO Council’s Government-wide Hiring Event Demonstrate Effectiveness of CXO Collaboration
-description:
+title: 'Preliminary Results of the CIO Council’s Government-wide Hiring Event Demonstrate Effectiveness of CXO Collaboration'
+description: 
 date: 2018-02-02
 display-date: 2 February 2018
 author: CIOC Support
 tags: '2018' workforce
 image:
 thumbnail-image: /assets/img/CIO-council-Logo-silver1.png
-image-credt:
+image-credit:
 img-alt: CIOC Logo
 ---
-
 Recent industry reports project a 1.8 million cybersecurity workforce shortage across the globe by 2022.
 
 To operate and innovate in the federal IT space, the United States Federal Government must continue to invest in recruiting the necessary talent. The Federal Government must compete to recruit IT talent needed to defend the nation’s infrastructure, deliver digital services to the American people, and modernize the Federal Government’s IT systems and operations.
