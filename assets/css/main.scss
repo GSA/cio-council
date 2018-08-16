@@ -147,15 +147,14 @@ $on-laptop:        800px;
     }
  }
 
- .pagination a {
-     &:active {
-         background-color: #f1f1f1;
-         color: #333;
-         padding: 7px 18px;
-         border: 1px solid #eee;
-         margin-left: -2px;
-         margin-right: -2px;
-     }
+ .pagination-em {
+     background-color: #f1f1f1;
+     color: #333;
+     padding: 7px 18px;
+     border: 1px solid #eee;
+     margin-left: -2px;
+    margin-right: -2px;
+
   }
 .pagination {
     text-align: center;
