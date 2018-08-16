@@ -7,8 +7,7 @@ display-date: 30 March 2018
 author: CIOC Support
 tags: 2018 workforce
 image:
-thumbnail-image: /assets/img/CIO-council-Logo-silver1.png
-image-credit:
+image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo
 ---
 _This blog entry is a cross post of a GSA press release on behalf of the CIO Council_
