@@ -1,11 +1,11 @@
 ---
 layout: blog
 title: 'Preliminary Results of the CIO Council’s Government-wide Hiring Event Demonstrate Effectiveness of CXO Collaboration'
-description: 
+description:
 date: 2018-02-02
 display-date: 2 February 2018
 author: CIOC Support
-tags: '2018' workforce
+tags: 2018 workforce
 image:
 thumbnail-image: /assets/img/CIO-council-Logo-silver1.png
 image-credit:

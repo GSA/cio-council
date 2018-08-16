@@ -5,7 +5,7 @@ description:
 date: 2017-12-29
 display-date: 29 December 2017
 author: CIOC Support
-tags: '2017'
+tags: 2017
 image:
 thumbnail-image: /assets/img/CIO-council-Logo-silver1.png
 image-credt:

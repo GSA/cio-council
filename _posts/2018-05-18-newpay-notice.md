@@ -5,7 +5,7 @@ description:
 date: 2018-05-04
 display-date: 04 May 2018
 author: CIOC Support
-tags: '2018'
+tags: 2018
 image:
 thumbnail-image: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo
