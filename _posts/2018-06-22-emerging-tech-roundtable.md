@@ -1,16 +1,15 @@
 ---
 layout: blog
-title: 'Digital Transformation: Artificial Intelligence and the Workforce'
-description:
+title: 'Digital Transformation Artificial Intelligence and the Workforce'
 date: 2018-06-22
 display-date: 22 June 2018
 author: 'Maria Roat, CIO of the Small Business Administration and Chair of the CIO Council's Innovation Committee'
-tags: 2018 innovation
+tags: '2018' innovation
 image:
-thumbnail-image: /assets/img/CIO-council-Logo-silver1.png
-image-credt:
-img-alt: CIOC Logo
+image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
+img-alt: CIOC logo
 ---
+
 In the late 1800’s, nearly 50% of the American workforce was employed through agriculture. According to the Bureau of Labor Statistics, that figure dropped to less than 2% by 2008 [1]. This major restructuring of the economy happened over a period of decades, leading to the emergence of new occupations, fundamental shifts in how the workforce was deployed and inherent changes to the social fabric of the country.
 
 With the rise of the digital economy over the last couple of decades, we are facing a similar revolution in our workforce. According to annual census data, approximately 18% of American households used the internet in 1997. This figure quadrupled in less than two decades rising to 73% by 2015. With the rapid speed of technological advancement, we are in the midst of another massive economic shift [2].
