@@ -7,7 +7,7 @@ display-date: 04 May 2018
 author: CIOC Support
 tags: 2018
 image:
-thumbnail-image: /assets/img/CIO-council-Logo-silver1.png
+image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo
 ---
 The Federal Government pays over two million civilian federal employees every two-weeks, on time and at a relatively low cost. Some of the payroll systems running today, however, are in their fourth decade of operation and lack the ability to adapt and address the ever evolving legislative changes. They also lack self-service and mobile features readily available in industry payroll systems. Making these self-service and mobile features available to the federal employee will improve efficiency and customer service.

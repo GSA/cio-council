@@ -7,7 +7,7 @@ display-date: 8 August 2017
 author: Margie Graves
 tags: 2017 tbm
 image:
-thumbnail-image: /assets/img/CIO-council-Logo-silver1.png
+image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo
 ---
 On July 20, Office of Management and Budget (OMB) co-sponsored an event with the TBM Council designed to foster collaboration and knowledge exchange between some of the leading minds in government and commercial technology leadership.

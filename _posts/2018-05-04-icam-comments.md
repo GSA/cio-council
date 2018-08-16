@@ -7,8 +7,7 @@ display-date: 4 May 2018
 author: 'Office of the Federal Chief Information Officer'
 tags: 2018 icam
 image:
-thumbnail-image: /assets/img/CIO-council-Logo-silver1.png
-image-credit:
+image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo
 ---
 _Due to technical difficulties, OMB may not have received comments submitted to [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov) on May 3rd (Thursday) or May 4th (Friday). If you submitted a comment on either of these days, or if you would like to submit a new comment via email, please send a message with any attachments to Jordan Burris at [Jordan.C.Burris@omb.eop.gov](mailto:Jordan.C.Burris@omb.eop.gov). We apologize for any inconvenience this may have caused and are extending the submission window for this comment period through 11:59pm Monday, May 7th._

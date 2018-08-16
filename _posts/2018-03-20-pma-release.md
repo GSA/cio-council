@@ -7,8 +7,7 @@ display-date: 15 March 2018
 author: CIOC Support
 tags: 2018 pma
 image:
-thumbnail-image: /assets/img/CIO-council-Logo-silver1.png
-image-credit:
+image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo
 ---
 The President’s Management Agenda lays out a long-term vision for modernizing the Federal Government in key areas that will improve the ability of all agencies to deliver mission outcomes, provide excellent service, and effectively steward taxpayer dollars on behalf of the American people.

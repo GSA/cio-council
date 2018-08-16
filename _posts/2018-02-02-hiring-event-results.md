@@ -7,8 +7,7 @@ display-date: 2 February 2018
 author: CIOC Support
 tags: 2018 workforce
 image:
-thumbnail-image: /assets/img/CIO-council-Logo-silver1.png
-image-credit:
+image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo
 ---
 Recent industry reports project a 1.8 million cybersecurity workforce shortage across the globe by 2022.
