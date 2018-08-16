@@ -1,20 +1,14 @@
 ---
 layout: blog
-body-class: home
-title: Blog - CIO Council to Sponsor First Annual IT Solutions Challenge  
-blog-date: March 4, 2015
-blog-author: Tony Scott
-blog-title: CIO Council to Sponsor First Annual IT Solutions Challenge  
-permalink: /2015/03/04/cio-council-to-sponsor-first-annual-it-solutions-challenge/
-background-image: /assets/img/grey.background.png
-hero-text:  News & Updates
-hero-byline:
-hero-button-text: 
-hero-button-link: 
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
+title: CIO Council to Sponsor First Annual IT Solutions Challenge
+description:
+date: 2015-03-04  
+display-date: 4 March 2015
+author: Tony Scott
+tags: 2015 solutions-challenge
+image:
+image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
+img-alt: CIOC Logo
 ---
 It’s great to be up and running in my new job as Federal CIO. I’m looking forward to be working with Agency CIOs through the CIO Council, but I’m also interested in working with all levels of Federal IT and IT Acquisition workforces. That’s why I’m excited to announce the 2015 CIO Council IT Solutions Challenge.
 

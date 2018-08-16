@@ -5,7 +5,7 @@ description:
 date: 2018-05-31
 display-date: 31 May 2018
 author: 'Beth Angerman, Deputy Associate Administrator, Office of Shared Solutions and Performance Improvement, GSA'
-tags: 2018 project test
+tags: 2018 shared-services
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt:

@@ -1,0 +1,23 @@
+---
+layout: blog
+title: A New Foundation for Technology Management
+description:
+date: 2015-06-10
+date: 10 June 2015
+author: Tony Scott
+tags: 2015 fitara techFAR
+image:
+image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
+img-alt: CIOC Logo
+---
+It has been over four months since I was appointed the U.S. Chief Information Officer (CIO). In that time, I have come to appreciate both the complexity of Federal information technology (IT) as well as the unprecedented opportunity of technology to accelerate the quality and timeliness of services delivered to the American people.
+
+I am excited to help drive the Administration’s [Smarter IT Delivery](http://www.whitehouse.gov/sites/default/files/omb/budget/fy2016/assets/fact_sheets/smarter-it-delivery.pdf) Agenda and the four core objectives across the Federal IT portfolio – (1) driving value in Federal IT investments, (2) delivering world-class digital services, (3) protecting Federal IT assets and information, and (4) developing the next generation IT workforce. The Administration launched the Smarter IT Delivery Agenda last spring in order to dramatically improve customer satisfaction with federal technology services. Smarter IT Delivery is focused on bringing the best IT professionals into government, establishing effective processes to drive outcomes and accountability, and partnering with the most innovative companies. Under this agenda, we have made great progress in delivering world-class digital services by setting up the United States Digital Service, publishing the [TechFAR Handbook and Digital Services Playbook](https://playbook.cio.gov/assets/TechFAR%20Handbook_2014-08-07.pdf), establishing a central Cyber unit within my office, and releasing [government data](https://www.whitehouse.gov/blog/2015/03/19/turning-government-data-better-public-service) to inform better government service.
+
+However, my past experience has taught me that without a strong foundation, it is difficult for new initiatives to fully take root. My previous work as a CIO taught me the importance of having foresight into IT spending, forging strong partnerships with program leaders, and having a solid understanding of the critical role that IT plays in serving the organization’s mission. This critical foundation does not exist consistently throughout the Federal Government. One of my top priorities going forward will be to build this new foundation for effective management of technology through full implementation of the Federal IT Acquisition Reform Act (FITARA) in a way that is workable, collaborative, effective, and consistent.
+
+To aid in that implementation, today OMB is releasing the guidance to agencies on FITARA implementation [Management and Oversight of Information Technology Resources](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf). This guidance is a result of extensive outreach and collaboration conducted over the past four months, including a month-long public comment period. The guidance takes major steps toward ensuring agency CIOs have significant involvement in procurement, workforce, and technology-related budget matters while continuing a partnership with other senior leaders. It also takes major steps toward positioning CIOs so that they can reasonably be held accountable for how effectively their agencies use modern digital approaches to achieve the objectives of effective and efficient programs and operations. Over the next year, you can expect to see a major push from OMB to leverage the implementation of FITARA, implementation of Federal Information Security Modernization Act of 2014, and stronger approaches to the acquisition and management of commodity IT and data infrastructure to achieve our objectives.
+
+Our guidance not only fulfills the new law’s requirements but also empowers Federal executives with the means and information necessary to help Federal IT become an effective strategic partner to mission programs. As drafted, this guidance aims to establish government-wide IT management controls that will meet FITARA requirements while also providing agencies with the flexibility to adapt to agency processes and unique mission requirements. This, in turn, will ensure that IT investments align with agency mission, goals, and programmatic priorities.
+
+My intent is that this approach will allow FITARA to have its envisioned impact and further the Administration’s ongoing work under Smarter IT Delivery. This will ultimately result in a more efficient, effective, and secure government that better meets the needs of the American people.
