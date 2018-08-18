@@ -3,7 +3,7 @@
     <div class="usa-grid">
       <div class="usa-footer-logo usa-width-one-half">
         {% if site.footer.image %}
-          <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="Logo image of the Federal CIO Council">
+          <a href="{{site.baseurl}}"><img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="Logo image of the Federal CIO Council"></a>
         {% endif %}
         {% if site.footer.text %}
           <p>{{ site.footer.text }} <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/{{ page.path }}" target="_blank">Suggest an edit</a>.</p>
@@ -18,7 +18,7 @@
           {% if site.footer.contact.youtube %}
           <a class="usa-link-youtube" href="https://youtube.com/{{ youtube }}"><span>YouTube</span></a>
           {% endif %}
-          <a class="usa-link-rss" href="{{ site.baseurl }}/feed/"><span>RSS feed</span></a>
+          <a class="usa-link-rss" href="{{ site.baseurl }}/feed.xml"><span>RSS feed</span></a>
 
         <address>
           {% if site.footer.contact.name %}
