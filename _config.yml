@@ -112,7 +112,7 @@ collections:
   fedit:
     output: true
 
-gems:
+plugins:
   - jekyll-paginate-v2
   - jekyll-feed
 
