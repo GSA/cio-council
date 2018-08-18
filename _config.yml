@@ -116,7 +116,7 @@ collections:
 plugins_dir:
   - jekyll-paginate-v2
 pagination:
-  paginate_path: '/blog/page:num/'
+  paginate_path: /blog/page:num/
   enabled: true
   per_page: 5
   sort_field: 'date'
