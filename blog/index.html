@@ -38,10 +38,9 @@ pagination:
         &#8249; Previous {{ paginator.per_page }} posts
       </a>
     {% else %}
-    <p></p>
     {% endif %}
 
-    <p>Page {{ paginator.page }} of {{ paginator.total_pages }}</p>
+    Page {{ paginator.page }} of {{ paginator.total_pages }}
 
     {% if paginator.next_page %}
     <a class="link-arrow-right" href="{{ site.baseurl }}{{ paginator.next_page_path }}/">
