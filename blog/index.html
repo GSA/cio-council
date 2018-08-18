@@ -34,7 +34,7 @@ pagination:
   <br><br>
   <div class="pagination">
     {% if paginator.previous_page %}
-      <a class="link-arrow-left" href="{{ site.baseurl }}{{ paginator.previous_page_path }}/">
+      <a class="pagination-left" href="{{ site.baseurl }}{{ paginator.previous_page_path }}/">
         &#8249; Previous {{ paginator.per_page }} posts
       </a>
     {% else %}
@@ -43,12 +43,12 @@ pagination:
     Page {{ paginator.page }} of {{ paginator.total_pages }}
 
     {% if paginator.next_page %}
-    <a class="link-arrow-right" href="{{ site.baseurl }}{{ paginator.next_page_path }}/">
+    <a class="pagination-right" href="{{ site.baseurl }}{{ paginator.next_page_path }}/">
       Next {{ paginator.per_page }} posts &#8250;
     </a>
     {% else %}
     <p></p>
     {% endif %}
   </div>
+  <br><br>
 </div>
-<br><br>
