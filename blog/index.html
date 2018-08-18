@@ -40,7 +40,7 @@ pagination:
     {% else %}
     {% endif %}
 
-    Page {{ paginator.page }} of {{ paginator.total_pages }}
+    <span style="margin-left: 50%;">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
 
     {% if paginator.next_page %}
     <a style="margin-left: 15rem;" href="{{ site.baseurl }}{{ paginator.next_page_path }}/">
