@@ -114,6 +114,7 @@ collections:
 
 plugins_dir:
   - jekyll-paginate-v2
+  - jekyll-feed
 
 pagination:
   paginate_path: /blog/page:num/
