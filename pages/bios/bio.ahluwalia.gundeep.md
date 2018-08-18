@@ -1,7 +1,6 @@
 ---
 layout: bio
-body-class: home
-permalink: /about/members-and-leadership/mr-gundeep-ahluwalia/
+permalink: /about/members-and-leadership/ahluwalia-gundeep/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. GUNDEEP AHLUWALIA
 bio-title-text: CHIEF INFORMATION OFFICER,

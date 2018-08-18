@@ -1,7 +1,7 @@
 ---
 layout: bio
 body-class: home
-title: MR. GARY WASHINGTON - USDA
+title: MR. GARY WASHINGTON
 permalink: /about/members-and-leadership/washington-gary/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. GARY WASHINGTON

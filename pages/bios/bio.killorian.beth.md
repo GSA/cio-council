@@ -1,8 +1,7 @@
 ---
 layout: bio
-body-class: home
-title: Beth Killorian
-permalink: /about/members-and-leadership/ms-beth-anne-killoran/
+title: Ms. Beth Killoran
+permalink: /about/members-and-leadership/killoran-beth/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. BETH ANNE KILLORAN
 bio-title-text: CHIEF INFORMATION OFFICER,

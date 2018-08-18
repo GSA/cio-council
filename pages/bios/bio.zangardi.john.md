@@ -1,8 +1,8 @@
 ---
 layout: bio
-body-class: home
-title: Dr. John Zangardi - DHS
-permalink: /about/members-and-leadership/dr-john-zangardi/
+
+title: Dr. John Zangardi
+permalink: /about/members-and-leadership/zangardi-john/
 background-image: /assets/img/grey.background.png
 bio-name-text: DR. JOHN ZANGARDI
 bio-title-text: CHIEF INFORMATION OFFICER,

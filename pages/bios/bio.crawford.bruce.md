@@ -1,8 +1,7 @@
 ---
 layout: bio
-body-class: home
-title: Bruce Crawford
-permalink: /about/members-and-leadership/lieutenant-general-bruce-t-crawford/
+title: LTG Bruce Crawford
+permalink: /about/members-and-leadership/crawford-bruce/
 background-image: /assets/img/grey.background.png
 bio-name-text: LTG BRUCE T. CRAWFORD
 bio-title-text: CHIEF INFORMATION OFFICER,

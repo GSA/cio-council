@@ -1,8 +1,7 @@
 ---
 layout: bio
-body-class: home
-title: Vaughn Noga
-permalink: /about/members-and-leadership/vaughn-noga/
+title: Mr. Vaughn Noga
+permalink: /about/members-and-leadership/noga-vaughn/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. VAUGHN NOGA
 bio-title-text: ACTING CHIEF INFORMATION OFFICER,

@@ -1,8 +1,7 @@
 ---
 layout: bio
-body-class: home
-title: MR. ERIC OLSON - TREASURY
-permalink: /about/members-and-leadership/mr-eric-olson/
+title: Mr. ERIC OLSON 
+permalink: /about/members-and-leadership/olson-eric/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. ERIC OLSON
 bio-title-text: CHIEF INFORMATION OFFICER,

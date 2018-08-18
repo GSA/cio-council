@@ -1,8 +1,8 @@
 ---
 layout: bio
 body-class: home
-title: Mr. Rod Turk - Commerce
-permalink: /about/members-and-leadership/rod-turk/
+title: Mr. Rod Turk
+permalink: /about/members-and-leadership/turk-rod/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. ROD TURK
 bio-title-text: ACTING CHIEF INFORMATION OFFICER,

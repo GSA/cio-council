@@ -1,8 +1,7 @@
 ---
 layout: bio
-body-class: home
-title: MR. DAVID SHIVE - GSA
-permalink: /about/members-and-leadership/mr-david-shive/
+title: MR. DAVID SHIVE
+permalink: /about/members-and-leadership/shive-david/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. DAVID SHIVE
 bio-title-text: CHIEF INFORMATION OFFICER,

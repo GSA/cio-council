@@ -1,8 +1,7 @@
 ---
 layout: bio
-body-class: home
-title: Gregory Garcia
-permalink: /about/members-and-leadership/greg-garcia/
+title: Mr. Gregory Garcia
+permalink: /about/members-and-leadership/garcia-gregory/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. GREGORY L. GARCIA
 bio-title-text: CHIEF INFORMATION SECURITY OFFICER

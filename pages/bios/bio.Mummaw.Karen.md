@@ -1,6 +1,5 @@
 ---
 layout: bio
-body-class: home
 title: MS. KAREN MUMMAW
 permalink: /about/members-and-leadership/mummaw-karen/
 background-image: /assets/img/grey.background.png

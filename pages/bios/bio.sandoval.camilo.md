@@ -1,6 +1,5 @@
 ---
 layout: bio
-body-class: home
 title: Mr. Camilo Sandoval
 permalink: /about/members-and-leadership/sandoval-camilo/
 background-image: /assets/img/grey.background.png

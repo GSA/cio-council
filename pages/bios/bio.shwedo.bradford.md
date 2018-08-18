@@ -1,8 +1,8 @@
 ---
 layout: bio
 body-class: home
-title: LT. GEN. BRADFORD J. "B.J." SHWEDO - AIR FORCE
-permalink: /about/members-and-leadership/lieutenant-general-bradford-j-b-j-shwedo/
+title: LT. GEN. BRADFORD J. "B.J." SHWEDO
+permalink: /about/members-and-leadership/shwedo-bradford/
 background-image: /assets/img/grey.background.png
 bio-name-text: LT. GEN. BRADFORD J. "B.J." SHWEDO
 bio-title-text: CHIEF INFORMATION OFFICER,

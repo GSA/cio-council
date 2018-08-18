@@ -1,7 +1,6 @@
 ---
 layout: bio
-body-class: home
-permalink: /about/members-and-leadership/jay-mahanand/
+permalink: /about/members-and-leadership/mahanand-jay/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. JAY MAHANAND
 bio-title-text: CHIEF INFORMATION OFFICER,

@@ -1,7 +1,6 @@
 ---
 layout: bio
-body-class: home
-permalink: /about/members-and-leadership/mr-rajive-mathur/
+permalink: /about/members-and-leadership/mathur-rajive/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. RAJIVE MATHUR
 bio-title-text: CHIEF INFORMATION OFFICER,

@@ -5,7 +5,7 @@ permalink: /ciso-handbook/
 background-image: /assets/img/grey.background.png
 image: /assets/img/highlight.cisohandbook.png
 hero-text: The Chief Information Security Officer (CISO) Handbook
-hero-byline: CIOC Highlight
+hero-byline: Council Highlight
 description: The CISO Handbook was created to educate and inform new and existing CISOs about their role in Federal cybersecurity.
 attachment: /assets/files/CISO_Handbook.pdf
 button: Download the Handbook

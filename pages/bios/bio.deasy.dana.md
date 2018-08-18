@@ -1,7 +1,6 @@
 ---
 layout: bio
-body-class: home
-permalink: /about/members-and-leadership/mr-dana-deasy/
+permalink: /about/members-and-leadership/deasy-dana/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. DANA DEASY
 bio-title-text: CHIEF INFORMATION OFFICER,

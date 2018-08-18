@@ -1,7 +1,6 @@
 ---
 layout: bio
-body-class: home
-permalink: /about/members-and-leadership/mr-david-nelson/
+permalink: /about/members-and-leadership/nelson-david/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. DAVID NELSON
 bio-title-text: CHIEF INFORMATION OFFICER,

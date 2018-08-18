@@ -1,8 +1,7 @@
 ---
 layout: bio
-body-class: home
-title: Margie Graves
-permalink: /about/members-and-leadership/margie-graves/
+title: Ms. Margie Graves
+permalink: /about/members-and-leadership/graves-margie/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. MARGIE GRAVES
 bio-title-text: FEDERAL DEPUTY CHIEF INFORMATION OFFICER

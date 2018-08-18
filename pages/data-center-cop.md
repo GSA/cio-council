@@ -23,11 +23,11 @@ Working groups aligned with CoP goals will be led by volunteers and established 
 * Email dcoi@gsa.gov to suggest topics for new working groups
 
 #### Joining the CoP listserv
-Subscribe to the DCOI CoP listserv to keep updated on opportunities and progress. Send an email message from a .gov or .mil email address only to [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov) to join the DCOI listserv/CoP . The message should not include any content in the subject field. Enter “subscribe datacenters” in the body of the message.
+Subscribe to the DCOI CoP listserv to keep updated on opportunities and progress. Send an email message from a .gov or .mil email address only to [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov) to join the DCOI listserv/CoP . The message should not include any content in the subject field. Enter “subscribe datacenters” in the body of the message.  
 _Please Note: This is an unmoderated list. Messages sent to the listserv will be forwarded to all subscribers._
 
 #### Posting in the CoP Forum (on Acquisition Gateway)
-Join CoP online forums to share information and access knowledge from colleagues on optimizing data centers.
+Join CoP online forums to share information and access knowledge from colleagues on optimizing data centers.  
 _Please Note: The forums are unmoderated and your message will be posted immediately._
 * Network with colleagues by starting a conversation or responding to a post
 * Suggest a new forum topic by emailing dcoi@gsa.gov

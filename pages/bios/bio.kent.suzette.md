@@ -1,8 +1,7 @@
 ---
 layout: bio
-body-class: home
-title: Suzette Kent
-permalink: /about/members-and-leadership/Suzette-Kent/
+title: Ms. Suzette Kent
+permalink: /about/members-and-leadership/kent-suzette/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. SUZETTE KENT
 bio-title-text: FEDERAL CHIEF INFORMATION OFFICER

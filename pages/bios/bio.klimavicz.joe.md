@@ -1,8 +1,7 @@
 ---
 layout: bio
-body-class: home
-title: Joe Klimavcz
-permalink: /about/members-and-leadership/mr-joseph-klimavicz/
+title: Mr. Joe Klimavcz
+permalink: /about/members-and-leadership/klimavicz-joseph/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. JOSEPH KLIMAVICZ
 bio-title-text: CHIEF INFORMATION OFFICER,

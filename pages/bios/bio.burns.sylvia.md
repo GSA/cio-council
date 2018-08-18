@@ -1,8 +1,7 @@
 ---
 layout: bio
-body-class: home
-title: Sylvia Burns
-permalink: /about/members-and-leadership/ms-sylvia-burns/
+title: Ms. Sylvia Burns
+permalink: /about/members-and-leadership/burns-sylvia/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. SYLVIA BURNS
 bio-title-text: CHIEF INFORMATION OFFICER,

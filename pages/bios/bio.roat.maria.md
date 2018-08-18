@@ -1,8 +1,7 @@
 ---
 layout: bio
-body-class: home
-title: MS. MARIA ROAT - SBA
-permalink: /about/members-and-leadership/ms-maria-roat/
+title: MS. MARIA ROAT
+permalink: /about/members-and-leadership/roat-maria/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. MARIA ROAT
 bio-title-text: CHIEF INFORMATION OFFICER,

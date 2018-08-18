@@ -1,6 +1,5 @@
 ---
 layout: bio
-body-class: home
 title: MR. CHAD COWAN
 permalink: /about/members-and-leadership/cowan-chad/
 background-image: /assets/img/grey.background.png
