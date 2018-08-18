@@ -85,7 +85,6 @@ footer:
     email: feedback@cio.gov
     twitter:
       - ciodotgov
-    rss: https://www.cio.gov/feed/
   text:
  # Change to a tag line for your agency
 
@@ -115,7 +114,7 @@ collections:
 
 plugins_dir:
   - jekyll-paginate-v2
-  
+
 pagination:
   paginate_path: /blog/page:num/
   enabled: true
