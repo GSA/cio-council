@@ -10,7 +10,7 @@ description: To operate and innovate in the federal IT space, the United States 
 <div class="usa-alert usa-alert-info" >
   <div class="usa-alert-body">
     <h3 class="usa-alert-heading">Notice</h3>
-    <p class="usa-alert-text">This event occurred on November 6, 2017. Click <a href="{{site.baseurl}}/2018/02/02/hiring-event-results/">here</a> for the event summary.</p>
+    <p class="usa-alert-text">This event occurred on November 6, 2017. Click <a href="{{site.baseurl}}/2018/02/02/hiring-event-results.html">here</a> for the event summary.</p>
   </div>
 </div>
 <br>
