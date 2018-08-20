@@ -17,8 +17,7 @@ layout: base
           {% assign tags = site.tags | sort %}
            <ul class="tags">
           {% for tag in tags %}
-              <a href="{{ site.baseurl }}/tags/{{ tag | first | slugify }}/"
-                  style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+              <a href="{{ site.baseurl }}/tags/{{ tag | first | slugify }}/">
                       <li class="tag">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})</li></a>
               </a>
           </ul>

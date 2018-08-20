@@ -25,7 +25,7 @@ This work was truly collaborative team effort, with teams from the Departments o
 
 ## Here’s how we did it:
 
-###_Build with, not for, users._  
+### _Build with, not for, users._  
 We knew what we needed to do – make people’s lives better by providing them the tools and information to make more informed choices and get the best bang for buck college choice. And we thought – exactly how do people make choices when deciding on college?
 
 So we went out and asked them...
@@ -54,7 +54,7 @@ The demographic data includes things you might expect, like ethnicity or gender,
 
 And this is just the beginning. By giving developers access to an API, even more customized tools will be created, providing students more options than ever before to find the right school for them.
 
-###_What this means for the marketplace_
+### _What this means for the marketplace_
 
 As the President said in his [weekly address](https://www.whitehouse.gov/the-press-office/2015/09/12/weekly-address-new-college-scorecard),
 

@@ -10,6 +10,8 @@ image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo
 ---
+_This blog entry was co-authored with Anne Rung, U.S. Chief Acquisition Officer, and originally published on the White House blog._
+
 Today, the Office of the Federal Chief Acquisition Officer and the Office of the Federal Chief Information Officer released for public comment a directive to Federal agencies to drive greater efficiency into how we manage and buy software.
 
 Each year, the U.S. Government spends more than $9 billion on software through more than 50,000 transactions, which results in a fragmented and inefficient marketplace. A recent report by the Government Accountability Office (GAO) indicates that agencies buy and manage software licenses in a decentralized manner, struggle to create accurate inventories, often purchase unneeded capabilities, and generally do not share pricing, terms, and conditions across Government to facilitate better purchasing. Furthermore, most agencies do not have a designated central oversight authority to manage software agreements, and agency personnel often lack sufficient experience and expertise to effectively negotiate and manage large software agreements. Today’s guidance addresses these and other challenges in information technology management, specifically software licenses.
@@ -23,5 +25,3 @@ In October, building on the Administration’s [category management initiative](
 Today’s proposed guidance doubles down on this progress by calling on agencies to centrally manage their software buys to reduce underutilization, to maximize the use of best-in-class solutions and for a multi-agency software team to develop new enterprise-wide software agreements. Guidance for mobile solutions will come in the new year.
 
 The public can submit comment on the proposed guidance by clicking [HERE](http://software.cio.gov/).
-
-This blog entry was co-authored with Anne Rung, U.S. Chief Acquisition Officer, and originally published on the White House blog.
