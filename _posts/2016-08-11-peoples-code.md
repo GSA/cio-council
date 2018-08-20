@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 'The People's Code'
+title: The People's Code
 description:
 date: 2016-08-11
 display-date: 11 August 2016
