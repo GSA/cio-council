@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 'Talent Gap - OPM's Collaboration on the Cybersecurity Workforce Strategy'
+title: Talent Gap - OPM's Collaboration on the Cybersecurity Workforce Strategy
 description:
 date: 2016-08-22
 display-date: 22 August 2016
