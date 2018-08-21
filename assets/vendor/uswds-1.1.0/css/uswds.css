@@ -3980,7 +3980,7 @@ input.usa-input-medium {
 }
 
 a.usa-nav-submenu:visited{
-  color: #ffffff;
+  color: #ffffff !important;
 }
 
 .usa-nav-submenu > li {
