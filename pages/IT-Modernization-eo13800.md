@@ -19,5 +19,5 @@ Since the issuance one year ago of [EO 13800](https://www.whitehouse.gov/preside
 The insights and findings from these two reports have helped bring clarity to issues and focus resources on the path forward. Collectively, these actions are the catalyst to dramatically accelerate the Federal Government’s IT Modernization efforts to improve services and the security posture of Federal IT.
 
 For more information regarding the IT Modernization Progress and the Release of the Federal Cybersecurity Risk Determination Report and Action Plan, please visit the blog entries below:
-  * [IT Modernization Progress Update](https://www.cio.gov/2018/05/30/IT-Modernization/)
-  * [Federal Cybersecurity Risk Determination Report and Action Plan](https://www.cio.gov/2018/05/30/Risk-Report/)
+  * [IT Modernization Progress Update]({{site.baseurl}}/2018/05/30/IT-Modernization/)
+  * [Federal Cybersecurity Risk Determination Report and Action Plan]({{site.baseurl}}/2018/05/30/Risk-Report/)
