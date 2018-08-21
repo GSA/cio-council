@@ -4,7 +4,6 @@ title: Resources
 permalink: /resources/
 hero-text: Resources
 ---
-
 ### Publications
 * [Chief Information Security Officer Handbook]({{site.baseurl}}/ciso-handbook/)
 * [EO 13800 & Updates IT Modernization]({{site.baseurl}}/2018/05/30/IT-Modernization-Report-Updates/)
@@ -22,7 +21,7 @@ hero-text: Resources
 * [President's Management Council](https://www.gsa.gov/about-us/organization/office-of-governmentwide-policy/office-of-shared-solutions-and-performance-improvement/presidents-management-council-pmc)
 * [Unified Shared Services Management](https://www.ussm.gov/)
 
-### Other Resources
+### Other Sites
 * [Performance.gov](https://performance.gov)
 * [ITDashboard](https://itdashboard.gov)
 * [FedRamp](https://fedramp.gov)
