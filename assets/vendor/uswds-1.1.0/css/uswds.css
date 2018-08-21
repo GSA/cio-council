@@ -3979,10 +3979,6 @@ input.usa-input-medium {
   width: 100%;
 }
 
-a.usa-nav-submenu:visited{
-  color: #ffffff !important;
-}
-
 .usa-nav-submenu > li {
   margin-bottom: 0;
 }
@@ -3995,6 +3991,7 @@ a.usa-nav-submenu:visited{
 .usa-nav-submenu a {
   padding-left: 2.8rem;
   line-height: 1.3;
+  color: #ffffff !important;
 }
 
 .usa-nav-submenu a:hover, .usa-nav-submenu a.usa-current {
