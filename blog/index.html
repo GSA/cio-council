@@ -7,7 +7,7 @@ pagination:
   enabled: true
   per_page: 5
 ---
-<div class="usa-width-one-whole">
+<article class="usa-width-one-whole">
 {% for post in paginator.posts %}
   <h6 style="margin-bottom:3px; margin-top: 15px"> {{ post.date | date_to_string }}</h6>
   <a href="{{ post.url | prepend: site.baseurl }}"><h2 style="margin-top:0px; margin-bottom: 0px;">{{ post.title }}</h2></a>
@@ -28,7 +28,7 @@ pagination:
   <hr>
   <br>
 {% endfor %}
-</div>
+</article>
 
 <div class="usa-width-one-whole">
   <br><br>
