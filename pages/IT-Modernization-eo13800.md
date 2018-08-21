@@ -1,11 +1,11 @@
 ---
 layout: page
 title: EO 13800 & Updates IT Modernization Update
-permalink: /eo-13800/
+permalink: /2018/05/30/IT-Modernization-Report-Updates/
 background-image: /assets/img/grey.background.png
 image: /assets/img/highlight.eo13800.png
 hero-text: EO 13800 & Updates IT Modernization Update
-hero-byline: Council Highlight
+hero-byline: Resource
 description: This Administration has continued to place a significant emphasis on improving the way that the Federal Government serves American Citizens.
 ---
 Since the issuance one year ago of [EO 13800](https://www.whitehouse.gov/presidential-actions/presidential-executive-order-strengthening-cybersecurity-federal-networks-critical-infrastructure/) commissioning the Federal IT Modernization Report, this Administration has continued to place a significant emphasis on improving the way that the Federal Government serves American Citizens. The analysis commissioned through the EO have resulted in insights that are now informing our forward strategies. In response to areas identified by the IT Modernization report and the Federal Cybersecurity Risk Determination Report and Action Plan to the President of the United States, including:
