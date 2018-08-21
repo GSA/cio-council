@@ -16,7 +16,7 @@ colors:
     color: '#0071bc'
     active: '#0071bc'
     hover: '#205493'
-
+    visited: 
   button:
     background: '#0071bc'
     hover: '#205493'
