@@ -98,6 +98,10 @@ $on-laptop:        800px;
   text-decoration: none;
   -webkit-transition: color 0.2s;
 }
+a.tag:visited{
+  color: #333;
+
+}
 
 .tag::before {
   background: #fff;
