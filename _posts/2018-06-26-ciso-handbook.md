@@ -4,7 +4,7 @@ title: Introducing a New, Informative Resource for Security Professionals
 description:
 date: 2018-06-26
 display-date: 26 June 2018
-author: CIO Council Support
+author: CIO Council Operations
 tags: 2018 ciso cybersecurity
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png

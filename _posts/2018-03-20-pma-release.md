@@ -4,7 +4,7 @@ title: President's Management Agenda Release
 description:
 date: 2018-03-15
 display-date: 15 March 2018
-author: CIOC Support
+author: CIO Council Operations
 tags: 2018 pma
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png

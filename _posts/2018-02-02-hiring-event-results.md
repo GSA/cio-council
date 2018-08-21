@@ -4,7 +4,7 @@ title: 'Preliminary Results of the CIO Council’s Government-wide Hiring Event 
 description:
 date: 2018-02-02
 display-date: 2 February 2018
-author: CIOC Support
+author: CIO Council Operations
 tags: 2018 workforce
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png

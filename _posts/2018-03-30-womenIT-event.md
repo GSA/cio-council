@@ -4,7 +4,7 @@ title: CIO Council Honors Women in Tech for Women's History Month
 description:
 date: 2018-03-30
 display-date: 30 March 2018
-author: CIOC Support
+author: CIO Council Operations
 tags: 2018 workforce
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png

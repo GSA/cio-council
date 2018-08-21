@@ -4,7 +4,7 @@ title: NewPay Pre-Soliciation Notice Release
 description:
 date: 2018-05-04
 display-date: 04 May 2018
-author: CIOC Support
+author: CIO Council Operations
 tags: 2018
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png

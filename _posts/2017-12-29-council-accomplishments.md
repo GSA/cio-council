@@ -4,7 +4,7 @@ title: 'Federal CIO Council 2017 Accomplishments'
 description:
 date: 2017-12-29
 display-date: 29 December 2017
-author: CIOC Support
+author: CIO Council Operations
 tags: 2017
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
