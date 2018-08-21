@@ -4,7 +4,7 @@ title: 'GSA Partners with CIO Council to Move IT Shared Services Forward'
 description:
 date: 2015-04-20
 display-date: 20 April 2015
-author: CIOC Support
+author: CIO Council Operations
 tags: 2015 innovation workforce
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png

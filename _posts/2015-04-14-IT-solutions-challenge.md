@@ -4,7 +4,7 @@ title: 'IT Solutions Challenge'
 description:
 date: 2015-04-14
 display-date: 14 April 2015
-author: CIOC Support
+author: CIO Council Operations
 tags: 2015 innovation workforce
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
