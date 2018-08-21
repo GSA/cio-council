@@ -6,7 +6,7 @@ hero-text: Resources
 ---
 ### Publications
 * [Chief Information Security Officer Handbook]({{site.baseurl}}/ciso-handbook/)
-* [EO 13800 & Updates IT Modernization]({{site.baseurl}}/2018/05/30/IT-Modernization-Report-Updates/)
+* [EO 13800 & Updates IT Modernization]({{site.baseurl}}/IT-Modernization-Report-Updates/)
 * Read more publications in the [CIO Council Document Library]({{site.baseurl/resources/document-library/}})
 
 ### Partner Offices

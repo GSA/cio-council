@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EO 13800 & Updates IT Modernization Update
-permalink: /2018/05/30/IT-Modernization-Report-Updates/
+permalink: /IT-Modernization-Report-Updates/
 background-image: /assets/img/grey.background.png
 image: /assets/img/highlight.eo13800.png
 hero-text: EO 13800 & Updates IT Modernization Update
