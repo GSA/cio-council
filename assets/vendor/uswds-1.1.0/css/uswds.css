@@ -3979,6 +3979,10 @@ input.usa-input-medium {
   width: 100%;
 }
 
+a.usa-nav-submenu:visited{
+  color: #ffffff;
+}
+
 .usa-nav-submenu > li {
   margin-bottom: 0;
 }
