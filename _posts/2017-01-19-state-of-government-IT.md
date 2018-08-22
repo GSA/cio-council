@@ -28,10 +28,11 @@ Links to specific portions of the report are below.
 
 1. [Introduction and Preface](https://github.com/GSA/cio-council/blob/master/assets/files/sofit/01.introduction.pdf)
 2. Policy Papers
-  1. [Management and Oversight of IT](https://github.com/GSA/cio-council/blob/master/assets/files/sofit/02.01.sofit.mgmt.oversight.pdf)
-  2. [IT Infrastructure Modernization](https://github.com/GSA/cio-council/blob/master/assets/files/sofit/02.02.sofit.it.infrastrucutre.modernization.pdf)
-  3. [Open Government and Open Data](https://github.com/GSA/cio-council/blob/master/assets/files/sofit/02.03.sofit.open.govt.open.data.pdf)
-  4. [Federal Shared Services](https://github.com/GSA/cio-council/blob/master/assets/files/sofit/02.04.shared.services.pdf)
-  5. [Cybersecurity](https://github.com/GSA/cio-council/blob/master/assets/files/sofit/02.05.cybersecurity.pdf)
-  6. [IT Acquisition and Contracts Management](https://github.com/GSA/cio-council/blob/master/assets/files/sofit/02.06.acquisition.pdf)
+  * [Management and Oversight of IT](https://github.com/GSA/cio-council/blob/master/assets/files/sofit/02.01.sofit.mgmt.oversight.pdf)
+  * [IT Infrastructure Modernization](https://github.com/GSA/cio-council/blob/master/assets/files/sofit/02.02.sofit.it.infrastrucutre.modernization.pdf)
+  * [Open Government and Open Data](https://github.com/GSA/cio-council/blob/master/assets/files/sofit/02.03.sofit.open.govt.open.data.pdf)
+  * [Federal Shared Services](https://github.com/GSA/cio-council/blob/master/assets/files/sofit/02.04.shared.services.pdf)
+  * [Cybersecurity](https://github.com/GSA/cio-council/blob/master/assets/files/sofit/02.05.cybersecurity.pdf)
+  * [IT Acquisition and Contracts Management](https://github.com/GSA/cio-council/blob/master/assets/files/sofit/02.06.acquisition.pdf)
+  
 3. [Recommendations](https://github.com/GSA/cio-council/blob/master/assets/files/sofit/03.recommendations.pdf)
