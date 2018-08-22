@@ -4,7 +4,7 @@ title: 'Why I’m Joining the Technology Transformation Service'
 description:
 date: 2016-11-04
 display-date: 04 November 2016
-author: CIO Council Operations
+author: Rob Cook, Commissioner of the Technology Transformation Service
 tags: 2016
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
