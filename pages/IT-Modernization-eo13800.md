@@ -1,10 +1,10 @@
 ---
 layout: page
-title: EO 13800 & Updates IT Modernization Update
+title: EO 13800 & IT Modernization Updates
 permalink: /IT-Modernization-Report-Updates/
 background-image: /assets/img/grey.background.png
 image: /assets/img/highlight.eo13800.png
-hero-text: EO 13800 & Updates IT Modernization Update
+hero-text: EO 13800 & IT Modernization Updates
 hero-byline: Resource
 description: This Administration has continued to place a significant emphasis on improving the way that the Federal Government serves American Citizens.
 ---

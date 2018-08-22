@@ -6,9 +6,9 @@ hero-text: Resources
 ---
 ## Publications
 * [Chief Information Security Officer Handbook]({{site.baseurl}}/ciso-handbook/)
-* [EO 13800 & Updates IT Modernization]({{site.baseurl}}/IT-Modernization-Report-Updates/)
+* [EO 13800 & IT Modernization Updates]({{site.baseurl}}/IT-Modernization-Report-Updates/)
 * [State of Federal IT Report (SOFIT)]({{site.baseurl}}/sofit/)
-* Read more publications in the [CIO Council Document Library]({{site.baseurl}}/resources/document-library/)
+* [CIO Council Document Library]({{site.baseurl}}/resources/document-library/)
 
 ## Office of Management & Budget
 * [Office of the Federal Chief Information Officer](https://policy.cio.gov)
