@@ -4024,6 +4024,9 @@ input.usa-input-medium {
   .usa-nav-submenu > li {
     margin-bottom: 0;
   }
+  .usa-nav-submenu a{
+    color: #0071bc !important;
+  }
 }
 
 .usa-nav-submenu[aria-hidden=true] {
