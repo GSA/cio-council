@@ -3991,7 +3991,6 @@ input.usa-input-medium {
 .usa-nav-submenu a {
   padding-left: 2.8rem;
   line-height: 1.3;
-  color: #ffffff !important;
 }
 
 .usa-nav-submenu a:hover, .usa-nav-submenu a.usa-current {
@@ -4025,7 +4024,7 @@ input.usa-input-medium {
     margin-bottom: 0;
   }
   .usa-nav-submenu a{
-    color: #0071bc !important;
+    color: #ffffff !important;
   }
 }
 
