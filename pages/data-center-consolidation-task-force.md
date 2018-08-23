@@ -43,7 +43,7 @@ _Please Note: The forums are unmoderated and your message will be posted immedia
 
 Network with colleagues by starting a conversation or responding to a post. Suggest a new forum topic by emailing [dcoi@gsa.gov](mailto:dcoi@gsa.gov)
 
-<h3 style="color:#515151;"> Find resources on the [DCOI Knowledge Portal](https://cioknowledge.max.gov/?q=search1&f%5B0%5D=field_1865593_1%3AData%20Center) (on OMB MAX)</h3>
+<h3 style="color:#515151;"> Find resources on the <a href="https://cioknowledge.max.gov/?q=search1&f%5B0%5D=field_1865593_1%3AData%20Center">DCOI Knowledge Portal</a> (on OMB MAX)</h3>
 
 Access and contribute to the DCOI Knowledge Portal. Identify and review topics/resources of interest.
 Email [dcoi@gsa.gov](mailto:dcoi@gsa.gov) to contribute to the DCOI Knowledge Portal.
