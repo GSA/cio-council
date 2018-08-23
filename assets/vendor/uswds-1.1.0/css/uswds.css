@@ -1775,7 +1775,7 @@ h4,
 h5,
 h6 {
   clear: both;
-  font-family: "Merriweather", "Georgia", "Cambria", "Times New Roman", "Times", serif;
+  font-family: "Poppins", sans-serif;
   line-height: 1.3;
   margin-bottom: .5em;
   margin-top: 1.5em;
@@ -4489,21 +4489,21 @@ input.usa-input-medium {
     float: left;
     width: 25%;
     padding: 3px;
-    
+
 }
 
 .column18 {
     float: left;
     width: 19%;
     padding: 3px;
-    
+
 }
 
 .column33 {
     float: left;
     width: 32%;
     padding: 3px;
-    
+
 }
 
 /* Clear floats after the columns */
@@ -4522,36 +4522,36 @@ input.usa-input-medium {
 
 .page_header {
   font-family: 'Poppins', sans-serif;
-  COLOR: #515151; 
+  COLOR: #515151;
   font-size: 42px; align: left;
 }
 
 .page_sub_header {
   font-family: 'Poppins', sans-serif;
-  COLOR: #515151; 
+  COLOR: #515151;
   font-size: 24px; align: left;
 }
 
 .section_header {
- font-family: 'Poppins', sans-serif; 
- COLOR: #515151; 
- font-size: 28px; 
+ font-family: 'Poppins', sans-serif;
+ COLOR: #515151;
+ font-size: 28px;
  align: left;
 }
 
 
 .sub_section_header {
- font-family: 'Poppins', sans-serif; 
- COLOR: #515151; 
- font-size: 20px; 
+ font-family: 'Poppins', sans-serif;
+ COLOR: #515151;
+ font-size: 20px;
  align: left;
 }
 
 
 .icon_caption {
- font-family: 'Poppins', sans-serif; 
- COLOR: #0071bc; 
- font-size: 20px; 
+ font-family: 'Poppins', sans-serif;
+ COLOR: #0071bc;
+ font-size: 20px;
 }
 
 
@@ -4561,5 +4561,3 @@ input.usa-input-medium {
 
 .footer_links {color: #ffffff;}
 .footer_links:visited {color: #ffffff;}
-
-
