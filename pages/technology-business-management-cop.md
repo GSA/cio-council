@@ -10,7 +10,7 @@ The TBM Community of Practice (TBM CoP) was established in December 2016 as a co
 
 The TBM CoP supports agency early adopters through the sharing of best practices to successfully implement the TBM taxonomy. Meeting topics include demos, guest speakers, updates on relevant policies, and more. The CoP meets on the third Wednesday of every month. The best practices and lessons learned will facilitate TBM adoption across the Federal government.
 
-To learn more, please visit the [CIO Council TBM CoP MAX page](https://community.max.gov/x/YAWIRg). If you are interested in joining the TBM CoP listserv, please email us at [tbm-cop@gsa.gov](tbm-cop@gsa.gov).
+To learn more, please visit the [CIO Council TBM CoP MAX page](https://community.max.gov/x/YAWIRg). If you are interested in joining the TBM CoP listserv, please email us at [tbm-cop@gsa.gov](mailto:tbm-cop@gsa.gov).
 
 
 ## RESOURCES
