@@ -8,12 +8,13 @@ hero-text: Resources
 * [Chief Information Security Officer Handbook]({{site.baseurl}}/ciso-handbook/)
 * [EO 13800 & IT Modernization Updates]({{site.baseurl}}/IT-Modernization-Report-Updates/)
 * [State of Federal IT Report (SOFIT)]({{site.baseurl}}/sofit/)
-* [CIO Council Document Library]({{site.baseurl}}/resources/document-library/)
+
+Additional publications can be found in the [CIO Council Document Library]({{site.baseurl}}/resources/document-library/)
 
 ## Office of Management & Budget
-* [Office of the Federal Chief Information Officer](https://policy.cio.gov)
+* [Office of the Federal Chief Information Officer](https://www.whitehouse.gov/omb/management/egov/)
 
-## Other Executive Councils
+## The CXO Council Community
 * [Chief Financial Officer's Council](https://www.cfo.gov/)
 * [Chief Human Capital Officer's Council](https://www.chcoc.gov/)
 * [Chief Acquisition Officer's Council](https://www.acquisition.gov/cao-home)
@@ -23,6 +24,11 @@ hero-text: Resources
 * [Unified Shared Services Management](https://www.ussm.gov/)
 
 ## Other Sites
+* [OFCIO Policy Working Space](https://policy.cio.gov)
+* [FITARA Implementation Guidance](https://management.cio.gov)
+* [Technology Modernization Fund](https://tmf.cio.gov)
+* [FICAM Information](https://idmanagement.gov)
+* [Section 508 Resources](https://section508.gov)
 * [Performance.gov](https://performance.gov)
 * [ITDashboard](https://itdashboard.gov)
 * [FedRamp](https://fedramp.gov)

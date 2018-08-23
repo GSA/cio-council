@@ -3469,6 +3469,8 @@ input.usa-input-medium {
   background-image: url("../img/hero.png");
   background-position: center;
   background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 .usa-hero .usa-button {
