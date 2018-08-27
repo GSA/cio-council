@@ -6,37 +6,30 @@
             <li class="usa-footer-primary-link">
                 <h4>About</h4>
             </li>
-            <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
-            <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
-            <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link that's a bit longer than most of the others</a></li>
-            <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
+            <li class="usa-footer-secondary-link"><a href="{{ site.baseurl }}/about/">About the Council</a></li>
+            <li class="usa-footer-secondary-link"><a href="{{ site.baseurl }}/about/members-and-leadership/">Council Members</a></li>
+            <li class="usa-footer-secondary-link"><a href="{{ site.baseurl }}/about/committees-affiliates/">Committees and Affiliates</a></li>
         </ul>
         <ul class="usa-unstyled-list usa-width-one-fourth usa-footer-primary-content">
             <li class="usa-footer-primary-link">
                 <h4>Agenda</h4>
             </li>
-            <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
-            <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link that's pretty long</a></li>
-            <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
-            <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
+            <li class="usa-footer-secondary-link"><a href="{{site.baseurl}}/agenda/priorities/">Priorities</a></li>
+            <li class="usa-footer-secondary-link"><a href="{{site.baseurl}}/agenda/initiatives/">Initiatives</a></li>
         </ul>
         <ul class="usa-unstyled-list usa-width-one-fourth usa-footer-primary-content">
             <li class="usa-footer-primary-link">
                 <h4>Blog</h4>
             </li>
-            <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
-            <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
-            <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
-            <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
+            <li class="usa-footer-secondary-link"><a href="{{site.baseurl}}/tags/2018">2018 Posts</a></li>
+            <li class="usa-footer-secondary-link"><a href="{{ site.baseurl }}/tags/2017">2017 Posts</a></li>
+            <li class="usa-footer-secondary-link"><a href="{{site.baseurl}}/tags/2016">2016 Posts</a></li>
         </ul>
         <ul class="usa-unstyled-list usa-width-one-fourth usa-footer-primary-content">
             <li class="usa-footer-primary-link">
                 <h4>Resources</h4>
             </li>
-            <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
-            <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
-            <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
-            <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
+            <li class="usa-footer-secondary-link"><a href="{{ site.baseurl }}/resources/document-library/">Document Library</a></li>
         </ul>
       </nav>
     </div>
@@ -64,14 +57,14 @@
 
         <address>
           {% if site.footer.contact.name %}
-            <h3 class="usa-footer-contact-heading">{{ site.footer.contact.name }}</h3>
+            <h3 class="usa-footer-contact-heading" style="color: #212121;">{{ site.footer.contact.name }}</h3>
           {% endif %}
           {% if site.footer.contact.phonenumber %}
             <p><a href="tel:{{ site.footer.contact.phonenumber }}">{{ site.footer.contact.phonenumber }}</a></p>
           {% endif %}
         </address>
-        <p><a href="mailto:{{ site.footer.contact.email }}">{{ site.footer.contact.email }}</a></p>
-        <a href="{{ site.baseurl}}/privacy-statement/">Privacy Statement </a> | <a href="{{site.baseurl}}/accessibility-policy/">Accessibility Policy</a>
+        <p><a href="mailto:{{ site.footer.contact.email }}">{{ site.footer.contact.email }}</a><br>
+        <a href="{{ site.baseurl}}/privacy-statement/">Privacy Statement </a> | <a href="{{site.baseurl}}/accessibility-policy/">Accessibility Policy</a></p>
       </div>
     </div>
   </div>
