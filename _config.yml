@@ -34,7 +34,7 @@ colors:
       background: '#dce4ef'
       text: '#112e51'
   footer:
-    primary-background: '363f48'
+    primary-background: '#363f48'
     secondary-background: '#d6d7d9'
     text: '#212121'
 
