@@ -2609,7 +2609,7 @@ dfn {
 }
 
 .usa-footer .usa-footer-primary-link {
-  color: #212121;
+  color: #FFFFFF;
   display: block;
   font-weight: 700;
   margin-top: 0;
@@ -2830,7 +2830,7 @@ li.usa-footer-primary-content:last-child {
 }
 
 .usa-footer-secondary_section a {
-  color: #212121;
+  color: #ffffff;
 }
 
 @media screen and (min-width: 600px) {
