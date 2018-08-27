@@ -5,7 +5,7 @@ description:
 date: 2017-01-19
 display-date: 19 November 2017
 author: CIO Council Operations
-tags: 2016 data-center
+tags: 2017 data-center
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo
@@ -34,5 +34,5 @@ Links to specific portions of the report are below.
   * [Federal Shared Services](https://github.com/GSA/cio-council/blob/master/assets/files/sofit/02.04.shared.services.pdf)
   * [Cybersecurity](https://github.com/GSA/cio-council/blob/master/assets/files/sofit/02.05.cybersecurity.pdf)
   * [IT Acquisition and Contracts Management](https://github.com/GSA/cio-council/blob/master/assets/files/sofit/02.06.acquisition.pdf)
-  
+
 3. [Recommendations](https://github.com/GSA/cio-council/blob/master/assets/files/sofit/03.recommendations.pdf)
