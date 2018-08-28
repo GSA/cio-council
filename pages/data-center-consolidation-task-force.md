@@ -1,49 +1,40 @@
 ---
 layout: data-center-consolidation-task-force
-body-class: home
-title: Data Center Optimization Initiative Community of Practice
+title: Cloud & Infrastructure Community of Practice
 permalink: /about/committees-affiliates/data-center-consolidation-task-force/
 background-image: /assets/img/grey.background.png
-hero-text: DATA CENTER OPTIMIZATION INITIATIVE<BR>COMMUNITY OF PRACTICE
-hero-byline:
-hero-button-text:
-hero-button-link:
-banner-heading:
-banner-text:
-banner-button-text:
-banner-button-link:
+hero-text: Cloud & Infrastructure Community of Practice
+
 ---
-The DCOI Community of Practice (CoP) provides both in-person and virtual forums for agencies to share and learn about discuss relevant data center issues including infrastructure management, facility oversight and optimization, performance reporting, new technologies, and the data center shared services marketplace, and more.
+The Cloud & Infrastructure Community of Practice (C&I CoP) provides both in-person and virtual forums for agencies to share and learn about Federal IT infrastructure. Discussion topics include cloud adoption, new technologies, best practices, common challenges, and more. The C&I CoP facilitates information sharing among federal agencies to speed cloud migration and data center consolidation.
 
-<h2 style="color:#515151;">Agencies can participate in the CoP in the following ways:</h2>
+<h2 style="color:#515151;">How to participate in the C&I CoP</h2>
 
-<h3 style="color:#515151;">Attending Monthly Meetings</h3>
-The DCOI CoP meets monthly on the first Wednesday of each month, in Washington, DC. These meetings provide agencies with an opportunity to learn about DCOI progress and resources, ask questions and share insights with data center management colleagues.
-
-Submit ideas for agenda items or issues you would like to see addressed to [dcoi@gsa.gov](mailto:dcoi@gsa.gov)
-Review the agenda and come prepared with questions for the topics to be discussed
-olunteer to present at a meeting
+<h3 style="color:#515151;">Attend Monthly C&I CoP Meetings</h3>
+**The C&I CoP meets the first Wednesday afternoon of each month, at GSA in Washington, DC.** These meetings provide agencies with an opportunity to ask questions and share insights with IT infrastructure colleagues. Participants can attend either in-person or virtually. Email [dcoi@gsa.gov](mailto:dcoi@gsa.gov) to submit agenda items or suggest topics for future meetings.
 
 <h3 style="color:#515151;"> Participating in Working Groups</h3>
-Working groups aligned with CoP goals will be led by volunteers and established as needed. These groups will convene outside of the monthly meetings. Join or volunteer to lead a working group
-Share working group insights at the monthly meetings, online forum and online library
+C&I CoP members can join working groups to participate in in-depth discussions and research on federal IT. Working group members collaboratively develop solutions such as white papers,and share with the wider C&I CoP for consideration. Email [dcoi@gsa.gov](mailto:dcoi@gsa.gov) to learn more about joining these working groups.
 
-Email [dcoi@gsa.gov](mailto:dcoi@gsa.gov) to suggest topics for new working groups
+<h3 style="color:#515151;">Joining the Listserv</h3>
+Subscribe to receive C&I CoP meeting invites, updates and tips on IT optimization:
 
-<h3 style="color:#515151;">Joining the CoP listserv</h3>
-Subscribe to the DCOI CoP listserv to keep updated on opportunities and progress. Send an email message from a .gov or .mil email address only to [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov) to join the DCOI listserv/CoP . The message should not include any content in the subject field. Enter “subscribe datacenters” in the body of the message.
+* Click on [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov).
+* Remove signature block.
+* In the email message body, type:
+  * subscribe datacenters [First Name] [Last Name], [Position Title]
+  * Ex: subscribe datacenters John Doe, Cloud Migration Manager
+* Leave the email subject field empty.
+* Send the message. You will receive a confirmation email once added to the listserv.
+* Only those with a “.gov” or “.mil” email may join. Email [dcoi@gsa.gov](mailto:dcoi@gsa.gov) to request to join using another official federal email address.
 
-_Please Note: This is an unmoderated list. Messages sent to the listserv will be forwarded to all subscribers._
+<h3 style="color:#515151;">View Online Resources</h3>
+Visit the [C&I CoP Homepage](https://community.max.gov/display/Egov/CIO+Council+Data+Center+Optimization+Initiative+Community+of+Practice).
 
+The C&I CoP’s MAX.gov page is the main online repository of CoP information. Find past presentations, upcoming meeting information, and other CoP-specific resources. Anyone with a federal email address can sign up and access the C&I CoP CIO Council MAX page.
 
-<h3 style="color:#515151;">Posting in the CoP Forum (on Acquisition Gateway)</h3>
-Join CoP online forums to share information and access knowledge from colleagues on optimizing data centers.
+Find C&I CoP resources on the CIO Council Knowledge Portal
 
-_Please Note: The forums are unmoderated and your message will be posted immediately._
+The DCOI PMO, a co-sponsor of the CoP, has produced resources ranging from guidance on cooling for data centers, to steps agencies should consider when migrating to the cloud. These resources are stored on the CIO Council Knowledge Portal on OMB MAX. Anyone with a federal email address can sign up and access these documents on MAX.
 
-Network with colleagues by starting a conversation or responding to a post. Suggest a new forum topic by emailing [dcoi@gsa.gov](mailto:dcoi@gsa.gov)
-
-<h3 style="color:#515151;"> Find resources on the <a href="https://cioknowledge.max.gov/?q=search1&f%5B0%5D=field_1865593_1%3AData%20Center">DCOI Knowledge Portal</a> (on OMB MAX)</h3>
-
-Access and contribute to the DCOI Knowledge Portal. Identify and review topics/resources of interest.
-Email [dcoi@gsa.gov](mailto:dcoi@gsa.gov) to contribute to the DCOI Knowledge Portal.
+Email [dcoi@gsa.gov](mailto:dcoi@gsa.gov) to contribute to, or suggest resources for, the Knowledge Portal.
