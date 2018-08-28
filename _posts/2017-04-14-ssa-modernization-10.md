@@ -1,35 +1,15 @@
 ---
 layout: blog
-body-class: home
-title: Blog - Part 10 - Modernizing with a Buy or Build
-blog-date: April 4, 2017
-blog-author: Rob Klopp, CIO, SSA
-blog-title: Part 10 - Modernizing with a Buy or Build
-permalink: /2017/04/14/part-10-modernizing-with-a-buy-or-a-build/
-background-image: /assets/img/grey.background.png
-hero-text:  News & Updates
-hero-byline:
-hero-button-text: 
-hero-button-link: 
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
+title: Modernizing Federal IT Part 10 - Modernizing with a Buy or Build
+date: 2017-04-14
+display-date: 14 April 2017
+author: Rob Klopp, CIO, Social Security Administration
+tags: 2017 it-modernization SSA
+image:
+image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
+img-alt: CIO Council Logo
 ---
-<BR>
-<I>This is the 10th in a series describing how the Social Security Administration is working towards a more
-modern IT infrastructure. </I><BR>
-*<A HREF="https://www.cio.gov/2015/12/10/modernizing-federal-it-part-1-catching-up-and-jumping-ahead/">Part 1: Catching Up and Jumping Ahead</A><BR>
-*<A HREF="https://www.cio.gov/2016/01/19/modernizing-federal-it-part-2-the-gravity-of-ip/">Part 2: The Gravity of Inetellectual Property</A><BR>
-*<A HREF="https://www.cio.gov/2016/03/07/modernizing-federal-it-part-3-teasing-apart-the-problem/">Part 3: Teasing Apart the Problem</A><BR>
-*<A HREF="https://www.cio.gov/2016/03/21/modernizing-federal-it-part-4-building-a-modern-data-foundation/">Part 4: Building a Modern Data Foundation</A><BR>
-*<A HREF="https://www.cio.gov/2016/05/23/modernizing-federal-it-part-5-modernizing-software-architecture/">Part 5: Modernizing Software Architecture</A><BR>
-*<A HREF="https://www.cio.gov/2016/11/07/modernizing-federal-it-part-6-agility-and-evolving-a-minimal-viable-product/">Part 6: Agility and Evolving a Minimal Viable Product</A><BR>
-*<A HREF="https://www.cio.gov/2016/11/22/modernizing-federal-it-part-7-what-does-a-modern-application-look-like/">Part 7: Modernizing Federal IT Part 7 What Does a Modern Application Look Like</A><BR>
-*<A HREF="https://www.cio.gov/2017/01/09/modernizing-federal-it-part-8-the-proof-is-in-the-pudding-disability-case-processing-system-2-dcps2-goes-live/">Part 8: Modernizing Federal IT Part 8: The Proof is in the Pudding, Disability Case Processing System 2 (DCPS2) goes Live</A><BR>
-*<A HREF="https://www.cio.gov/2017/03/27/modernizing-federal-it-part-9-modernization-begets-modernization/">Part 9: Modernization begets Modernization</A><BR>
-*<A HREF="https://www.cio.gov/2017/04/14/part-10-modernizing-with-a-buy-or-a-build/">Part 10: Modernizing with a Buy or Build</A>
-<BR><BR>
+_This is the tenth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure._
 
 In the last few posts I’ve been bragging about some successes. To close out my term I’ll try to say something more provocative and discuss how the economics of buy versus build are changing.  Over the last twenty years in the commercial world, there have been very compelling reasons to buy rather than build. First, a pre-built product carries less risk of a failure in development. Note that there are lots of stories around failed implementations of commercial off-the-shelf (COTS), so this advantage can be overstated.
 
@@ -58,3 +38,15 @@ As we plan for IT Modernization, every one of our efforts is likely to include e
 So I would suggest that every IT Modernization product must consider leveraging existing code to reduce cost and risk. When the heart of a commercial product is open source, we need to ask if the value add of the commercial wrapper is worth the cost or if we can build a bespoke product from the same components for less cost with the same or only slightly more risk. When there is no market for a commercial offering outside of a few government agencies, and therefore no pressure to reduce prices, we need to consider the ongoing costs of that near-monopolistic relationship.
 
 The buy versus build equation is much more complicated now. We need to rethink. Old school shrink wrapped vendors will push us to always “buy.” New age vendors will offer components and ask us to build a little. We cannot knee-jerk to a “buy” and we must allow this sort of “build” to happen. Once we agree that these builds are OK, we need to consider builds that use open source instead of commercial components. We need to be sure that we are not paying commercial fees for free open source code. Finally, we need to be sure that when we buy, we buy products that compete in a market. If we enter into near monopolistic COTS relationships, we will surely pay the price.
+
+#### Social Security IT Modernization Series
+* [Part 1: Catching Up and Jumping Ahead]({{site.baseurl}}/2015/12/10/ssa-modernization-1)
+* [Part 2: The Gravity of Intellectual Property]({{site.baseurl}}/2016/01/19/ssa-modernization-2)
+* Part 3: [Teasing Apart the Problem]({{site.baseurl}}/2016/03/07/ssa-modernization-3)
+* Part 4: [Building a Modern Data Foundation]({{site.baseurl}}/2016/03/21/ssa-modernization-4)
+* Part 5: [Modernizing Software Architecture]({{site.baseurl}}/2016/05/23/ssa-modernization-5)
+* Part 6: [Agility and Evolving a Minimal Viable Product]({{site.baseurl}}/2016/11/07/ssa-modernization-6)
+* Part 7: [Modernizing Federal IT Part 7 What Does a Modern Application Look Like]({{site.baseurl}}/2016/11/22/ssa-modernization-7)
+* Part 8: [The Proof is in the Pudding, Disability Case Processing System 2 (DCPS2) goes Live]({{site.baseurl}}/2017/01/09/ssa-modernization-8)
+* Part 9: [Modernization begets Modernization]({{site.baseurl}}/2017/03/27/ssa-modernization-9)
+* **Part 10: Modernizing with a Buy or Build**

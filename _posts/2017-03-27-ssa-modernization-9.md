@@ -1,35 +1,15 @@
 ---
 layout: blog
-body-class: home
-title: Blog - Part 9 - Modernization Begets Modernization
-blog-date: March 27, 2017
-blog-author: Rob Klopp, CIO, SSA
-blog-title: Part 9 - Modernization Begets Modernization
-permalink: /2017/03/27/modernizing-federal-it-part-9-modernization-begets-modernization/
-background-image: /assets/img/grey.background.png
-hero-text:  News & Updates
-hero-byline:
-hero-button-text: 
-hero-button-link: 
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
+title:  Modernizing Federal IT Part 9 - Modernization Begets Modernization
+date: 2017-03-27
+display-date: 27 March 2017
+author: Rob Klopp, CIO, SSA
+tags: 2017 it-modernization SSA
+image:
+image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
+img-alt: CIO Council Logo
 ---
-<BR>
-<I>This is the 9th in a series describing how the Social Security Administration is working towards a more
-modern IT infrastructure. </I>
-*<A HREF="https://www.cio.gov/2015/12/10/modernizing-federal-it-part-1-catching-up-and-jumping-ahead/">Part 1: Catching Up and Jumping Ahead</A><BR>
-*<A HREF="https://www.cio.gov/2016/01/19/modernizing-federal-it-part-2-the-gravity-of-ip/">Part 2: The Gravity of Inetellectual Property</A><BR>
-*<A HREF="https://www.cio.gov/2016/03/07/modernizing-federal-it-part-3-teasing-apart-the-problem/">Part 3: Teasing Apart the Problem</A><BR>
-*<A HREF="https://www.cio.gov/2016/03/21/modernizing-federal-it-part-4-building-a-modern-data-foundation/">Part 4: Building a Modern Data Foundation</A><BR>
-*<A HREF="https://www.cio.gov/2016/05/23/modernizing-federal-it-part-5-modernizing-software-architecture/">Part 5: Modernizing Software Architecture</A><BR>
-*<A HREF="https://www.cio.gov/2016/11/07/modernizing-federal-it-part-6-agility-and-evolving-a-minimal-viable-product/">Part 6: Agility and Evolving a Minimal Viable Product</A><BR>
-*<A HREF="https://www.cio.gov/2016/11/22/modernizing-federal-it-part-7-what-does-a-modern-application-look-like/">Part 7: Modernizing Federal IT Part 7 What Does a Modern Application Look Like</A><BR>
-*<A HREF="https://www.cio.gov/2017/01/09/modernizing-federal-it-part-8-the-proof-is-in-the-pudding-disability-case-processing-system-2-dcps2-goes-live/">Part 8: The Proof is in the Pudding, Disability Case Processing System 2 (DCPS2) goes Live</A><BR>
-*<A HREF="https://www.cio.gov/2017/03/27/modernizing-federal-it-part-9-modernization-begets-modernization/">Part 9: Modernization begets Modernization</A><br>
-  *<A HREF="https://www.cio.gov/2017/04/14/part-10-modernizing-with-a-buy-or-a-build/">Part 10: Modernizing with a Buy or Build</A><BR>
-<BR><BR>
+_This is the nineth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure._
 
 In several of the previous blogs on IT Modernization, I mentioned the SSA’s DCPS2 product program, which aims to modernize a very old legacy green-screen application. In this post, I’d like to share what comes next as one IT modernization program begets another.
 
@@ -44,3 +24,15 @@ Here is the surprise. While not every step in the process is exactly the same, t
 This is very significant. Within a modern end-to-end process, there are major efficiencies to be had. We estimate that between 20% and 50% of the DCPS2 code may be reused to modernize the ODAR process. Even at the lower end of the range this leverage will accelerate modernization of this critical process by a year and reduce costs as we go.
 
 Disability determination is one of the core parts of the agency mission. Congress oversees this part of our mission and constantly, rightfully, pushes us to process disability claims as fast as possible. By leveraging our first modern application, we aim to quickly develop a tightly integrated, end-to-end, bespoke business application that will extend to incorporate new technology and continuously improve business outcomes. It will do this at less cost and in the near term.
+
+#### Social Security IT Modernization Series
+* [Part 1: Catching Up and Jumping Ahead]({{site.baseurl}}/2015/12/10/ssa-modernization-1)
+* [Part 2: The Gravity of Intellectual Property]({{site.baseurl}}/2016/01/19/ssa-modernization-2)
+* Part 3: [Teasing Apart the Problem]({{site.baseurl}}/2016/03/07/ssa-modernization-3)
+* Part 4: [Building a Modern Data Foundation]({{site.baseurl}}/2016/03/21/ssa-modernization-4)
+* Part 5: [Modernizing Software Architecture]({{site.baseurl}}/2016/05/23/ssa-modernization-5)
+* Part 6: [Agility and Evolving a Minimal Viable Product]({{site.baseurl}}/2016/11/07/ssa-modernization-6)
+* Part 7: [Modernizing Federal IT Part 7 What Does a Modern Application Look Like]({{site.baseurl}}/2016/11/22/ssa-modernization-7)
+* Part 8: [The Proof is in the Pudding, Disability Case Processing System 2 (DCPS2) goes Live]({{site.baseurl}}/2017/01/09/ssa-modernization-8)
+* **Part 9: Modernization begets Modernization**
+* Part 10: [Modernizing with a Buy or Build]({{site.baseurl}}/2017/04/14/ssa-modernization-10)

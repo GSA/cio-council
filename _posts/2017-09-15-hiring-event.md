@@ -1,20 +1,13 @@
 ---
 layout: blog
-body-class: home
-title: Blog - Federal CIO Council Sponsors Federal Tech/Cyber Hiring and Recruitment Event
-blog-date: September 15, 2017
-blog-author: CIO Council Operations
-blog-title: Federal CIO Council Sponsors Federal Tech/Cyber Hiring and Recruitment Event
-permalink: /2017/09/15/federal-cio-council-sponsors-federal-techcyber-hiring-and-recruitment-event/
-background-image: /assets/img/grey.background.png
-hero-text:  News & Updates
-hero-byline:
-hero-button-text: 
-hero-button-link: 
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
+title: Federal CIO Council Sponsors Federal Tech/Cyber Hiring and Recruitment Event
+date: 2017-09-15
+display-date: September 15, 2017
+author: CIO Council Operations
+tags: 2017 workforce
+image:
+image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
+img-alt: CIO Council Logo
 ---
 On November 6th and 7th, the Federal Chief Information Officers Council will host the first-ever, government-wide Federal Tech/Cyber Hiring and Recruitment Event at the Silver Spring Civic Building at Veterans Plaza in Silver Spring, MD.
 
@@ -26,4 +19,4 @@ Candidates of all experience levels are welcome to apply to position openings on
 
 To find out more information about the Federal Tech/Cyber Hiring and Recruitment event and to register for attendance, please visit CIO.gov/hiringevent.
 
-Follow along on social media with Twitter handle <A HREF="https://twitter.com/ciodotgov">@ciodotgov</A> and hashtags #FedITWorkforce and #GovTechJobs.
+Follow along on social media with Twitter handle [@ciodotgov](https://twitter.com/ciodotgov) and hashtags #FedITWorkforce and #GovTechJobs.

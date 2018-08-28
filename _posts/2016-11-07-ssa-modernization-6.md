@@ -1,38 +1,19 @@
 ---
 layout: blog
-body-class: home
-title: Blog - Modernizing Federal IT Part 6 - Agility and Evolving a Minimal Viable Product
-blog-date: November 7, 2016
-blog-author: Rob Klopp, CIO, SSA
-blog-title: Modernizing Federal IT Part 6 - Agility and Evolving a Minimal Viable Product
-permalink: /2016/11/07/modernizing-federal-it-part-6-agility-and-evolving-a-minimal-viable-product/
-background-image: /assets/img/grey.background.png
-hero-text:  News & Updates
-hero-byline:
-hero-button-text: 
-hero-button-link: 
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
+title: Modernizing Federal IT Part 6 - Agility and Evolving a Minimal Viable Product
+date: 2016-11-07
+display-date: 07 November 2016
+author: Rob Klopp, CIO, Social Security Administration
+tags: 2016 it-modernization SSA
+image: /assets/img/blog/2016.11.07.ssa.modernization.png
+image-thumbnail:
+img-alt: Image of a dictionary definition of the word agile
 ---
-<BR>
-<I>This is the 6th in a series describing how the Social Security Administration is working towards a more
-modern IT infrastructure. </I><BR>
-*<A HREF="https://www.cio.gov/2015/12/10/modernizing-federal-it-part-1-catching-up-and-jumping-ahead/">Part 1: Catching Up and Jumping Ahead</A><BR>
-*<A HREF="https://www.cio.gov/2016/01/19/modernizing-federal-it-part-2-the-gravity-of-ip/">Part 2: The Gravity of Inetellectual Property</A><BR>
-*<A HREF="https://www.cio.gov/2016/03/07/modernizing-federal-it-part-3-teasing-apart-the-problem/">Part 3: Teasing Apart the Problem</A><BR>
-*<A HREF="https://www.cio.gov/2016/03/21/modernizing-federal-it-part-4-building-a-modern-data-foundation/">Part 4: Building a Modern Data Foundation</A><BR>
-*<A HREF="https://www.cio.gov/2016/05/23/modernizing-federal-it-part-5-modernizing-software-architecture/">Part 5: Modernizing Software Architecture</A><BR>
-*<A HREF="https://www.cio.gov/2016/11/07/modernizing-federal-it-part-6-agility-and-evolving-a-minimal-viable-product/">Part 6: Agility and Evolving a Minimal Viable Product</A><BR>
-*<A HREF="https://www.cio.gov/2016/11/22/modernizing-federal-it-part-7-what-does-a-modern-application-look-like/">Part 7: Modernizing Federal IT Part 7 What Does a Modern Application Look Like</A><BR>
-*<A HREF="https://www.cio.gov/2017/01/09/modernizing-federal-it-part-8-the-proof-is-in-the-pudding-disability-case-processing-system-2-dcps2-goes-live/">Part 8: The Proof is in the Pudding, Disability Case Processing System 2 (DCPS2) goes Live</A><BR>
-*<A HREF="https://www.cio.gov/2017/03/27/modernizing-federal-it-part-9-modernization-begets-modernization/">Part 9: Modernization begets Modernization</A><BR>
-*<A HREF="https://www.cio.gov/2017/04/14/part-10-modernizing-with-a-buy-or-a-build/">Part 10: Modernizing with a Buy or Build</A>
-<BR><BR>
+_This is the sixth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure._
+
 This post is sort of about IT Modernization, but mostly about a part of Agile software development; and Agile is critical to IT modernization. Here we will consider the concept of a Minimum Viable Product (MVP), one of the hardest ideas to master in the journey towards applying Agile methods. It is also one of the most important concepts to master. Let me apologize in advance as this post is on the long side. We will look at a real case study – the DCPS2 project at the Social Security Administration (SSA). I hope that you find it worth the time.
 
-Background: In 2010 the SSA engaged with Lockheed Martin and their principal partner Iron Data (now MicroPact) to develop a new Disability Case Processing System (DCPS1). Sometime later we ended this effort without deploying a new system and in October of 2015 started a new development effort, DCPS2, with the SSA in-the-lead, fully utilizing Agile methods. 
+Background: In 2010 the SSA engaged with Lockheed Martin and their principal partner Iron Data (now MicroPact) to develop a new Disability Case Processing System (DCPS1). Sometime later we ended this effort without deploying a new system and in October of 2015 started a new development effort, DCPS2, with the SSA in-the-lead, fully utilizing Agile methods.
 
 Usually a new product or program, a new IT Modernization effort, will start from scratch. Because DCPS2 started from the legacy of DCPS1, we started with a full, but aging, description of the desired end-state and we had to work hard from there back to a definition of a “minimum” first release. The evolution of our DCPS2 MVP and associated product roadmap is interesting and illustrative of the problem of building an MVP.
 
@@ -63,3 +44,15 @@ Several weeks ago we performed usability testing. We brought in several claims r
 Finally, we just polled the States to see who would be interested in being next in line to move to production. Remember, they can see the real-life work-in-progress every two weeks after each sprint. We hoped to have another three States sign up. We received eight requests.
 
 These two final comments point out the beauty of Agile. It is not about pre-determined targets; it is about customer satisfaction, and about letting the customer define scope as you go.
+
+#### Social Security IT Modernization Series
+* [Part 1: Catching Up and Jumping Ahead]({{site.baseurl}}/2015/12/10/ssa-modernization-1)
+* [Part 2: The Gravity of Intellectual Property]({{site.baseurl}}/2016/01/19/ssa-modernization-2)
+* Part 3: [Teasing Apart the Problem]({{site.baseurl}}/2016/03/07/ssa-modernization-3)
+* Part 4: [Building a Modern Data Foundation]({{site.baseurl}}/2016/03/21/ssa-modernization-4)
+* Part 5: [Modernizing Software Architecture]({{site.baseurl}}/2016/05/23/ssa-modernization-5)
+* **Part 6: Agility and Evolving a Minimal Viable Product**
+* Part 7: [Modernizing Federal IT Part 7 What Does a Modern Application Look Like]({{site.baseurl}}/2016/11/22/ssa-modernization-7)
+* Part 8: [The Proof is in the Pudding, Disability Case Processing System 2 (DCPS2) goes Live]({{site.baseurl}}/2017/01/09/ssa-modernization-8)
+* Part 9: [Modernization begets Modernization]({{site.baseurl}}/2017/03/27/ssa-modernization-9)
+* Part 10: [Modernizing with a Buy or Build]({{site.baseurl}}/2017/04/14/ssa-modernization-10)

@@ -1,38 +1,33 @@
 ---
 layout: blog
-body-class: home
-title: Blog - Let's Talk FITARA
-blog-date: February 24, 2017
-blog-author: Frontis Wiggins, State Department CIO
-blog-title: Let's Talk FITARA
-permalink: /2017/02/24/lets-talk-fitara/
-background-image: /assets/img/grey.background.png
-hero-text:  News & Updates
-hero-byline:
-hero-button-text: 
-hero-button-link: 
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
+title: Let's Talk FITARA
+date: 2017-02-24
+display-date: 24 February 2017
+author: Frontis Wiggins, State Department CIO
+tags: 2017 fitara
+image:
+image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
+img-alt: CIO Council Logo
 ---
-This blog entry by Department of State CIO Frontis Wiggins, was originally published on December 9th, 2016 on LinkedIn. 
+_This blog entry was originally published on December 9th, 2016 on LinkedIn._
 
-Earlier this week, I <A HREF="http://oversight.house.gov/hearing/federal-information-technology-acquisition-reform-act-fitara-scorecard-3-0-measuring-agencies-implementation/">testified before the House Committee on Oversight and Government Reform Subcommittee on Information Technology</A> about the Department of State’s progress in implementing the <A HREF="http://www.congress.gov/bill/113th-congress/house-bill/1232?q=%7B%22search%22%3A%5B%22Federal+Information+Technology%22%5D%7D&r=19">Federal Information Technology Acquisition Reform Act</A> (FITARA). Instead of saying, “Thanks! Now we’re done,” I’ve decided on an alternative approach: to be transparent. So, let’s talk FITARA.
+Earlier this week, I [testified before the House Committee on Oversight and Government Reform Subcommittee on Information Technology](http://oversight.house.gov/hearing/federal-information-technology-acquisition-reform-act-fitara-scorecard-3-0-measuring-agencies-implementation/) about the Department of State’s progress in implementing the [Federal Information Technology Acquisition Reform Act (FITARA)](http://www.congress.gov/bill/113th-congress/house-bill/1232?q=%7B%22search%22%3A%5B%22Federal+Information+Technology%22%5D%7D&r=19). Instead of saying, “Thanks! Now we’re done,” I’ve decided on an alternative approach: to be transparent. So, let’s talk FITARA.
 
 It isn’t a coincidence that our ITSP has three focus areas inherently related to the goals behind the FITARA legislation.
 
-As I mentioned in my <A HREF="http://www.linkedin.com/pulse/your-mark-get-set-cio-frontis-wiggins?trk=pulse_spock-articles">introductory post</A> a few weeks ago,
-my vision for the Department is for us to be a government leader in all things tech. To illustrate the work being done by 
-Department personnel to make my vision a reality, I have approved the public release of the <A HREF="http://www.state.gov/m/irm/itplan/index.htm">Department of State’s IT Strategic Plan (ITSP) for Fiscal Years 2017 – 2019</A>. 
-It isn’t a coincidence that our ITSP has three focus areas inherently related to the goals behind the FITARA legislation. In fact, we drafted and finalized the ITSP with FITARA in mind—with its lawful purpose guiding our discussions and providing solid governance every step of the way. This is why I place a heavy weight into the importance of FITARA’s implementation at State: it really has done nothing but help us to move forward into a transformative era. As listed in the Strategic Plan, our <A HREF="http://www.state.gov/m/irm/itplan/264054.htm#innovation">first goal</A> is to deliver advanced capabilities to foster collaboration, knowledge management, and analytics. Our <A HREF="http://www.state.gov/m/irm/itplan/264054.htm#infrastructure">second goal</A> is to provide a robust and secure IT infrastructure that supports on-demand access to information. And lastly, our <A HREF="http://www.state.gov/m/irm/itplan/264054.htm#management">third goal</A> is to advance business management practices to transform service delivery. Now, how does all that relate to FITARA?
+As I mentioned in my [introductory post](http://www.linkedin.com/pulse/your-mark-get-set-cio-frontis-wiggins?trk=pulse_spock-articles) a few weeks ago,
+my vision for the Department is for us to be a government leader in all things tech. To illustrate the work being done by
+Department personnel to make my vision a reality, I have approved the public release of the [Department of State’s IT Strategic Plan (ITSP) for Fiscal Years 2017 – 2019](http://www.state.gov/m/irm/itplan/index.htm).
+It isn’t a coincidence that our ITSP has three focus areas inherently related to the goals behind the FITARA legislation. In fact, we drafted and finalized the ITSP with FITARA in mind—with its lawful purpose guiding our discussions and providing solid governance every step of the way. This is why I place a heavy weight into the importance of FITARA’s implementation at State:
+it really has done nothing but help us to move forward into a transformative era. As listed in the Strategic Plan, our [first goal](http://www.state.gov/m/irm/itplan/264054.htm#innovation) is to deliver advanced capabilities to foster collaboration, knowledge management, and analytics. Our [second goal](http://www.state.gov/m/irm/itplan/264054.htm#infrastructure) is to provide a robust and secure IT infrastructure that supports on-demand access to information. And lastly, our [third goal](http://www.state.gov/m/irm/itplan/264054.htm#management) is to advance business management practices to transform service delivery. Now, how does all that relate to FITARA?
 
 To give some background, the four areas of FITARA discussed in this week’s hearing were: Incremental Development, Risk Assessment Transparency, IT Portfolio Review Savings, and Data Center Consolidation. In addition, we also discussed the organizational and authoritative role of the CIO within our respective agencies. Incremental development at State refers to the process by which we review and analyze IT projects within our portfolio for potential risks, and to identify any duplicative waste.  Essentially, this segment of FITARA brings to light the very prevalent reality that is challenging many large organizations, public and private: how can we work toward IT innovation, development, and implementation, while also encouraging an environment of non-traditional, transformative change? The Department’s answer to this question rests on our ongoing commitment to a decision-making environment rooted in collaboration. For example, my program staff and the contracting staff within the Department (Office of Acquisitions Management—AQM) meets on a regular basis to discuss existing and evolving programs and projects. This collaboration ensures the Department’s IT Contracting Officers are aware of IRM’s major programs, and encourages the input of experts and leaders at all levels. As an additional example, Senior Contracting Officers actively participate in our Cloud Computing Governance Board (CCGB) that meets once a week, and are part of the reviewing and approving process for cloud-related initiatives. We also have our Information Technology Change Control Board (IT-CCB), which coordinates the review-cycle for all IT requests throughout the Department, including testing IT for its accessibility to all potential users. I am proud to say that as a result of our commitment to standardizing and consolidating IT requirements, and enforcing the IT review processes we have here at State, we have been able to demonstrate its costs savings:
-DOS Microsoft Enterprise Agreement – initial savings of $23.7M compared to GSA pricing
-DOS technology and Middleware ULAs for Oracle database products – initial savings of $15M compared to lowest price on contracts with similar quantity
-DOS Adobe BPA & Enterprise Term License Agreement – initial savings of $100K compared to lowest price on contracts with similar quantity
-DOS VMWare Enterprise Agreement – initial savings of $5.7M compared to GSA pricing
-DOS Citrix Agreement – initial savings of $2.5M compared to GSA
+
+* DOS Microsoft Enterprise Agreement – initial savings of $23.7M compared to GSA pricing
+* DOS technology and Middleware ULAs for Oracle database products – initial savings of $15M compared to lowest price on contracts with similar quantity
+* DOS Adobe BPA & Enterprise Term License Agreement – initial savings of $100K compared to lowest price on contracts with similar quantity
+* DOS VMWare Enterprise Agreement – initial savings of $5.7M compared to GSA pricing
+* DOS Citrix Agreement – initial savings of $2.5M compared to GSA
 
 Now, I need to call myself out for something: The Department did not report cost-savings to the Committee, and I acknowledged this fact during the hearing. By no means does this lack of communication reflect a lack of commitment to implementing FITARA at State. On the contrary, as a direct result of implementing FITARA, my office and the Bureau of Budget and Planning improved visibility IT spending, and jointly certified the FY 2017 and FY 2018 IT Budget Submission. We made a mistake in failing to report our cost-savings numbers to the Committee, and we have surely learned from it. Please accept our pledge to report each section with careful accuracy moving forward.
 
@@ -42,11 +37,8 @@ The Department serves 275 posts globally, including 24 federal agencies under Ch
 
 In each and every conversation I’ve had over the last five months regarding the release of our ITSP, which is the foundation for all that we do, the theme of scalability rang loudest of all. To be scalable, the Department has to have a scale by which we can clearly identify our strengths and weaknesses in every rung of our organization’s ladder—around the world. Each and every office is a part of our “scale”. As the CIO, I am responsible for driving the Department’s IT programs and resources, and maximizing value to users who are increasingly mobile. To advance our business management practices, optimize our data center consolidation, and deliver advanced capabilities to foster IT innovation under a process of budgetary reinvention, I need the help of my team.
 
-When you look at the Department’s organizational chart, part of my team (and who I report to) is the Under Secretary of Management. During the hearing, as covered by Jason Miller in an <A HREF="http://federalnewsradio.com/cio-news/2016/12/half-major-agencies-fall-short-correct-cio-reporting-structure/">article released earlier this week</A>, a conversation took place concerning the role of CIOs in federal agencies. To summarize the legitimate purpose behind that conversation, I’ll use the words Rep. Will Hurd (R-Texas) told Federal News Radio, “Where you sit matters.”
+When you look at the Department’s organizational chart, part of my team (and who I report to) is the Under Secretary of Management. During the hearing, as covered by Jason Miller in an[ article released earlier this week](http://federalnewsradio.com/cio-news/2016/12/half-major-agencies-fall-short-correct-cio-reporting-structure/), a conversation took place concerning the role of CIOs in federal agencies. To summarize the legitimate purpose behind that conversation, I’ll use the words Rep. Will Hurd (R-Texas) told Federal News Radio, “Where you sit matters.”
 
-I wholeheartedly agree. Where I sit, in both the figurative sense as displayed on an org chart, and the physical location that has my name assigned to a square-footage, is directly related to how the Department is implementing FITARA throughout our entire organization. I understand that in the private sector, the CIO is part of the C-Suite. To pin some word-play to my point, our C-Street headquarters houses the Department’s top senior executives, each making authoritative decisions as the top rung on their team’s ladder.  In my C-Suite, I am the top rung for the Bureau of Information Resource Management, and therefore I determine how our budget is allocated. As the top rung on IRM’s ladder, I’m also the CIO for the entire Department. From my point of view, we should be less concerned with where the CIO is sitting, and more concerned with the specific authority that is given to him/her the minute they take their seat at the table. At the hearing, I was asked to provide a similar explanation for “where I sit” within the Department; and I was pleased to read <A HREF="http://federalnewsradio.com/cio-news/2016/12/half-major-agencies-fall-short-correct-cio-reporting-structure/">Rep. Will Hurd’s positive post-hearing remarks</A> that recognized the legitimacy of my authority within the Department.
+I wholeheartedly agree. Where I sit, in both the figurative sense as displayed on an org chart, and the physical location that has my name assigned to a square-footage, is directly related to how the Department is implementing FITARA throughout our entire organization. I understand that in the private sector, the CIO is part of the C-Suite. To pin some word-play to my point, our C-Street headquarters houses the Department’s top senior executives, each making authoritative decisions as the top rung on their team’s ladder.  In my C-Suite, I am the top rung for the Bureau of Information Resource Management, and therefore I determine how our budget is allocated. As the top rung on IRM’s ladder, I’m also the CIO for the entire Department. From my point of view, we should be less concerned with where the CIO is sitting, and more concerned with the specific authority that is given to him/her the minute they take their seat at the table. At the hearing, I was asked to provide a similar explanation for “where I sit” within the Department; and I was pleased to read [Rep. Will Hurd’s positive post-hearing remarks](http://federalnewsradio.com/cio-news/2016/12/half-major-agencies-fall-short-correct-cio-reporting-structure/) that recognized the legitimacy of my authority within the Department.
 
-To close, <A HREF="http://federalnewsradio.com/cio-news/2016/12/half-major-agencies-fall-short-correct-cio-reporting-structure/">as said</A> by Rep. Gerry Connolly (D-Va.), it would be “unacceptable for any of the agencies to be working against the intent of FITARA.” We at the Department agree wholeheartedly. Fortunately, FITARA isn’t going away, and we look forward to solidifying our grip around the FITARA legislation this Fiscal Year.
-
-
-
+To close, [as said](http://federalnewsradio.com/cio-news/2016/12/half-major-agencies-fall-short-correct-cio-reporting-structure/) by Rep. Gerry Connolly (D-Va.), it would be “unacceptable for any of the agencies to be working against the intent of FITARA.” We at the Department agree wholeheartedly. Fortunately, FITARA isn’t going away, and we look forward to solidifying our grip around the FITARA legislation this Fiscal Year.

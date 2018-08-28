@@ -1,42 +1,21 @@
 ---
 layout: blog
-body-class: home
-title: Blog Modernizing Federal IT Part 1 Catching Up and Jumping Ahead
-blog-date: December 10, 2015
-blog-author: Rob Klopp, CIO, SSA
-blog-title: Modernizing Federal IT Part 1 - Catching Up and Jumping Ahead
-permalink: /2015/12/10/modernizing-federal-it-part-1-catching-up-and-jumping-ahead/
-background-image: /assets/img/grey.background.png
-hero-text:  News & Updates
-hero-byline:
-hero-button-text:
-hero-button-link:
-banner-heading:
-banner-text:
-banner-button-text:
-banner-button-link:
+title: Modernizing Federal IT Part 1 - Catching Up and Jumping Ahead
+date: 2015-12-10
+display-date: 10 December 2015
+author: Rob Klopp, CIO, Social Security Administration
+tags: 2015 it-modernization SSA
+image:
+image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
+img-alt: CIO Council Logo
 ---
-<BR>
-<I>This is the 1st in a series describing how the Social Security Administration is working towards a more
-modern IT infrastructure. </I><BR>
-*<A HREF="https://www.cio.gov/2015/12/10/modernizing-federal-it-part-1-catching-up-and-jumping-ahead/">Part 1: Catching Up and Jumping Ahead</A><BR>
-*<A HREF="https://www.cio.gov/2016/01/19/modernizing-federal-it-part-2-the-gravity-of-ip/">Part 2: The Gravity of Inetellectual Property</A><BR>
-*<A HREF="https://www.cio.gov/2016/03/07/modernizing-federal-it-part-3-teasing-apart-the-problem/">Part 3: Teasing Apart the Problem</A><BR>
-*<A HREF="https://www.cio.gov/2016/03/21/modernizing-federal-it-part-4-building-a-modern-data-foundation/">Part 4: Building a Modern Data Foundation</A><BR>
-*<A HREF="https://www.cio.gov/2016/05/23/modernizing-federal-it-part-5-modernizing-software-architecture/">Part 5: Modernizing Software Architecture</A><BR>
-*<A HREF="https://www.cio.gov/2016/11/07/modernizing-federal-it-part-6-agility-and-evolving-a-minimal-viable-product/">Part 6: Agility and Evolving a Minimal Viable Product</A><BR>
-*<A HREF="https://www.cio.gov/2016/11/22/modernizing-federal-it-part-7-what-does-a-modern-application-look-like/">Part 7: Modernizing Federal IT Part 7 What Does a Modern Application Look Like</A><BR>
-*<A HREF="https://www.cio.gov/2017/01/09/modernizing-federal-it-part-8-the-proof-is-in-the-pudding-disability-case-processing-system-2-dcps2-goes-live/">Part 8: The Proof is in the Pudding, Disability Case Processing System 2 (DCPS2) goes Live</A><BR>
-*<A HREF="https://www.cio.gov/2017/03/27/modernizing-federal-it-part-9-modernization-begets-modernization/">Part 9: Modernization begets Modernization</A><br>
-  *<A HREF="https://www.cio.gov/2017/04/14/part-10-modernizing-with-a-buy-or-a-build/">Part 10: Modernizing with a Buy or Build</A><BR>
-<BR><BR>
-This post is the first in a series of entries from Social Security Administration CIO Rob Klopp that will consider issues associated with modernizing the US Federal IT infrastructure.
+_This post is the first in a series of entries from Social Security Administration CIO Rob Klopp that will consider issues associated with modernizing the US Federal IT infrastructure._
 
 First… here is a little about me. I came to the Social Security Administration (SSA) in January of 2015 as the CTO and became the CIO a couple of months ago. I was invited to government service as part of the President’s US Digital Services (USDS) initiative after many years working in California’s Silicon Valley. I have a technical background and you can read about some of my technical ideas at my Database Fog Blog (here).
 
 To start, let us consider the modernization problem from a high level. Figure 1 is designed to outline the problem. The blue curve represents the ability of a hypothetical Federal agency to adopt technology. The green curve represents the ability of a hypothetical Fortune 500 firm to adopt technology. The technology gap between these curves represent the problem confronting a Federal CIO; we believe that we must catch up to the Fortune 500.
-<BR>
-<img src="/assets/img/blog/blog.klopp.01.png" align=left>
+
+![IT modernization chart with 3 curves]({{site.baseurl}}/assets/img/blog/2015.12.10.ssa.modernization.png)
 
 Note on the curves that in the late 1970’s and early 1980’s, the Federal space, and especially the SSA, was on a par or even a little ahead of the Fortune 500. In that timeframe, the SSA was aggressive in developing systems and databases to store information. These systems pushed the state of the art. They represented Big Data in the 1980’s.
 
@@ -55,3 +34,15 @@ Federal agencies are unlikely to go out of business. But the technology gaps rep
 This is the topic I’ll consider in the blog posts to follow… how might the Federal government catch up in IT. I’ll discuss in detail how the SSA is addressing the problem. I’ll also be discussing buy versus build options, techniques to modernize old code, initiatives to develop a modern infrastructure, and jumping onto the technology curve.
 
 I hope you enjoy the series and look forward to your comments.
+
+#### Social Security IT Modernization Series
+* **Part 1: Catching Up and Jumping Ahead**
+* Part 2: [The Gravity of Intellectual Property]({{site.baseurl}}/2016/01/19/ssa-modernization-2)
+* Part 3: [Teasing Apart the Problem]({{site.baseurl}}/2016/03/07/ssa-modernization-3)
+* Part 4: [Building a Modern Data Foundation]({{site.baseurl}}/2016/03/21/ssa-modernization-4)
+* Part 5: [Modernizing Software Architecture]({{site.baseurl}}/2016/05/23/ssa-modernization-5)
+* Part 6: [Agility and Evolving a Minimal Viable Product]({{site.baseurl}}/2016/11/07/ssa-modernization-6)
+* Part 7: [Modernizing Federal IT Part 7 What Does a Modern Application Look Like]({{site.baseurl}}/2016/11/22/ssa-modernization-7)
+* Part 8: [The Proof is in the Pudding, Disability Case Processing System 2 (DCPS2) goes Live]({{site.baseurl}}/2017/01/09/ssa-modernization-8)
+* Part 9: [Modernization begets Modernization]({{site.baseurl}}/2017/03/27/ssa-modernization-9)
+* Part 10: [Modernizing with a Buy or Build]({{site.baseurl}}/2017/04/14/ssa-modernization-10)

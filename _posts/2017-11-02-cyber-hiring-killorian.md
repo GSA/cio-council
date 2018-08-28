@@ -2,19 +2,12 @@
 layout: blog
 body-class: home
 title: Blog - Federal CIO Council Sponsors Federal Tech/Cyber Hiring and Recruitment Event
-blog-date: November 2, 2017
-blog-author: Beth Killoran, Chief Information Officer of the U.S. Department of Health and Human Services	
-blog-title: Federal CIO Council Sponsors Federal Tech/Cyber Hiring and Recruitment Event
-permalink: /2017/11/02/federal-techcyber-hiring-and-recruitment-event-targets-critical-skills-for-the-governments-it-workforce/
-background-image: /assets/img/grey.background.png
-hero-text:  News & Updates
-hero-byline:
-hero-button-text: 
-hero-button-link: 
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
+date: 2017-11-02
+display-date: 02 November 2017
+author: Beth Killoran, Chief Information Officer of the U.S. Department of Health and Human Services
+tags: 2017 workforce
+image-thumbnail: /assests/img/CIO-council-Logo-silver1.png
+img-alt: CIO Council Logo
 ---
 I chose to co-chair the Federal Chief Information Officer (CIO) Council Workforce Committee because I am compassionate about the people I serve, and I believe that a fortified workforce is the most critical component to success. Without significant, ongoing investment in and commitment to people, we do not only run the risk of losing a return on our technology investments, we also jeopardize our ability to effectively protect the interests of our American constituents. As its mission is to serve the American people, the Federal Government must be on the forefront to ensure that the United States has a dedicated workforce capable of protecting American interests in cyberspace. This is essential, as IT and cybersecurity are woven into every aspect of our lives.
 
