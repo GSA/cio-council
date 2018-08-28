@@ -5,14 +5,14 @@ description:
 date: 2018-05-04
 display-date: 04 May 2018
 author: CIO Council Operations
-tags: 2018
+tags: 2018 
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo
 ---
 The Federal Government pays over two million civilian federal employees every two-weeks, on time and at a relatively low cost. Some of the payroll systems running today, however, are in their fourth decade of operation and lack the ability to adapt and address the ever evolving legislative changes. They also lack self-service and mobile features readily available in industry payroll systems. Making these self-service and mobile features available to the federal employee will improve efficiency and customer service.
 
-Currently, four independent systems, without common data or interoperability standards, manage payroll for the executive branch of the Federal Government. This means transferring employees between agencies and providers requiries manual processes and hard-copy forms, which translates to labor hours and tax dollars. It also means we are missing out on critical data that could be used to better manage the federal workforce as the government attempts to move to a more nimble and highly-skilled model.
+Currently, four independent systems, without common data or interoperability standards, manage payroll for the executive branch of the Federal Government. This means transferring employees between agencies and providers requires manual processes and hard-copy forms, which translates to labor hours and tax dollars. It also means we are missing out on critical data that could be used to better manage the federal workforce as the government attempts to move to a more nimble and highly-skilled model.
 
 On May 17th, the U.S. General Services Administration’s (GSA) Office of Shared Solutions and Program Improvement (OSSPI) issued a [pre-solicitation notice](http://go.usa.gov/xQPCj) to secure solutions to modernize the federal government’s current civilian payroll systems. This effort is in line with the key tenants of the President’s Management Agenda and specifically the Cross Agency Priority Goals for Sharing Quality Services and IT Modernization.
 

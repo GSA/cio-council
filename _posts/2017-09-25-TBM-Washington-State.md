@@ -4,7 +4,7 @@ title: Technology Business Management Case Study - Washington State
 date: 2017-09-25
 display-date: 25 September 2017
 author: CIO Council Operations
-tag: 2017 TBM
+tags: 2017 TBM
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIO Council Logo

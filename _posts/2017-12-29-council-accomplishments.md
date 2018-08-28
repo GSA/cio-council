@@ -8,7 +8,7 @@ author: CIO Council Operations
 tags: '2017'
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logoo
+img-alt: CIOC Logo
 ---
 
 ![Infographic of the CIOC's Accomplishments from 2017]({{site.baseurl}}/assets/img/blog/2017.12.29.Accomplishments.png)

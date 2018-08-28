@@ -1,6 +1,6 @@
 ---
 layout: tag_index
 title: TBM
-tag: tbm
+tag: TBM
 permalink: /tags/tbm/
 ---
