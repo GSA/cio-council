@@ -19,8 +19,6 @@ A recent survey conducted by the National Association of State Chief Information
 
 For the CIO, prioritizing accessibility and Universal Design will instill a process where tools are designed with the user experience at the forefront, enabling agencies to build economical, innovative and empowering solutions.
 
-![78% of State CIOs said the CIO is responsible for leading or participating in digital services policy setting](https://s3.amazonaws.com/sitesusa/wp-content/uploads/var/www/html/sites/www/app/wordpress/wp-content/blogs.dir/1151/files/2017/12/StateCIO-FactFigure-copy_Updated-300x293.png")
-
 ## Chief Acquisition Officers
 
 Communicating the business case for buying and implementing accessible workplace technology starts with procurement. Commit to buying technology that’s built with Universal Design principles, allowing CAOs to better serve your agency’s mission.
