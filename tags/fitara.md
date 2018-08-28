@@ -1,6 +1,6 @@
 ---
 layout: tag_index
 title: FITARA
-tag: FITARA
-permalink: /tags/FITARA/
+tag: fitara
+permalink: /tags/fitara/
 ---

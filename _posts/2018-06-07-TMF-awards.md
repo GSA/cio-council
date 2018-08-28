@@ -5,7 +5,7 @@ description: The Technology Modernization Board, chaired by the Federal Chief In
 date: 2018-06-07
 display-date: 07 June 2018
 author: Office of the Federal Chief Information Officer
-tags: 2018 TMF
+tags: 2018 tmf
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

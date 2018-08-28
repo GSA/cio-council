@@ -4,7 +4,7 @@ title: Modernizing Federal IT Part 8 - The Proof is in the Pudding, Disability C
 date: 2017-01-09
 display-date: 09 January 2017
 author: Rob Klopp, CIO, Social Security Administration
-tags: 2017 IT-Modernization SSA
+tags: 2017 it-modernization ssa
 image: /assets/img/blog/2017.01.09.ssa.modernization.png
 image-thumbnail: /assets/img/blog/2017.01.09.ssa.modernization.png
 img-alt: A baked pudding sits on a wood table

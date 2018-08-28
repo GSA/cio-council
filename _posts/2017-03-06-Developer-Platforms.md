@@ -4,7 +4,7 @@ title: New CIO Council Report on Developer Platforms and Common APIs and Service
 date: 2017-03-06
 display-date: 06 March 2017
 author: Margie Graves, Federal Deputy Chief Information Officer
-tags: 2017 IT-Infrastructure
+tags: 2017 it-infrastructure
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIO Council Logo

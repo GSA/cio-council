@@ -1,6 +1,6 @@
 ---
 layout: tag_index
 title: Social Security Administration
-tag: SSA
-permalink: /tags/SSA/
+tag: ssa
+permalink: /tags/ssa/
 ---
