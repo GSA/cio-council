@@ -6,7 +6,7 @@ display-date: 07 November 2016
 author: Rob Klopp, CIO, Social Security Administration
 tags: 2016 IT-Modernization SSA
 image: /assets/img/blog/2016.11.07.ssa.modernization.png
-image-thumbnail:
+image-thumbnail: /assets/img/blog/2016.11.07.ssa.modernization.png
 img-alt: Image of a dictionary definition of the word agile
 ---
 _This is the sixth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure._

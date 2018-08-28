@@ -6,7 +6,7 @@ display-date: 09 January 2017
 author: Rob Klopp, CIO, Social Security Administration
 tags: 2017 IT-Modernization SSA
 image: /assets/img/blog/2017.01.09.ssa.modernization.png
-image-thumbnail:
+image-thumbnail: /assets/img/blog/2017.01.09.ssa.modernization.png
 img-alt: A baked pudding sits on a wood table
 ---
 _This is the eighth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure._
