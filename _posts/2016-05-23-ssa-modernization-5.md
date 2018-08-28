@@ -4,10 +4,7 @@ title: Modernizing Federal IT Part 5 - Modernizing Software Architecture
 date: 2016-05-23
 display-date: 23 May 2016
 author: Rob Klopp, CIO, Social Security Administration
-tags: 
-  - 2016 
-  - it-modernization 
-  - SSA
+tags: 2016 it-modernization SSA
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIO Council Logo

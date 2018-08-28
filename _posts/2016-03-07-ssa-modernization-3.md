@@ -4,10 +4,7 @@ title: Modernizing Federal IT Part 3 - Teasing Apart the Problem
 date: 2016-03-07
 display-date: 07 March 2016
 author: Rob Klopp, CIO, Social Security Administration
-tags: 
-  - 2016 
-  - it-modernization 
-  - SSA
+tags: 2016 it-modernization SSA
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIO Council Logo
