@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 'Building on Progress: Improving the Way the Government Buys IT'
+title: 'Applying Category Management Principles to Software Management Practices'
 description:
 date: 2016-06-03
 display-date: 03 June 2016
