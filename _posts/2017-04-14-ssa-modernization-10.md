@@ -4,10 +4,7 @@ title: Modernizing Federal IT Part 10 - Modernizing with a Buy or Build
 date: 2017-04-14
 display-date: 14 April 2017
 author: Rob Klopp, CIO, Social Security Administration
-tags: 
-  - 2017 
-  - it-modernization 
-  - SSA
+tags: 2017 it-modernization SSA
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIO Council Logo
