@@ -1,6 +1,6 @@
 ---
 layout: tag_index
 title: PMA
-tag: pma
-permalink: /tags/pma/
+tag: PMA
+permalink: /tags/PMA/
 ---
