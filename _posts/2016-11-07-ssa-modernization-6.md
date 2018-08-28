@@ -4,7 +4,7 @@ title: Modernizing Federal IT Part 6 - Agility and Evolving a Minimal Viable Pro
 date: 2016-11-07
 display-date: 07 November 2016
 author: Rob Klopp, CIO, Social Security Administration
-tags: 2016 it-modernization SSA
+tags: 2016 IT-Modernization SSA
 image: /assets/img/blog/2016.11.07.ssa.modernization.png
 image-thumbnail:
 img-alt: Image of a dictionary definition of the word agile

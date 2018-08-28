@@ -5,7 +5,7 @@ description:
 date: 2015-10-30
 display-date: 30 October 2015
 author: Tony Scott
-tags: 2015 cybersecurity it-modernization
+tags: 2015 cybersecurity IT-Modernization
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

@@ -4,7 +4,7 @@ title: Modernizing Federal IT Part 1 - Catching Up and Jumping Ahead
 date: 2015-12-10
 display-date: 10 December 2015
 author: Rob Klopp, CIO, Social Security Administration
-tags: 2015 it-modernization SSA
+tags: 2015 IT-Modernization SSA
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIO Council Logo
