@@ -98,14 +98,20 @@
   width: 100%;
 }
 
+.bio-card-banner {
+  margin: 2rem;
+  @media all and (min-width: $on-laptop) {
+    flex: 1 0 auto;
+  }
+
 .bio-card-description.bio-card-description {
   color: #515151;
   margin-top: 0;
 }
 
 .bio-card-summary {
-  font-size: 16px;
-  margin-bottom: 0;
+  font-size: 14px;
+  margin: 0;
 
   em {
     font-style: normal;
