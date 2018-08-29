@@ -1,7 +1,7 @@
 <div class="project-container">
 {% for bio in site.leadership %}
   {% unless bio.featured %}
-    <article class="card usa-width-one-half">
+    <article class="leadership-card usa-width-one-half">
       <a class="card-link" href="{{ bio.url | prepend: site.baseurl }}" aria-hidden="true" tabindex="-1"></a>
       <div class="bio-card-image"
         style="background-image: url(
