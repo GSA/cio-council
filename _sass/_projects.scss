@@ -90,3 +90,44 @@
   }
 }
 
+.bio-card-image {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 280px;
+  width: 100%;
+}
+
+.bio-card-description.bio-card-description {
+  color: $card-heading-color;
+  margin-top: 0;
+}
+
+.bio-card-summary {
+  font-size: 16px;
+  margin-bottom: 0;
+
+  em {
+    font-style: normal;
+  }
+}
+
+.bio-card-read {
+  margin: 0 3rem;
+  color: $card-heading-color;
+  font-size: $small-font-size;
+  font-weight: bold;
+  text-decoration: none;
+
+  &:visited {
+    color: $card-heading-color;
+  }
+
+  svg {
+    display: inline-block;
+    height: 1.2rem;
+    margin-bottom: -1px;
+    width: 1.2rem;
+    margin-left: 4px;
+  }
+}
