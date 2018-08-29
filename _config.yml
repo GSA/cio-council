@@ -109,7 +109,7 @@ collections:
     output: true
   resources:
     output: true
-  fedit:
+  bios:
     output: true
 
 plugins_dir:
