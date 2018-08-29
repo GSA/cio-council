@@ -3,16 +3,16 @@
   {% unless bio.featured %}
     <article class="card usa-width-one-third">
       <a class="card-link" href="{{ bio.url | prepend: site.baseurl }}" aria-hidden="true" tabindex="-1"></a>
-      <div class="card-image"
+      <div class="bio-card-image"
         style="background-image: url(
           {{ bio.bio-image-url | prepend: site.baseurl }}
         );">
       </div>
       <div class="card-banner">
-        <h3 class="card-description">
+        <h3 class="bio-card-description">
           <span>{{ bio.bio-name-text }}</span>
         </h3>
-        <p class="card-summary">{{ bio.bio-title-text }}<br>{{ bio.bio-agency-text }}</p>
+        <p class="bio-card-summary">{{ bio.bio-title-text }}<br>{{ bio.bio-agency-text }}</p>
       </div>
     </article>
   {% endunless %}
