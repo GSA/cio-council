@@ -101,8 +101,6 @@ exclude:
 collections:
   blogs:
     output: true
-  highlights:
-    output: true
   priorities:
     output: true
   initiatives:
@@ -110,6 +108,8 @@ collections:
   resources:
     output: true
   bios:
+    output: true
+  leadership:
     output: true
 
 plugins_dir:
