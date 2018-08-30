@@ -1,6 +1,6 @@
 ---
 layout: tag_index
-title: Chief Information Security Officer
+title: Federal Information Technology Acquisition Reform Act (FITARA)
 tag: fitara
 permalink: /tags/fitara/
 ---
