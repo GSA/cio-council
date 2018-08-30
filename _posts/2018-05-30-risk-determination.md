@@ -5,7 +5,7 @@ description:
 date: 2018-05-30
 display-date: 30 May 2018
 author: Suzette Kent, Federal Chief Information Officer, & Grant Schneider, Acting Federal Chief Information Security Officer, and Senior Director for Cybersecurity Policy
-tags: 2018 eo-13800 it-modernization
+tags: eo-13800 it-modernization 2018
 image:
 permalink: /2018/05/30/Risk-Report/
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png

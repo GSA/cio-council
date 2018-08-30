@@ -4,7 +4,7 @@ title: "The President's National Cybersecurity Plan: What You Need to Know"
 date: 2016-02-09
 display-date: 09 February 2016
 author: 'Micheal Daniel, Tony Scott & Ed Felten'
-tags: 2016 cybersecurity
+tags: cybersecurity 2016
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIO Council Logo

@@ -5,7 +5,7 @@ description:
 date: 2015-07-21
 display-date: 21 July 2015
 author: Joshua Brightwell
-tags: 2015 innovation workforce
+tags: innovation workforce 2015
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

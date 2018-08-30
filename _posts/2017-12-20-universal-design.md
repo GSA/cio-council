@@ -5,7 +5,7 @@ description:
 date: 2017-12-20
 display-date: December 20, 2017
 author: CIO Council Operations
-tags: 2017 accessibility
+tags: accessibility 2017
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIO Council Logo

@@ -5,7 +5,7 @@ description:
 date: 2015-09-16
 display-date: 16 September 2015
 author: Lisa Gelobter, Chief U.S. Digital Service Officer, Department of Education
-tags: 2015 innovation
+tags: innovation 2015
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

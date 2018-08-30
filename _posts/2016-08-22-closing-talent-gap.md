@@ -5,7 +5,7 @@ description:
 date: 2016-08-22
 display-date: 22 August 2016
 author: Veronica Villalobos, Principal Deputy Associate Director for Employee Services at the Office of Personnel Management
-tags: 2016 workforce
+tags: workforce 2016
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

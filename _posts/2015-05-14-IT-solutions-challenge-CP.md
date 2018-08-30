@@ -5,7 +5,7 @@ description:
 date: 2015-05-14
 display-date: 14 May 2015
 author: Christopher Paris
-tags: 2015 innovation workforce
+tags: innovation workforce 2015
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

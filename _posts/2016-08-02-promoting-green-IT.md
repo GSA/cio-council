@@ -5,7 +5,7 @@ description:
 date: 2016-08-02
 display-date: 02 August 2016
 author: Tony Scott
-tags: 2016 data-center
+tags: data-center 2016
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

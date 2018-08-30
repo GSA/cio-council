@@ -5,7 +5,7 @@ description:
 date: 2016-08-30
 display-date: 30 August 2016
 author: CIO Council Operations
-tags: 2016 workforce
+tags: workforce 2016
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

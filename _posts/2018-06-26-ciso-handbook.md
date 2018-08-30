@@ -5,7 +5,7 @@ description:
 date: 2018-06-26
 display-date: 26 June 2018
 author: CIO Council Operations
-tags: 2018 ciso cybersecurity
+tags: ciso cybersecurity 2018
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

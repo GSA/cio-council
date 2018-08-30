@@ -4,7 +4,7 @@ title: Automatic HTTPS Enforcement for New Executive Branch .Gov Domains
 date: 2017-01-19
 display-date: 19 January 2017
 author: Marina Fox & Eric Mill
-tags: 2017 cybersecurity
+tags: cybersecurity 2017
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIO Council Logo

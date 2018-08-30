@@ -5,7 +5,7 @@ description:
 date: 2015-04-23
 display-date: 23 April 2015
 author: Tonya Eaton
-tags: 2015 innovation workforce
+tags: innovation workforce 2015
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

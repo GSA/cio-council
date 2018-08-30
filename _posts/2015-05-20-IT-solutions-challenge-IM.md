@@ -5,7 +5,7 @@ description:
 date: 2015-05-20
 display-date: 20 May 2015
 author: Inez Maguire
-tags: 2015 innovation workforce
+tags: innovation workforce 2015
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

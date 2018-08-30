@@ -5,7 +5,7 @@ description:
 date: 2015-08-03
 display-date: 03 August 2015
 author: Tony Scott
-tags: 2015 cybersecurity
+tags: cybersecurity 2015
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

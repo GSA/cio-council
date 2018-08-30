@@ -5,7 +5,7 @@ description:
 date: 2015-11-30
 display-date: 30 November 2015
 author: Tony Scott
-tags: 2015 innovation workforce
+tags: innovation workforce 2015
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

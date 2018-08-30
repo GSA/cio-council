@@ -5,7 +5,7 @@ description:
 date: 2015-05-18
 display-date: 18 May 2015
 author: Ursula Nkwantabisa
-tags: 2015 innovation workforce
+tags: innovation workforce 2015
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

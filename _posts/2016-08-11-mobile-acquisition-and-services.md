@@ -5,7 +5,7 @@ description:
 date: 2016-08-11
 display-date: 11 August 2016
 author: Tony Scott and Anne Rung
-tags: 2016 acquisition mobility
+tags: acquisition mobility 2016
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

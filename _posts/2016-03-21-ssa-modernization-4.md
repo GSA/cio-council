@@ -4,7 +4,7 @@ title: Modernizing Federal IT Part 4 - Building a Modern Data Foundation
 date: 2016-03-21
 display-date: 21 March 2016
 author: Rob Klopp, CIO, Social Security Administration
-tags: 2016 it-modernization ssa
+tags: it-modernization ssa 2016
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIO Council Logo

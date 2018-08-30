@@ -5,7 +5,7 @@ description:
 date: 2015-12-23
 display-date: 23 December 2015
 author: Tony Scott
-tags: 2015 acquisition
+tags: acquisition 2015
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

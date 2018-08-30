@@ -4,7 +4,7 @@ title:  Modernizing Federal IT Part 9 - Modernization Begets Modernization
 date: 2017-03-27
 display-date: 27 March 2017
 author: Rob Klopp, CIO, SSA
-tags: 2017 it-modernization ssa
+tags: it-modernization ssa 2017
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIO Council Logo

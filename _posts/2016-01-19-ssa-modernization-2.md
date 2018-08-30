@@ -4,7 +4,7 @@ title: Modernizing Federal IT Part 2 - The Gravity of IP
 date: 2016-01-19
 display-date: 19 January 2016
 author: Rob Klopp, CIO, Social Security Administration
-tags: 2016 it-modernization ssa
+tags: it-modernization ssa 2016
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIO Council Logo

@@ -4,7 +4,7 @@ title: Universal Design - What's in it for me??
 date: 2017-12-21
 display-date: 21 December 2017
 author: CIO Council Operations
-tags: 2017 accessibility
+tags: accessibility 2017
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

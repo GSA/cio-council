@@ -5,7 +5,7 @@ description:
 date: 2017-01-19
 display-date: 19 November 2017
 author: CIO Council Operations
-tags: 2017 data-center
+tags: data-center 2017
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

@@ -5,7 +5,7 @@ description: In February 2018, the White House released its implementation plan 
 date: 2018-08-13
 display-date: 13 August 2018
 author: "John Sullivan, Director, Government-wide IT Accessibility"
-tags: 2018 accessibility
+tags: accessibility 2018
 image: /assets/img/blog/2018.08.13.collaborating.design.jpg
 image-thumbnail: /assets/img/blog/2018.08.13.collaborating.design.jpg
 img-alt: Image of two individuals planning on a whiteboard

@@ -5,7 +5,7 @@ description:
 date: 2018-03-30
 display-date: 30 March 2018
 author: CIO Council Operations
-tags: 2018 workforce
+tags: workforce 2018
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

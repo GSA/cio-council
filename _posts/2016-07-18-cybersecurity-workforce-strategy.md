@@ -5,7 +5,7 @@ description:
 date: 2016-07-18
 display-date: 18 July 2016
 author: CIO Council Operations
-tags: 2016 cybersecurity workforce
+tags: cybersecurity workforce 2016
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

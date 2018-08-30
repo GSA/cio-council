@@ -4,7 +4,7 @@ title: Let's Talk FITARA
 date: 2017-02-24
 display-date: 24 February 2017
 author: Frontis Wiggins, State Department CIO
-tags: 2017 fitara
+tags: fitara 2017
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIO Council Logo

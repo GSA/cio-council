@@ -4,7 +4,7 @@ title: Federal CIO Council Sponsors Federal Tech/Cyber Hiring and Recruitment Ev
 date: 2017-09-15
 display-date: September 15, 2017
 author: CIO Council Operations
-tags: 2017 workforce
+tags: workforce 2017
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIO Council Logo

@@ -5,7 +5,7 @@ description: On July 20, Office of Management and Budget (OMB) co-sponsored an e
 date: 2017-08-08
 display-date: 8 August 2017
 author: Margie Graves
-tags: 2017 tbm
+tags: tbm 2017
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

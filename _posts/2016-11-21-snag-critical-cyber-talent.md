@@ -5,7 +5,7 @@ description:
 date: 2016-11-21
 display-date: 21 November 2016
 author: Angela Bailey, Chief Human Capital Officer, DHS
-tags: 2016 cybersecurity workforce
+tags: cybersecurity workforce 2016
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

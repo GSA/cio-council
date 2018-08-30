@@ -5,7 +5,7 @@ description:
 date: 2016-10-20
 display-date: 20 October 2016
 author: Dan Pomeroy, DCOI Managing Partner PMO, GSA
-tags: 2016 data-center
+tags: data-center 2016
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

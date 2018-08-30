@@ -5,7 +5,7 @@ description:
 date: 2018-05-04
 display-date: 4 May 2018
 author: 'Office of the Federal Chief Information Officer'
-tags: 2018 icam
+tags: icam 2018
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

@@ -5,7 +5,7 @@ description:
 date: 2017-12-29
 display-date: 29 December 2017
 author: CIO Council Operations
-tags: '2017'
+tags: cio-council 2017
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

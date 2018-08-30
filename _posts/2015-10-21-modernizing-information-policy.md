@@ -5,7 +5,7 @@ description:
 date: 2015-10-21
 display-date: 21 October 2015
 author: Tony Scott
-tags: 2015 it-modernization
+tags: it-modernization 2015
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

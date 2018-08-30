@@ -4,7 +4,7 @@ title: Federal CIO Council Sponsors Federal Tech/Cyber Hiring and Recruitment Ev
 date: 2017-11-02
 display-date: 02 November 2017
 author: Beth Killoran, Chief Information Officer of the U.S. Department of Health and Human Services
-tags: 2017 workforce
+tags: workforce 2017
 image-thumbnail: /assests/img/CIO-council-Logo-silver1.png
 img-alt: CIO Council Logo
 ---

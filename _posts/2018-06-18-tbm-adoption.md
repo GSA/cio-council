@@ -5,7 +5,7 @@ description:
 date: 2018-05-31
 display-date: 31 May 2018
 author: 'Margaret Weichert, OMB Deputy Director of Management'
-tags: 2018 tbm
+tags: tbm 2018
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt:

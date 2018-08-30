@@ -5,7 +5,7 @@ description:
 date: 2016-10-17
 display-date: 17 October 2016
 author: Joseph Klimavicz
-tags: 2016 workforce
+tags: workforce 2016
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

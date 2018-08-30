@@ -5,7 +5,7 @@ description:
 date: 2016-11-16
 display-date: 16 November 2016
 author: Gen. Greg Touhill
-tags: 2016 cybersecurity
+tags: cybersecurity 2016
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo
@@ -26,7 +26,7 @@ Our strategic approach to achieving our goal is focused on five lines of effort 
 
 4.Continuously Innovate and Invest Wisely: In both the public and private sectors, many incidents or breaches have been caused or made worse by outdated equipment and software, legacy processes that are ineffective and inefficient, or poor requirements that get translated into the unwise acquisition of goods and services. The Government can and will do better. Doing better starts with planning for the future and the proper recapitalization of assets. Under US CIO Tony Scott’s leadership, the Administration has proposed the creation of an Information Technology Modernization Fund to kickstart efforts to recapitalize our antiquated systems and reduce our vulnerabilities. Looking to the future, we need to build a modern enterprise architecture that enables us to securely and affordably deliver a more open and transparent government. We need to deliver cloud and mobility solutions that enhance productivity yet have security “baked in,” not bolted on as an afterthought. Across all departments and agencies, we need to give our senior leaders the actionable business case information they need to plan, program and budget so that we can rapidly deliver innovative solutions that are effective, efficient, and secure.
 
-5.Make Informed Cyber Risk Decisions at the Right Level: Since the beginning, the Administration has put cybersecurity on top of the agenda across the Federal Government. Decision makers need the facts so they can make the best decisions possible to manage cyber risk. I have found that what gets measured gets managed. We have to leverage metrics that drive decisions and get them in front of the right decision makers as we work together to better manage our cyber risk. A risk that can’t be articulated and measured won’t get addressed properly. 
+5.Make Informed Cyber Risk Decisions at the Right Level: Since the beginning, the Administration has put cybersecurity on top of the agenda across the Federal Government. Decision makers need the facts so they can make the best decisions possible to manage cyber risk. I have found that what gets measured gets managed. We have to leverage metrics that drive decisions and get them in front of the right decision makers as we work together to better manage our cyber risk. A risk that can’t be articulated and measured won’t get addressed properly.
 
 Cybersecurity is a team effort. If we are going to achieve our goal and follow our strategic game plan, we have to work together across the Federal Government in concert with our various partners and stakeholders. To help foster teamwork and collaboration, we’ve launched the Chief Information Security Officer (CISO) Council to help chart the course to turn the strategic vision into an executable plan of action that will lead us to achieving our goal. Along the way, the CISO Council will also serve as a clearinghouse of the identification, shaping, and sharing of best practices as well as a professional development forum for our Federal CISOs.
 

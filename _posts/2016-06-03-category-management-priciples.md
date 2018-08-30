@@ -5,7 +5,7 @@ description:
 date: 2016-06-03
 display-date: 03 June 2016
 author: Tony Scott & Anne Rung
-tags: 2016 category-management
+tags: category-management 2016
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

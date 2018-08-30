@@ -5,7 +5,7 @@ description:
 date: 2018-03-15
 display-date: 15 March 2018
 author: CIO Council Operations
-tags: 2018 pma
+tags: pma 2018
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

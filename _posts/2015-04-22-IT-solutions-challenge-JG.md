@@ -5,7 +5,7 @@ description:
 date: 2015-04-22
 display-date: 22 April 2015
 author: Jeremy Greenland
-tags: 2015 innovation workforce
+tags: innovation workforce 2015
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

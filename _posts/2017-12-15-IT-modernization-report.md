@@ -5,7 +5,7 @@ description: The report is a key piece in this Administration’s efforts to mod
 date: 2017-12-15
 display-date: 15 December 2017
 author: Chris Liddell
-tags: 2017 it-modernization
+tags: it-modernization 2017
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo

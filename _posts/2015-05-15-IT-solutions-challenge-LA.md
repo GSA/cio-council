@@ -5,7 +5,7 @@ description:
 date: 2015-05-15
 display-date: 15 May 2015
 author: Lori Alfred
-tags: 2015 innovation workforce
+tags: innovation workforce 2015
 image:
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo
