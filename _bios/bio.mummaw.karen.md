@@ -4,7 +4,7 @@ title: MS. KAREN MUMMAW
 permalink: /about/members-and-leadership/mummaw-karen/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. KAREN MUMMAW
-bio-title-text: ACTING CHIEF INFORMATION OFFICER
+bio-title-text: ACTING CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. DEPARTMENT OF STATE
 bio-image-url: /assets/img/members/bio_Mummaw.png
 bio-image-alt-text: Karen Mummaw
