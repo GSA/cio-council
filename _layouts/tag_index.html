@@ -9,7 +9,7 @@ layout: base
 </div>
 </section>
   <div class="usa-grid">
-    <div class="usa-width-three-foruths usa-content">
+    <div class="usa-width-three-fourths usa-content">
       {% for post in site.tags[page.tag] %}
             <h6 style="margin-bottom:3px; margin-top: 15px"> {{ post.date | date_to_string }}</h6>
             <a href="{{ post.url | prepend: site.baseurl }}"><h3 style="margin-top:0px">{{ post.title }}</h3></a>
