@@ -6,6 +6,7 @@ background-image: /assets/img/grey.background.png
 bio-name-text: MR. JOSEPH KLIMAVICZ
 bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. DEPARTMENT OF JUSTICE
+bio-leadership: Council Co-Chair 
 bio-image-url: /assets/img/members/bio_Klimavicz.png
 bio-image-alt-text: Joe Klimavicz
 bio-phone: 202-514-0507

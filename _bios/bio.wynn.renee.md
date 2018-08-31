@@ -1,8 +1,7 @@
 ---
 layout: bio
-body-class: home
 title: Renee P. Wynn
-permalink: /about/members-and-leadership/wynn-renee
+permalink: /about/members-and-leadership/wynn-renee/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. RENEE WYNN
 bio-title-text: CHIEF INFORMATION OFFICER,
