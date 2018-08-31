@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cloud & Infrastructure - Community of Practice
-permalink: /about/datacenter-cop/
+permalink: /about/cloud-infrastructure-cop/
 background-image: /assets/img/grey.background.png
 hero-byline: About
 hero-text: Cloud & Infrastructure - Community of Practice
