@@ -14,5 +14,5 @@ hero-text: Committees and Affiliates
 
 # Communities of Practice
 * [Technology Business Management Community of Practice]({{ site.baseurl }}/about/tbm-cop)
-* [Cloud and Infrastructure Community of Practice]({{ site.baseurl }}/about/datacenter-cop)
+* [Cloud and Infrastructure Community of Practice]({{ site.baseurl }}/about/cloud-infrastructure-cop)
 * [Accessibility Community of Practice]({{ site.baseurl }}/about/accessibility-cop/)
