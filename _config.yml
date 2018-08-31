@@ -107,7 +107,7 @@ collections:
     output: true
   resources:
     output: true
-  bios:
+  members:
     output: true
   leadership:
     output: true
