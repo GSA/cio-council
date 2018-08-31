@@ -28,8 +28,8 @@ This event demonstrated the necessity of operating as a unified federal enterpri
 * The event was delivered on time and under budget.
 * Agencies received more than 5,000 applications to the government-wide vacancy announcements;
 * The government-wide vacancy announcements produced a diverse applicant pool that included veterans, students, and CyberCorp® Scholarship for Service candidates.
-* All participating agencies reported being ‘very satisfied’ or ‘satisfied’ with the quality of candidates and the overall event;<p></p>
-* Agencies requested more than 100 certificates of eligible candidates at all available grade levels;<p></p>
+* All participating agencies reported being ‘very satisfied’ or ‘satisfied’ with the quality of candidates and the overall event;
+* Agencies requested more than 100 certificates of eligible candidates at all available grade levels;
 * The CIO Council webpage (CIO.gov) received a recording breaking 72,000 site visits before,during and immediately after the event.
 
 As we move into 2018, the CIO Council plans to continue working on innovative and collaborative approaches to recruit the workforce of the future based on the key lessons learned from this event,including:  
