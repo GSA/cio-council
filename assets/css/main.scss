@@ -76,3 +76,138 @@ $on-laptop:        800px;
         "footer",
         "team"
 ;
+
+.tags {
+  list-style: none;
+  display: inline;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+.tag {
+  background: #eee;
+  border-radius: 3px 0 0 3px;
+  color: #333;
+  display: inline-block;
+  height: 26px;
+  line-height: 26px;
+  padding: 0 20px 0 23px;
+  position: relative;
+  margin: 5px 10px 10px 5px;
+  text-decoration: none;
+  -webkit-transition: color 0.2s;
+}
+
+.tag::before {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
+  content: '';
+  height: 6px;
+  left: 10px;
+  position: absolute;
+  width: 6px;
+  top: 10px;
+}
+
+.tag::after {
+  background: #fff;
+  border-bottom: 13px solid transparent;
+  border-left: 10px solid #eee;
+  border-top: 13px solid transparent;
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.tag:hover {
+  background-color: crimson;
+  color: #fff;
+}
+
+.tag:hover::after {
+   border-left-color: crimson;
+}
+
+.pagination a, .pagination span {
+    padding: 7px 18px;
+    margin-left: -2px;
+    margin-right: -2px;
+    background-color: #ffffff;
+    display: inline-block;
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+.pagination a {
+    &:hover {
+        background-color: #f1f1f1;
+        border-radius: 10px;
+        color: #333;
+        text-decoration: underline;
+    }
+ }
+
+.pagination {
+    text-align: center;
+    list-style: none;
+    margin: auto;
+    overflow: hidden;
+    padding: 0;
+ }
+
+ .blogindex-img{
+    float: left;
+    display: block;
+    object-fit: cover;
+    margin-right: 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 3px 15px 0 rgba(0, 0, 0, 0.19);
+    width: 150px;
+    height: 150px;
+
+ }
+ .initiative-image{
+   display: block;
+   object-fit: cover;
+   border-radius: 10px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 3px 15px 0 rgba(0, 0, 0, 0.19);
+   margin-bottom: 3rem;
+   height: 200px;
+   width: 100%;
+ }
+ .priority-image{
+   display: block;
+   object-fit: cover;
+   border-radius: 10px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 3px 15px 0 rgba(0, 0, 0, 0.19);
+   margin-bottom: 3rem;
+   height: 100%;
+ }
+
+ .hero-styling{
+   border-radius: 3px;
+   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+ }
+
+ #backtotop {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: #205493; /* Set a background color */
+    color: #ffffff; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+}
+
+#backtotop:hover {
+    background-color: #112e51; /* Add a dark-grey background on hover */
+}

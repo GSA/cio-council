@@ -1,0 +1,64 @@
+---
+layout: base
+---
+<section class="usa-section usa-section-dark">
+  <div class="usa-grid">
+    <h6 style="margin-bottom: 5px;">{{ page.display-date }}</h6>
+    <h1 style="margin-top: 0px;"> {{ page.title }}</h1>
+    <h4> By: {{ page.author }} </h4>
+  </div>
+</section>
+
+<br>
+<div class="usa-grid usa-content">
+  <div class="usa-width-three-fourths usa-content" id="main" tabindex="-1">
+  {% if page.tags.size > 0 %}
+    <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
+    {% assign tags = page.tags %}
+    <ul class="tags">
+      {% for tag in tags %}
+        <a href="{{ site.baseurl }}/tags/{{ tag }}"<li class="tag">{{ tag }}</li></a>
+    </ul>
+    {% endfor %}
+    {% endif %}
+
+     {{ content }}
+  </div>
+  <div class="usa-width-one-fourth">
+      <h4>Related Posts</h4>
+  {% assign maxRelated = 4 %}
+  {% assign minCommonTags =  1 %}
+  {% assign maxRelatedCounter = 0 %}
+  {% for post in site.posts %}
+    {% assign sameTagCount = 0 %}
+    {% assign commonTags = '' %}
+
+    {% for tag in post.tags %}
+      {% if post.url != page.url %}
+        {% if page.tags contains tag %}
+          {% assign sameTagCount = sameTagCount | plus: 1 %}
+          {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+          {% assign commonTags = commonTags | append: tagmarkup %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    {% if sameTagCount >= minCommonTags %}
+    <ul class="usa-sidenav-list">
+          <li style="border-bottom: 1px solid #ccc">
+              <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </li>
+         </ul>
+          {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+         {% if maxRelatedCounter >= maxRelated %}
+
+           {% break %}
+         {% endif %}
+       {% endif %}
+     {% endfor %}
+
+    <br>
+    <b><a href="{{ site.baseurl }}/blog" style="float: right; text-decoration: none;">BACK TO BLOG &nbsp; &#10095;</a></b>
+  </div>
+
+
+</div>

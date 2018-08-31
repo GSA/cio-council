@@ -1775,10 +1775,15 @@ h4,
 h5,
 h6 {
   clear: both;
+<<<<<<< HEAD
+  font-family: "Raleway", sans-serif;
+=======
   font-family: "Poppins", sans-serif;
+>>>>>>> master
   line-height: 1.3;
   margin-bottom: .5em;
   margin-top: 1.5em;
+  text-transform: uppercase;
 }
 
 h1 {
@@ -1821,7 +1826,7 @@ dfn {
 }
 
 .usa-content p:not(.usa-font-lead) {
-  max-width: 53rem;
+  max-width: ;
 }
 
 .usa-content-list {
@@ -2608,7 +2613,7 @@ dfn {
 }
 
 .usa-footer .usa-footer-primary-link {
-  color: #212121;
+  color: #FFFFFF;
   display: block;
   font-weight: 700;
   margin-top: 0;
@@ -2621,10 +2626,6 @@ dfn {
   .usa-footer .usa-footer-primary-link {
     border-top: none;
   }
-}
-
-.usa-footer .usa-footer-primary-link:hover {
-  text-decoration: underline;
 }
 
 .usa-footer a {
@@ -2769,7 +2770,7 @@ dfn {
 ul.usa-footer-primary-content,
 li.usa-footer-primary-content,
 li.usa-footer-primary-content {
-  border-top: 1px solid #212121;
+  border-top: 1px solid #eaeaea;
 }
 
 @media screen and (min-width: 600px) {
@@ -3468,6 +3469,8 @@ input.usa-input-medium {
   background-image: url("../img/hero.png");
   background-position: center;
   background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 .usa-hero .usa-button {
@@ -4021,6 +4024,9 @@ input.usa-input-medium {
   }
   .usa-nav-submenu > li {
     margin-bottom: 0;
+  }
+  .usa-nav-submenu a{
+    color: #ffffff !important;
   }
 }
 

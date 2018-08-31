@@ -1,0 +1,54 @@
+---
+layout: blog-sidenav
+title: CIO Council Blog
+hero-byline:
+hero-text: CIO Council Blog
+pagination:
+  enabled: true
+  per_page: 5
+---
+<article class="usa-width-one-whole">
+{% for post in paginator.posts %}
+  <h6 style="margin-bottom:3px; margin-top: 15px"> {{ post.date | date_to_string }}</h6>
+  <a href="{{ post.url | prepend: site.baseurl }}"><h2 style="margin-top:0px; margin-bottom: 0px;">{{ post.title }}</h2></a>
+  <h5>By: {{ post.author }}</h5>
+  <img src="{{ post.image-thumbnail | prepend: site.baseurl}}" alt="{{ post.img-alt }}" class="blogindex-img">
+  <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+
+{% if post.tags.size > 0 %}
+  <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
+  {% assign tags = post.tags %}
+  <ul class="tags">
+    {% for tag in tags %}
+      <a href="{{ site.baseurl }}/tags/{{ tag }}"<li class="tag">{{ tag }}</li></a>
+  </ul>
+  {% endfor %}
+  {% endif %}
+  <br><br>
+  <hr>
+  <br>
+{% endfor %}
+</article>
+
+<div class="usa-width-one-whole">
+  <br><br>
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a style="margin-right: 15rem;" href="{{ site.baseurl }}{{ paginator.previous_page_path }}/">
+        &#8249; Previous {{ paginator.per_page }} posts
+      </a>
+    {% else %}
+    {% endif %}
+
+    Page {{ paginator.page }} of {{ paginator.total_pages }}
+
+    {% if paginator.next_page %}
+    <a style="margin-left: 15rem;" href="{{ site.baseurl }}{{ paginator.next_page_path }}/">
+      Next {{ paginator.per_page }} posts &#8250;
+    </a>
+    {% else %}
+    <p></p>
+    {% endif %}
+  </div>
+  <br><br>
+</div>

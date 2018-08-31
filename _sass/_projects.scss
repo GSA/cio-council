@@ -90,3 +90,65 @@
   }
 }
 
+.bio-card-image {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 280px;
+  width: 100%;
+}
+
+.bio-card-description.bio-card-description {
+  color: #515151;
+  margin: 2rem;
+}
+
+.bio-card-summary {
+  font-size: 14px;
+  margin: 2rem;
+  text-transform: uppercase;
+}
+
+.bio-card-read {
+  margin: 0 2rem;
+  color: $card-heading-color;
+  font-size: $small-font-size;
+  font-weight: bold;
+  text-decoration: none;
+
+  &:visited {
+    color: $card-heading-color;
+  }
+
+  svg {
+    display: inline-block;
+    height: 1.2rem;
+    margin-bottom: -1px;
+    width: 1.2rem;
+    margin-left: 4px;
+  }
+}
+.leadership-card {
+  box-shadow: 0 0 0 1px #d6d7d9;
+  display: block;
+  margin-bottom: 3rem;
+  padding-bottom: 3rem;
+  position: relative;
+  text-decoration: none;
+
+  @media all and (min-width: $on-laptop) {
+    display: flex;
+    flex-direction: column;
+    margin-right: 17%;
+    min-height: 450px;
+    width: 31%;
+  }
+
+  &:hover {
+    box-shadow: 0 0 0 1px $card-heading-color;
+  }
+
+  &:active {
+    box-shadow: #3e94cf;
+  }
+}

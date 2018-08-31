@@ -5,90 +5,45 @@ layout: base
 <section>
   <div class="usa-hero" style="background-image: url('{{ page.hero-image | prepend: site.baseurl }}')">
    <div class="usa-grid">
-      <div class="usa-hero-callout usa-section">
-          <h3 style="font-family: 'Raleway', sans-serif; COLOR: #e2e2e2; font-size: 24px; text-align: left;">{{ page.hero-text }}</h3>
- 
-          <h4 style="font-family: 'Montserrat', sans-serif; COLOR: #FFFFFF; font-size: 18px; text-align: left;">{{ page.hero-byline2 }}</h4>
-          <h4 style="font-family: 'Raleway', sans-serif; COLOR: #aaaaaa; font-size: 13px; text-align: left;">{{ page.hero-byline }}</h4>
+      <div class="usa-hero-callout usa-section hero-styling">
+          <h3 style="font-family: 'Raleway', sans-serif; COLOR: #ffffff; font-size: 24px; text-align: left;">{{ page.hero-text }}</h3>
+
+          <h4 style="COLOR: #FFFFFF; font-size: 18px; text-align: left;">{{ page.hero-byline2 }}</h4>
+          <h4 style="COLOR: #e2e2e2; font-size: 13px; text-align: left;">{{ page.hero-byline }}</h4>
           <a class="usa-button" href="{{ page.hero-button-link | prepend: site.baseurl }}">{{ page.hero-button-text }}</a>
-    </div>   
+    </div>
    </div>
   </div>
 </section>
 
-<!--
-<section class="usa-grid usa-section">
-    <h2>Work</h2>
-    {% include projects.html %}
-</section>
--->
+<section class="usa-section usa-section-dark">
 
-  
-<section class="usa-grid usa-section">
-  <div class="tbtable">
-  <div class="tbcell left">
-    <div><CENTER><A HREF="cioc-priority-tbm/"><IMG SRC="assets/img/cio.priority.png" border=0 
-                                                   alt="CIO Priority - TBM" height=117 width=115></A>
-      <p class="priority_title">CIO Council Priority:<BR>
-        Technology Business Management</p>
-      <p class="priority">
+  <div class="usa-grid usa-graphic_list-row">
+    <h2>CIO Council Priorities</h2><br>
+    <div class="usa-width-one-half usa-media_block">
+    <A HREF="{{site.baseurl}}/priorities/tbm/"><IMG class="usa-media_block-img" SRC="assets/img/priorities/cio.priority.png" border=0 alt="CIO Priority - TBM" height=117 width=115></A>
+      <div class="usa-media_block-body">
+      <a href="{{site.baseurl}}/priorities/tbm/"><h3 style="margin-top:0px">Technology Business Management</h3></a>
+      <p>
       Federal Agencies are currently at various stages of implementing TBM. The CIO Council,
       the General Services Administration (GSA), and the Office of the Federal CIO (OFCIO) are
       committed to guiding agency adoption of TBM.</p>
-      </CENTER>
-      </div>
+    </div>
+
   </div>
-  <div class="tbcell right">
-    <div><CENTER>
-    <A HREF="2018/03/20/presidents-management-agenda-release/"><IMG SRC="assets/img/ciopriority_pma_2.png"  
-          border=0 alt="CIO Priority - President's Management Agenda" height=117 width=115></A>
-        <p class="priority_title">CIO Council Priority: <br> President's Management Agenda Release <br> 
-      <br> The CIO Council, in collaboration with the other CXO communities, will play a leading role in working to fulfill a number of CAP goals outlined by the PMA.</p>
-      
-      <!--<A HREF="cioc-priority-cybersecurity-awareness-month/"><IMG SRC="assets/img/shield-icon.png"  
-                           border=0 alt="CIO Priority - Cybersecurity Awareness Month" height=117 width=115></A>-->
-      <!--  <p class="priority_title">CIO Council Priority: Presidential<BR>
-         Management Agenda Release</p> -->
-        <p class="priority">
-     <!--This October, the Federal CIO Council is proud to participate in
-     National Cyber Security Awareness Month (NCSAM), a nationwide effort
-      to make the Internet safer for everyone.--></p>
-        </CENTER></div>
-  </div>
-  </div>
-
-</section>
-
-        
-        
-
-
-{% if page.banner-heading %}
-<section class="usa-section banner tagline" style="background-color: #a1b1bc;">
-  <div class="usa-grid">
-
-    <div class="usa-width-one-whole usa-end-row">
-     
-<!--
-    <div class="usa-width-whole hero-content">
-  -->
-<h2>{{ page.banner-heading }}</h2>
-      {% if page.banner-text %}
-        <p>{{ page.banner-text }}</p>
-      {% endif %}
-      {% if page.banner-button-text %}
-      <div class="center-content">
-        <a href="{{ page.banner-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.banner-button-text }}</a>
-      </div>
-      {% endif %}
+    <div class="usa-width-one-half usa-media_block">
+    <A HREF="{{site.baseurl}}/priorities/pma/"><IMG SRC="assets/img/priorities/ciopriority_pma_2.png" class="usa-media_block-img"border=0 alt="CIO Priority - President's Management Agenda" height=117 width=115></A>
+      <div class="usa-media_block-body">
+        <a href="{{site.baseurl}}/priorities/pma/"><h3 style="margin-top:0px">President's Management Agenda</h3></a>
+      <p>The CIO Council, in collaboration with the other CXO communities, will play a leading role in working to fulfill a number of CAP goals outlined by the PMA.</p>
     </div>
   </div>
+</div>
 </section>
-{% endif %}
-   
-      <!--
-<section class="usa-grid usa-section">
-  <div class="usa-width-one-whole usa-end-row"></div>
+
+<section class="usa-section-light usa-section">
+  <div class="usa-grid">
+    <h2>Recent Blog Posts</h2><br>
+  {% include home-recentblogs.html %}
+  </div>
 </section>
-    -->
- {% include quick.links.html %}

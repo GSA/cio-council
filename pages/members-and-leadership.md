@@ -1,16 +1,13 @@
 ---
-layout: members-and-leadership
-body-class: home
+layout: page
 permalink: /about/members-and-leadership/
 background-image: /assets/img/grey.background.png
-hero-text: 
-hero-byline:
-hero-button-text: 
-hero-button-link: 
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
+hero-byline: CIO Council
+hero-text: Leadership & Membership
 ---
-## 
-3-Column Table of links goes here
+# Chairs
+The Office of Management and Budget’s Deputy Director for Management, Margaret Weichert, is the Chairperson of the Council. Suzette Kent, Federal Chief Information Officer, is the Director of the Council and leads its activities on behalf of the Chairperson.  
+
+{% include leadership.html %}
+# MEMBERS
+{% include members.html %}

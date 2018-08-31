@@ -1,15 +1,11 @@
 ---
-layout: document-library
-body-class: home
-title: About
+layout: page
+title: Document Library
 permalink: /resources/document-library/
-background-image: /assets/img/grey.background.png
+image: /assets/img/resources/doc-library-banner.png
+img-alt: Image of a library
 hero-text: Document Library
-hero-byline:
-hero-button-text: 
-hero-button-link: 
-banner-heading: 
-banner-text: 
-banner-button-text: 
-banner-button-link: 
+hero-byline: Resources
 ---
+
+{% include document-library.html %}

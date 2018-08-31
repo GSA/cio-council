@@ -1,12 +1,20 @@
 ---
 layout: base
 ---
-
-<section class="usa-section usa-grid">
-  <h1> {{ page.title }}</h1>
-  {% if page.image %}
-  <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
-  {% endif %}
-  {{ content }}
+<section class="usa-section usa-section-dark">
+  <div class="usa-grid">
+    <h3 style="margin-bottom:0px"> {{ page.hero-byline }}</h3>
+    <h1 style="margin-top: 10px;"> {{ page.hero-text }}</h1>
   </div>
+</section>
+<section>
+<div class="usa-grid usa-content">
+  <br>
+  <div class="usa-width-one-whole">
+    {{ content }}
+      <br><br>
+
+  </div>
+
+</div>
 </section>

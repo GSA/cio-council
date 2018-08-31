@@ -1,0 +1,23 @@
+
+<section class="usa-graphic_list">
+{% for priority in site.priorities %}
+  {% assign half = forloop.index | modulo: 2 %}
+  {% if half == 1 %}
+  <div class="usa-width-one-half usa-end-row usa-media_block">
+  {% else %}
+  <div class="usa-width-one-half usa-media_block">
+  {% endif %}
+    <a href="{{ site.baseurl }}{{ priority.url }}"><img class="priority-image" src="{{ priority.image | prepend: site.baseurl }}" alt="{{priority.img-alt}}"></a>
+
+    <div class="usa-media_block-body">
+      <h3>
+        <a href="{{ site.baseurl }}{{ priority.url }}">
+          {{ priority.title }}
+        </a>
+      </h3>
+      <p style="margin-right: 15px">{{ priority.description | strip_html }}</p>
+    </div>
+    <br><br>
+  </div>
+{% endfor %}
+</section>

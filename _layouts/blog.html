@@ -1,54 +1,19 @@
 ---
-layout: base
+layout: blog-post-sidenav
 ---
 
-<section >
-  <div class="standard-unit" style="background-image: url('{{ page.background-image | prepend: site.baseurl }}'); height: 200px;">
-    <section class="usa-grid usa-section">
-        <div  style="position: absolute; bottom: 0;">
-        <h1 style="font-family: 'Poppins', sans-serif; COLOR: #515151; font-size: 42px; align: left;">{{ page.hero-text }}</h1>
-        </div>
-      </section>    
-  </div>
-</section>
-
-<div style="margin: auto; width: 60%;">
-  <BR>
-   <h1 style="font-family: 'Poppins', sans-serif; COLOR: #515151; font-size: 26px; align: left;"><B>{{ page.blog-title }}</B></H1>
-  <I>{{page.blog-date }} - Posted by: {{ page.blog-author }}</I><BR><BR>
-
-    <font style="font-size:18px;">
-{{  content    }}
-    </font>
-      
-  </div>
-  
-<BR><BR>
-
-
-{% if page.banner-heading %}
-<section class="usa-section banner tagline" style="background-color: #a1b1bc;">
-  <div class="usa-grid">
-
-    <div class="usa-width-one-whole usa-end-row">
-     
-<!--
-    <div class="usa-width-whole hero-content">
-  -->
-<h2>{{ page.banner-heading }}</h2>
-      {% if page.banner-text %}
-        <p>{{ page.banner-text }}</p>
-      {% endif %}
-      {% if page.banner-button-text %}
-      <div class="center-content">
-        <a href="{{ page.banner-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.banner-button-text }}</a>
-      </div>
-      {% endif %}
-    </div>
-  </div>
-</section>
+{% if page.image %}
+  <br><br>
+  <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
 {% endif %}
-    
-    <BR>
+{% if page.image-credit %}
+  <span class="caption"><a href="{{page.image-credit}}" target="_blank">Photo credit</a> (Creative Commons)</span>
+{% endif %}
+{{ content }}
 
- {% include quick.links.html %}
+{% if page.attachment %}
+<a class="usa-button" href="{{ page.attachment | prepend: site.baseurl }}">View Abstract</a>
+{% endif %}
+
+
+<p><br></p>

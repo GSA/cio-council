@@ -1,49 +1,42 @@
 assigned:
     -
-        text: Home
-        href: pages/home.md
-        permalink: /
+        text: About
+        href:
+        permalink:
+        sectionid: basic-nav-section-one
         show_in_menu: false
         show_in_footer: true
+        children:
+          -
+              text: About the Council
+              permalink: /about/
+          -
+              text: Leadership & Members
+              permalink: /about/members-and-leadership/
+          -
+              text: Committees & Communities of Practice
+              permalink: /about/committees-affiliates/
+
     -
-        text: Priorities
+        text: Agenda
         href: pages/cioc-priorities.md
         permalink: /cioc-priorities/
         show_in_menu: true
         show_in_footer: true
-    -
-        text: Initiatives
-        href: pages/cioc-initiatives.md
-        permalink: /cioc-initiatives/
-        show_in_menu: true
-        show_in_footer: true
+        sectionid: basic-nav-section-two
         children:
-            -
-                text: 'Microloans for Farmers'
-                href: pages/projects/microloans-for-farmers.md
-                show_in_menu: false
-                show_in_footer: false
-            -
-                text: 'Reducing Summer Melt'
-                href: pages/projects/reducing-summer-melt.md
-                show_in_menu: false
-                show_in_footer: false
+          -
+              text: Priorities
+              permalink: /agenda/priorities/
+          -
+              text: Initiatives
+              permalink: /agenda/initiatives/
+
+
     -
-        text: 'News'
-        href: pages/team.md
-        permalink: /team/
-        show_in_menu: false
-        show_in_footer: false
-    -
-        text: Members
-        href: pages/members-and-leadership.md
-        permalink: /about/members-and-leadership/
-        show_in_menu: true
-        show_in_footer: false
-    -
-        text: About
-        href: pages/about.md
-        permalink: /about/
+        text: Blog
+        href: pages/blog.md
+        permalink: /blog/
         show_in_menu: true
         show_in_footer: true
     -
@@ -52,11 +45,6 @@ assigned:
         permalink: /resources/
         show_in_menu: true
         show_in_footer: true
-    -
-        text: Fed IT Topics
-        href: pages/fed-it-topics.md
-        permalink: /fed-it-topics/
-        show_in_menu: true
-        show_in_footer: true
+
 
 unassigned: []

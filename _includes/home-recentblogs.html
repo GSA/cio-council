@@ -1,0 +1,29 @@
+<div class="project-container">
+{% for post in site.posts limit:3 %}
+  {% unless post.featured %}
+    <article class="card usa-width-one-third">
+      <a class="card-link" href="{{ post.url | prepend: site.baseurl }}" aria-hidden="true" tabindex="-1"></a>
+      <div class="card-image"
+        style="background-image: url(
+        {% if post.image-thumbnail %}
+          {{ post.image-thumbnail | prepend: site.baseurl }}
+        {% else %}
+          {{ post.image | prepend: site.baseurl }}
+        {% endif %}
+        );">
+      </div>
+      <div class="card-banner">
+        <h3 class="card-description">
+          <span>{{ post.title }}</span>
+        </h3>
+        <h6>By: {{ post.author }}</h6>
+        <p class="card-summary">{{ post.content | strip_html | truncatewords:25 }}</p>
+      </div>
+      <a class="card-read" href="{{ post.url | prepend: site.baseurl }}">
+        Read more
+        <span class="usa-sr-only">about {{ post.title }}</span>
+      </a>
+    </article>
+  {% endunless %}
+{% endfor %}
+</div>

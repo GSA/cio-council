@@ -34,9 +34,9 @@ colors:
       background: '#dce4ef'
       text: '#112e51'
   footer:
-    primary-background: '#f1f1f1'
+    primary-background: '#363f48'
     secondary-background: '#d6d7d9'
-    text: '#212121'
+    text: '#ffffff'
 
 analytics:
   google:
@@ -46,12 +46,12 @@ analytics:
     subagency: CIO.gov # Change this to your agency
 
 defaults:
- -
   scope:
-    path: "" # an empty string here means all files in the project
+    path: "_tags" # an empty string here means all files in the project
   values:
     layout:
- 
+      - tag_index
+
 
 forms:
 - type: newsletter
@@ -69,16 +69,22 @@ forms:
 
 footer:
   links:
-    
-        
-        
+      - text: About
+        permalink: /about/
+      - text: Agenda
+        permalink: /cioc-priorities/
+      - text: Blog
+        permalink: /blog/
+      - text: Reources
+        permalink: /resources/
+
+
   image: /assets/img/CIO-council-Logo-silver1.png
   contact:
     name: CIO Council
     email: feedback@cio.gov
     twitter:
       - ciodotgov
-    rss: https://federalist-proxy.app.cloud.gov/site/gsa/cio-council/data/cio.rss
   text:
  # Change to a tag line for your agency
 
@@ -93,9 +99,31 @@ exclude:
 
 # Inititalize project and team collections
 collections:
-  projects:
+  blogs:
     output: true
-  team:
+  priorities:
     output: true
+  initiatives:
+    output: true
+  resources:
+    output: true
+  bios:
+    output: true
+  leadership:
+    output: true
+
+plugins_dir:
+  - jekyll-paginate-v2
+  - jekyll-feed
+
+pagination:
+  paginate_path: /blog/page:num/
+  enabled: true
+  per_page: 5
+  sort_field: 'date'
+  sort_reverse: true
+  trail:
+    before: 2
+    after: 2
 
 wds-version: 1.1.0
