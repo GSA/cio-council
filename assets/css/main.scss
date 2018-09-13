@@ -211,3 +211,9 @@ $on-laptop:        800px;
 #backtotop:hover {
     background-color: #112e51; /* Add a dark-grey background on hover */
 }
+
+.section-border{
+  -webkit-box-shadow: inset 0px 5px 8px 1px rgba(0,0,0,0.57);
+  -moz-box-shadow: inset 0px 5px 8px 1px rgba(0,0,0,0.57);
+  box-shadow: inset 0px 5px 8px 1px rgba(0,0,0,0.57);
+}
