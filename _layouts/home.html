@@ -21,18 +21,21 @@ layout: base
   </div>
   <div class="usa-width-two-thirds">
     <p>Sign up for C-Suite Quarterly, a quarterly update on management priorities, transformation success stories, and tools and information to help agencies improve performance. To sign up for updates, please enter your contact information below.</p>
-    <form id="GD-snippet-form" action="https://public.govdelivery.com/accounts/USGSA/subscribers/qualify" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZhCoiMxoWiSHeJTiR19j3v2+S7Z6oMVPNTy2Ytiv7ukUos3n+vi5J/Fc0MG7tmBSLdsHmRfj02xB0ztqUS0YWQ==" />
-      <input type="hidden" name="topic_id" id="topic_id" value="USGSA_512" />
-      <fieldset>
-        <ol class='form'>
-          <li class='email_fields'>
-            <label for="email"><img class="required" src="https://public.govdelivery.com/static/required.gif" alt="Required" />Email Address</label>
-            <input type="text" name="email" id="email" class="long" />
-          </li>
-        </ol>
-          <input type="submit" name="commit" value="Submit" class="form_button" />
-      </fieldset>
-  </form>
+    <div role="form">
+        <form id="GD-snippet-form" action="https://public.govdelivery.com/accounts/USGSA/subscribers/qualify" accept-charset="UTF-8" method="post" class="usa-search"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZhCoiMxoWiSHeJTiR19j3v2+S7Z6oMVPNTy2Ytiv7ukUos3n+vi5J/Fc0MG7tmBSLdsHmRfj02xB0ztqUS0YWQ==" />
+          <input type="hidden" name="topic_id" id="topic_id" value="USGSA_512" />
+          <fieldset>
+            <ol class='form'>
+              <li class='email_fields' style='display: block'>
+                <input type="text" name="email" id="email" placeholder="Email" />
+              </li>
+            </ol>
+            <button type="submit" name="commit">
+              <span class="usa-search-submit-text">Submit</span>
+            </button>
+          </fieldset>
+      </form>
+    </div>
   </div>
 </section>
 <section class="usa-section usa-section-dark">
