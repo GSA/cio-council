@@ -4,14 +4,14 @@ title: 'GSA Awards NewPay BPA for Software-as-a-Service for Payroll and Work Sch
 description: 10-year, $2.5 billion BPA provides agencies with technology and services to modernize and improve payroll processing across government
 date: 2018-09-27
 display-date: 27 September 2018
-author: "CIO Council"
-tags: newpay 2018 payroll shared-services gsa  
+author: "CIO Council Support"
+tags: newpay 2018 shared-services gsa  
 image: /assets/img/blog/2018.09.27newpay.jpg
 image-thumbnail: /assets/img/blog/2018.09.27newpay.jpg
-img-alt: small numbers forming a dollar sign
+img-alt: Small numbers forming a dollar sign
 ---
 
-_This blog was first posted on [GSABlog](https://www.gsa.gov/blog/2018/08/07/Collaborating-for-Better-Design-Technology-and-User-Experience-0) on September 27th, 2018_
+_This press release was first posted on [GSA](https://www.gsa.gov/about-us/newsroom/news-releases/gsa-awards-newpay-bpa-for-softwareasaservice-for-payroll-and-work-schedule-and-leave-management) on September 27th, 2018_
 
 **WASHINGTON, D.C.** – Today, the U.S. General Services Administration (GSA) announced the award of a 10-year, $2.5 billion NewPay Blanket Purchase Agreement (BPA) that will provide payroll and work schedule and leave management Software-as-a-Service (SaaS) solutions and services. Payroll modernization aligns with the fifth Cross Agency Priority goal from the President’s Management Agenda, which calls for streamlining administrative services across the federal government.
 
