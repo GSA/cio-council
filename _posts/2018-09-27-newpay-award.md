@@ -6,9 +6,9 @@ date: 2018-09-27
 display-date: 27 September 2018
 author: "CIO Council"
 tags: newpay 2018 payroll shared-services gsa  
-image: 
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIO Council Logo
+image: /assets/img/blog/2018.09.27newpay.jpg
+image-thumbnail: /assets/img/blog/2018.09.27newpay.jpg
+img-alt: small numbers forming a dollar sign
 ---
 
 _This blog was first posted on [GSABlog](https://www.gsa.gov/blog/2018/08/07/Collaborating-for-Better-Design-Technology-and-User-Experience-0) on September 27th, 2018_
