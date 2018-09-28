@@ -5,7 +5,7 @@ description:
 date: 2018-09-28
 display-date: 28 September 2018
 author: "CIO Council Operations"
-tags: ncsam cybersecurity 2018  
+tags: cybersecurity 2018  
 image: /assets/img/blog/2018.09.28.cybersecurity.png
 image-thumbnail: /assets/img/blog/2018.09.28.cybersecurity.png
 img-alt: White House .gov logo 
