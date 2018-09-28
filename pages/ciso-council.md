@@ -27,7 +27,7 @@ The Council promotes collaboration and community building among Federal Agency C
 
 ## LEADERSHIP
 [Grant Schneider](https://www.cio.gov/about/members-and-leadership/schneider-grant/), Chair  
-Acting Federal Chief Information Security Officer  
+Federal Chief Information Security Officer  
 Office of Management and Budget  
 
 Cord Chase, Co-Chair  
