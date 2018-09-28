@@ -15,7 +15,7 @@ The Workforce Committee's agenda encompasses the full employment life cycle: wor
 * Strategic Career Roadmaps
 
 ## LEADERSHIP
-Jason Gray, Co-Chair  
+[Jason Gray](https://www.cio.gov/about/members-and-leadership/gray-jason/), Co-Chair  
 Chief Information Officer  
 Department of Education  
 
