@@ -3479,12 +3479,12 @@ input.usa-input-medium {
 
 .usa-hero-callout {
   background-color: rgba(237, 237, 237, 0.7);
-  padding: 35rem;
+  padding: 3rem;
 }
 
 @media screen and (min-width: 481px) {
   .usa-hero-callout {
-    max-width: 33rem;
+    max-width: 35rem;
   }
 }
 
