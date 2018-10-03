@@ -3478,8 +3478,7 @@ input.usa-input-medium {
 }
 
 .usa-hero-callout {
-  background-color: #cccccc;
-  opacity: 0.3;
+  background-color: rgba(204, 204, 204, 0.5);
   padding: 3rem;
 }
 
