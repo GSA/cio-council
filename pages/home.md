@@ -7,7 +7,7 @@ hero-text: "October is National Cybersecurity Awareness Month"
 hero-byline2:
 hero-byline: NCSAM was created as a collaborative effort between government and industry to ensure every American has the resources they need to stay safer and more secure online.
 hero-button-text: Read More
-hero-button-link: https://www.cio.gov/2018/10/01/national-cybersecurity-month-2018.html
+hero-button-link: /national-cybersecurity-month-2018/
 banner-heading: NEWS AND UPDATES
 banner-text:
 
