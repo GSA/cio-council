@@ -3478,13 +3478,13 @@ input.usa-input-medium {
 }
 
 .usa-hero-callout {
-  background-color: #112e51;
+  background-color: rgba(241, 241, 241, 0.7);
   padding: 3rem;
 }
 
 @media screen and (min-width: 481px) {
   .usa-hero-callout {
-    max-width: 30rem;
+    max-width: 33rem;
   }
 }
 
@@ -3495,7 +3495,7 @@ input.usa-input-medium {
 
 .usa-hero-callout .usa-button {
   font-size: 1.4rem;
-  margin-top: 7rem;
+  margin-top: 4rem;
   width: 100%;
 }
 

@@ -2,17 +2,17 @@
 layout: home
 body-class: home
 permalink: /
-hero-image: /assets/img/banners/2018.06.25-CISO-banner.png
-hero-text: "CISO HANDBOOK"
+hero-image: /assets/img/banners/2018.10.03-ncsam-banner.png
+hero-text: "October is National Cybersecurity Awareness Month"
 hero-byline2:
-hero-byline: A COMPREHENSIVE REFERENCE FOR FEDERAL CHIEF INFORMATION SECURITY OFFICERS
+hero-byline: NCSAM was created as a collaborative effort between government and industry to ensure every American has the resources they need to stay safer and more secure online.
 hero-button-text: Read More
-hero-button-link: /ciso-handbook/
+hero-button-link: /national-cybersecurity-month-2018/
 banner-heading: NEWS AND UPDATES
 banner-text:
 
   - <a href="/2018/08/13/design-accessibility/"> August 13, 2018 - Collaborating for Better Design, Technology and User Experience</a><br>
-  
+
   - <a href="/2018/06/25/ciso-handbook/"> June 26, 2018 - Introducing a New, Informative Resource for Security Professionals</a><br>
 
   - <a href="/2018/06/22/Emerging-Technologies-Roundtable-Blog/"> June 22, 2018 - Digital Transformation Artificial Intelligence and the Workforce</a><br>
@@ -23,7 +23,7 @@ banner-text:
 
   - <a href="/2018/05/31/modernize-government-payroll-systems/"> May 31, 2018 - The Time to Modernize Government Payroll Systems is Now</a><br>
 
-  - <a href="/2018/05/30/IT-Modernization-Report-Updates/"> May 30, 2018 - EO 13800 and Updates on Federal IT Modernization                   Efforts</a><br>
+  - <a href="/2018/05/30/IT-Modernization-Report-Updates/"> May 30, 2018 - EO 13800 and Updates on Federal IT Modernization Efforts</a><br>
 
   - <a href="https://www.cio.gov/newpay-notice/"> May 18, 2018 - NewPay Pre-Solicitation Notice Release</a><br>
 
