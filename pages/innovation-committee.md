@@ -22,8 +22,8 @@ Innovation can bring about both incremental growth and radical change in how we 
 Chief Information Officer  
 Small Business Administration  
 
-Ron Bewtra, Co-Chair
-Chief Technology Officer
-Department of Justice
+Ron Bewtra, Co-Chair  
+Chief Technology Officer  
+Department of Justice  
 
 The [Innovation Committee Max Page](https://community.max.gov/display/Egov/CIO+Council+Innovation+Committee) (login required) provides tools and resources to encourage information sharing and collaboration.
