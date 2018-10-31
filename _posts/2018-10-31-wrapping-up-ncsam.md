@@ -4,7 +4,7 @@ title: 'Wrapping up National Cybersecurity Awareness Month'
 description:
 date: 2018-10-31
 display-date: 31 October 2018
-author: Grant Schneider
+author: Grant Schneider, Federal CISO
 permalink: /wrapping-up-ncsam-2018/
 tags: cybersecurity 2018 ncsam
 image: /assets/img/blog/2018.10.31.ncsam.jpg
