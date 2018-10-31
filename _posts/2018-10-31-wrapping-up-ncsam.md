@@ -7,7 +7,7 @@ display-date: 31 October 2018
 author: Grant Schneider
 permalink: /wrapping-up-ncsam-2018/
 tags: cybersecurity 2018 ncsam
-image: /assets/img/blog/2018.10.01.ncsam.png
+image: /assets/img/blog/2018.10.31.ncsam.png
 image-thumbnail: /assets/img/blog/2018.10.01.ncsam.png
 img-alt: October is National Cybersecurity Awareness Month. Learn more at staysafeonline.org/ncsam
 ---
