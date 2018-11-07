@@ -32,6 +32,6 @@ Office of Management and Budget
 
 Steven Hernandez, Vice-Chair  
 Chief Information Security Officer  
-Depratment of Edcuation 
+Depratment of Education 
 
 The [MAX Federal CISO Council Page](https://community.max.gov/display/Egov/Federal+CISO+Council) (login required) provides tools and resources to encourage information sharing and collaboration.
