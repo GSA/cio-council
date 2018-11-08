@@ -2,7 +2,7 @@
 layout: home
 body-class: home
 permalink: /
-hero-image: /assets/img/banners/2018.11.07-ncs-banner.jpg
+hero-image: /assets/img/banners/2018.11.07-ncs-banner.png
 hero-text: "Read the National Cyber Strategy"
 hero-byline: Released in September, the National Cyber Strategy identifies bold new steps the Federal Government will take to protect America from cyber threats and strengthen our capabilities in cyberspace.
 hero-button-text: Read More
