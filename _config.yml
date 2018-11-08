@@ -105,6 +105,8 @@ collections:
     output: true
   initiatives:
     output: true
+  pastinitiatives:
+    output: true
   resources:
     output: true
   members:
