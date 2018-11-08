@@ -30,9 +30,8 @@ The Council promotes collaboration and community building among Federal Agency C
 Federal Chief Information Security Officer  
 Office of Management and Budget  
 
-Cord Chase, Co-Chair  
+Steven Hernandez, Vice-Chair  
 Chief Information Security Officer  
-Office of Personnel Management  
-
+Depratment of Education 
 
 The [MAX Federal CISO Council Page](https://community.max.gov/display/Egov/Federal+CISO+Council) (login required) provides tools and resources to encourage information sharing and collaboration.

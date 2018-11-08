@@ -19,4 +19,8 @@ The Workforce Committee's agenda encompasses the full employment life cycle: wor
 Chief Information Officer  
 Department of Education  
 
+[Dorothy Aronson](https://www.cio.gov/about/members-and-leadership/aronson-dorothy/), Co-Chair  
+Chief Information Officer  
+U.S. National Science Foundation  
+
 The [Workforce Committee Max Page](https://community.max.gov/display/Egov/CIO+Council+Workforce+Committee) (login required) provides tools and resources to encourage information sharing and collaboration.
