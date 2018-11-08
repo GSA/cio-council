@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: federalreskilling
 image: /assets/img/initiatives/skinny-hiring-banner-1.png
 img-alt: Image of the Federal Cybersecurity Reskilling Academy logo
 permalink: /reskilling/
