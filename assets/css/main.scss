@@ -225,6 +225,11 @@ $on-laptop:        800px;
   background-repeat: no-repeat;
 }
 
+.rs-heading{
+  font-family: "Oswald",sans-serif;
+  font-weight: 400;
+}
+
 .timeline{
   --uiTimelineMainColor: var(--timelineMainColor, #4364ad);
   --uiTimelineSecondaryColor: var(--timelineSecondaryColor, #fff);
