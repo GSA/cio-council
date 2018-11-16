@@ -219,7 +219,7 @@ $on-laptop:        800px;
 .re-banner{
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-image: url({{ site.baseurl }}/assets/img/initiatives/reskilling-header.png);
+  background-image: url("../assets/img/initiatives/reskilling-header.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
