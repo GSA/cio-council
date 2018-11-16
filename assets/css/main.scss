@@ -215,8 +215,9 @@ $on-laptop:        800px;
 }
 /*reskilling page styling*/
 .rs-section{
-  background-image: url({% site.baseurl %}/assets/img/initiatives/reskilling-header.png);
+  background-image: url({{ site.baseurl }}/assets/img/initiatives/reskilling-header.png);
   max-width: 100%;
+  max-height:
   height: auto;
 }
 .rs-header{
