@@ -234,8 +234,14 @@ $on-laptop:        800px;
 
 .rs-hero{
   font-size: 5rem;
+  display: inline;
+  float: left;
 }
 
+.rs-img{
+  float: left;
+  padding-top: 4rem;
+}
 .timeline{
   --uiTimelineMainColor: var(--timelineMainColor, #4364ad);
   --uiTimelineSecondaryColor: var(--timelineSecondaryColor, #fff);
