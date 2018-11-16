@@ -220,10 +220,9 @@ $on-laptop:        800px;
   padding-top: 3rem;
   padding-bottom: 3rem;
   background-position: center;
-
   background-repeat: no-repeat;
-  min-height: 300px;
-  min-width: 100%;
+  max-width: 100%;
+  height: auto;
 }
 
 .rs-heading{
@@ -238,8 +237,8 @@ $on-laptop:        800px;
 }
 
 .rs-img{
-  float: left;
-  padding-top: 4rem;
+  display: block;
+  margin: auto;
 }
 .timeline{
   --uiTimelineMainColor: var(--timelineMainColor, #4364ad);
