@@ -233,6 +233,12 @@ $on-laptop:        800px;
 
 }
 
+.rs-hero{
+  font-size: 5rem;
+  position: absolute;
+  padding-top: 50%;
+}
+
 .timeline{
   --uiTimelineMainColor: var(--timelineMainColor, #4364ad);
   --uiTimelineSecondaryColor: var(--timelineSecondaryColor, #fff);
