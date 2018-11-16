@@ -214,12 +214,20 @@ $on-laptop:        800px;
     background-color: #112e51;
 }
 /*reskilling page styling*/
+.re-banner{
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-image: url("{{ site.baseurl }}/assets/img/initiatives/reskilling-header.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 .rs-header{
   font-family: "Roboto Mono", sans-serif;
   color: inherit;
 }
 .timeline{
-  --uiTimelineMainColor: var(--timelineMainColor, #222);
+  --uiTimelineMainColor: var(--timelineMainColor, #4364ad);
   --uiTimelineSecondaryColor: var(--timelineSecondaryColor, #fff);
 
   position: relative;
