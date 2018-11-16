@@ -219,7 +219,7 @@ $on-laptop:        800px;
 .re-banner{
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-image: url("../assets/img/initiatives/reskilling-header.png");
+  background-image: url(../assets/img/initiatives/reskilling-header.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -228,6 +228,7 @@ $on-laptop:        800px;
 .rs-heading{
   font-family: "Oswald",sans-serif;
   font-weight: 400;
+  font-color: #494440;
 }
 
 .timeline{
