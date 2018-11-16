@@ -214,12 +214,14 @@ $on-laptop:        800px;
     background-color: #112e51;
 }
 /*reskilling page styling*/
+.rs-section{
+  background-image: url({% site.baseurl %}/assets/img/initiatives/reskilling-header.png);
+  max-width: 100%;
+  height: auto;
+}
 .rs-header{
   font-family: "Roboto Mono", sans-serif;
   color: inherit;
-}
-.rs-background{
-
 }
 .rs-timeline {
   position: relative;
