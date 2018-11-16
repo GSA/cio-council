@@ -222,10 +222,7 @@ $on-laptop:        800px;
   background-size: cover;
   background-repeat: no-repeat;
 }
-.rs-header{
-  font-family: "Roboto Mono", sans-serif;
-  color: inherit;
-}
+
 .timeline{
   --uiTimelineMainColor: var(--timelineMainColor, #4364ad);
   --uiTimelineSecondaryColor: var(--timelineSecondaryColor, #fff);
