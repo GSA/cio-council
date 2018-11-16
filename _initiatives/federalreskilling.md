@@ -1,6 +1,6 @@
 ---
 layout: federalreskilling
-image: /assets/img/initiatives/skinny-hiring-banner-1.png
+image: /assets/img/initiatives/reskilling-header.png
 img-alt: Image of the Federal Cybersecurity Reskilling Academy logo
 permalink: /reskilling/
 title: Federal Cybersecurity Reskilling Academy
