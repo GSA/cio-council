@@ -253,6 +253,7 @@ $on-laptop:        800px;
   font-size: 28px;
   margin: 5% auto
 }
+
 .rs-button:hover{
   background-color: #4557BB;
   color: #ffffff;
@@ -262,6 +263,7 @@ $on-laptop:        800px;
   display: block;
   margin: 5% auto;
 }
+
 .timeline{
   --uiTimelineMainColor: var(--timelineMainColor, #4364ad);
   --uiTimelineSecondaryColor: var(--timelineSecondaryColor, #fff);
