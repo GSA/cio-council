@@ -238,21 +238,23 @@ $on-laptop:        800px;
 .rs-button{
   display: block;
   margin: auto;
-  border: 3px solid #0071bc;
+  border: 3px solid #de9d87;
   border-radius: 15px;
-  color: #0071bc;
+  color: #de9d87;
   height: 70px;
   line-height:60px;
   text-decoration: none;
   text-transform: uppercase;
-  width: 350px;
+  max-width: 40%;
+  min-width: 300px;
   text-align: center;
   font-family: "Oswald",sans-serif;
   font-weight: 700;
   font-size: 28px;
+  margin: 10% auto
 }
 .rs-button:hover{
-  background-color: #0071bc;
+  background-color: #de9d87;
   color: #ffffff;
 }
 
