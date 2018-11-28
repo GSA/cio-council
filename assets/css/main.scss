@@ -251,7 +251,7 @@ $on-laptop:        800px;
   font-family: "Oswald",sans-serif;
   font-weight: 700;
   font-size: 22px;
-  margin: 5% auto
+  margin: 5% auto;
 }
 
 .rs-button:hover{
@@ -259,7 +259,7 @@ $on-laptop:        800px;
   background-color: : -moz-linear-gradient(left, #003366 1%, #006699 40%, #99ccff 79%);
   background-color: : -webkit-linear-gradient(left, #003366 1%,#006699 40%,#99ccff 79%);
   background-color: : linear-gradient(to right, #003366 1%,#006699 40%,#99ccff 79%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003366', endColorstr='#99ccff',GradientType=1 ); 
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003366', endColorstr='#99ccff',GradientType=1 );
   color: #ffffff;
 }
 
