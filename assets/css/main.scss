@@ -255,10 +255,10 @@ $on-laptop:        800px;
 }
 
 .rs-button:hover{
-  background-color: : #003366;
-  background-color: : -moz-linear-gradient(left, #003366 1%, #006699 40%, #99ccff 79%);
-  background-color: : -webkit-linear-gradient(left, #003366 1%,#006699 40%,#99ccff 79%);
-  background-color: : linear-gradient(to right, #003366 1%,#006699 40%,#99ccff 79%);
+  background-color: #003366;
+  background-color: -moz-linear-gradient(left, #003366 1%, #006699 40%, #99ccff 79%);
+  background-color: -webkit-linear-gradient(left, #003366 1%,#006699 40%,#99ccff 79%);
+  background-color: linear-gradient(to right, #003366 1%,#006699 40%,#99ccff 79%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003366', endColorstr='#99ccff',GradientType=1 );
   color: #ffffff;
 }
