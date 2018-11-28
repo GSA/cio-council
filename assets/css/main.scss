@@ -253,10 +253,13 @@ $on-laptop:        800px;
   font-size: 22px;
   margin: 5% auto;
 }
-
 .rs-button:hover{
   background-color: #003366;
   color: #ffffff;
+}
+
+.rs-button:visited{
+  color: #003366;
 }
 
 .rs-img{
@@ -266,7 +269,7 @@ $on-laptop:        800px;
 .rs-p{
   text-align: center;
   max-width: 100%;
-  padding: 1.6rem;
+  padding: 2rem;
 }
 .rs-1 {
   font-weight: 700;
