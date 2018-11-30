@@ -5,7 +5,7 @@ description:
 date: 2018-11-30
 display-date: 30 November 2018
 author: CIO Council Operations
-permalink: /reskilling-academy/
+permalink:
 tags: cybersecurity 2018 workforce
 image: /assets/img/blog/2018.11.30.fcra.jpg
 image-thumbnail: /assets/img/blog/2018.11.30.fcra.jpg
