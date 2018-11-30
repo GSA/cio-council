@@ -2,9 +2,10 @@
 layout: home
 body-class: home
 permalink: /
-hero-image: /assets/img/banners/2018.11.07-ncs-banner.jpg
-hero-text: "Read the National Cyber Strategy"
-hero-byline: Released in September, the National Cyber Strategy identifies bold new steps the Federal Government will take to protect America from cyber threats and strengthen our capabilities in cyberspace.
-hero-button-text: Read More
-hero-button-link: https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-is-strengthening-americas-cybersecurity/
+hero-image: "/assets/img/banners/2018.11.30-fcra-banner.jpg"
+image-alt: "Photo by Headway on Unsplash"
+hero-text: "Introducing: the Federal Cyber Reskilling Academy"
+hero-byline: The Federal Cybersecurity Reskilling Academy offers Federal employees the opportunity for hands-on training in cybersecurity.
+hero-button-text: Learn More
+hero-button-link: "/reskilling/"
 ---
