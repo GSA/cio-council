@@ -294,14 +294,17 @@ $on-laptop:        800px;
 .rs-table{
   border-collapse: collapse;
   max-width: 100%;
+  border: 0px;
 }
 .rs-table-header{
- padding: 8px;
+ padding: 2.6rem;
  text-align: left;
  border-bottom: 1px solid #ddd;
+ font-family: 'Oswald', sans-serif;
+ font-weight: 700;
 }
 .rs-td{
-  padding: 5px;
+  padding: 8px;
   border-bottom: 1px solid #ddd;
 }
 
