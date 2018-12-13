@@ -291,6 +291,20 @@ $on-laptop:        800px;
   color: #99ccff;
 }
 
+.rs-table{
+  border-collapse: collapse;
+  max-width: 100%;
+}
+.rs-table-header{
+ padding: 8px;
+ text-align: left;
+ border-bottom: 1px solid #ddd;
+}
+.rs-td{
+  padding: 5px;
+  border-bottom: 1px solid #ddd;
+}
+
 .timeline{
   --uiTimelineMainColor: var(--timelineMainColor, #006699);
   --uiTimelineSecondaryColor: var(--timelineSecondaryColor, #fff);
