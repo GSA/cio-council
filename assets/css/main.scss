@@ -294,7 +294,7 @@ $on-laptop:        800px;
 .rs-table{
   border-collapse: collapse;
   max-width: 100%;
-  border: 0px solid #ffffff;
+  border: 0px solid #ffffff !important; 
 }
 .rs-table-header{
  padding: 2.6rem;
