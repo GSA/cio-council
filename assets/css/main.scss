@@ -291,6 +291,27 @@ $on-laptop:        800px;
   color: #99ccff;
 }
 
+.rs-table{
+  border-collapse: collapse;
+  max-width: 100%;
+  border: 0px solid #ffffff;
+}
+.rs-table-header{
+ padding: 2.6rem;
+ text-align: left;
+ border: 0px solid #ffffff;
+ border-bottom: 1px solid #ddd;
+ font-family: 'Oswald', sans-serif;
+ font-weight: 700;
+ color: #494440;
+}
+.rs-td{
+  padding: 12px;
+  padding-left: 2.6rem;
+  border: 0px solid #ffffff;
+  border-bottom: 1px solid #ddd;
+}
+
 .timeline{
   --uiTimelineMainColor: var(--timelineMainColor, #006699);
   --uiTimelineSecondaryColor: var(--timelineSecondaryColor, #fff);
