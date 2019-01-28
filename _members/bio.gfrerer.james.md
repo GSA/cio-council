@@ -1,8 +1,9 @@
 ---
 layout: bio
+tilte:  Mr. James Gfrerer
 permalink: /about/members-and-leadership/gfrerer-james/
 background-image: /assets/img/grey.background.png
-bio-name-text: MR. James Gfrerer
+bio-name-text: Mr. James Gfrerer
 bio-title-text: ASSISTANT SECRETARY FOR INFORMATION AND TECHNOLOGY AND CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. DEPARTMENT OF VETERAN AFFAIRS
 bio-image-url: /assets/img/members/bio.gfrerer.jpg
