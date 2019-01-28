@@ -1,6 +1,6 @@
 ---
 layout: bio
-tilte:  Mr. James Gfrerer
+title:  Mr. James Gfrerer
 permalink: /about/members-and-leadership/gfrerer-james/
 background-image: /assets/img/grey.background.png
 bio-name-text: Mr. James Gfrerer
