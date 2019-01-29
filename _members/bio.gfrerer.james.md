@@ -9,7 +9,7 @@ bio-agency-text: U.S. DEPARTMENT OF VETERAN AFFAIRS
 bio-image-url: /assets/img/members/bio.gfrerer.jpg
 bio-image-alt-text: James Gfrerer
 bio-phone: 202-461-6910
-bio-email: James.Gfrerer@va.gov
+bio-email: vacocioexe@va.gov
 ---
 James P. Gfrerer was nominated by President Donald J. Trump to serve as the Assistant Secretary for Information and Technology and Chief Information Officer and was confirmed by the United States Senate on January 2, 2019.
 
