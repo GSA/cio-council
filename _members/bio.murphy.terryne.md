@@ -7,7 +7,7 @@ background-image: /assets/img/grey.background.png
 bio-name-text: Ms. Terryne Murphy
 bio-title-text: ACTING CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. DEPARTMENT OF COMMERCE
-bio-image-url: /assets/img/members/bio_Murphy.png
+bio-image-url: /assets/img/members/bio_Murphy.JPG
 bio-image-alt-text: Ms. Terryne Murphy
 ---
 Terryne Murphy is the Acting Chief Information Officer (CIO) for the Department of Commerce. Ms. Murphy oversees information technology (IT) operations and budget, ensuring its alignment with agency and administration strategic objectives and priorities. She also manages the
