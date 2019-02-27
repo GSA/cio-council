@@ -11,7 +11,7 @@ image: /assets/img/blog/gog-banner.jpg
 image-thumbnail: /assets/img/blog/gears-of-gov-awards-logo.png
 img-alt: National Science Foundation's Career Compass Challenge
 ---
-We’re excited to share that several teams and individuals from across the government have been named Gears of Government Award winners on behalf of the CIO Council! Their stories can be found on the [Hall of Winners page]()https://www.performance.gov/gearawards/winners/ on Performance.gov. The awards include many examples of how IT modernization is allowing agencies to better meet customer expectations, keep data and systems secure, build a modern workforce and ensure access to services.
+We’re excited to share that several teams and individuals from across the government have been named Gears of Government Award winners on behalf of the CIO Council! Their stories can be found on the [Hall of Winners page](https://www.performance.gov/gearawards/winners/) on Performance.gov. The awards include many examples of how IT modernization is allowing agencies to better meet customer expectations, keep data and systems secure, build a modern workforce and ensure access to services.
 
 Throughout the year, Federal employees nominated teams and individuals across the Federal workforce for a Gears of Government Award whose performance and dedication deliver key outcomes for the American people, including mission results, customer service, and accountable stewardship. Congratulations to the following recipients, who exemplify the hard work and innovation essential to achieving the [President’s vision for a modern, effective government](https://www.performance.gov/PMA/PMA.html).
 
