@@ -7,7 +7,7 @@ display-date: 27 February 2019
 author: CIO COUNCIL OPERATIONS
 permalink:
 tags: 2019 cio council
-image: /assets/img/blog/2018.12.13.compass.banner.png
+image: /assets/img/blog/gears-of-gov-awards-logo.png
 image-thumbnail: /assets/img/blog/2018.12.13.compass.png
 img-alt: National Science Foundation's Career Compass Challenge
 ---
