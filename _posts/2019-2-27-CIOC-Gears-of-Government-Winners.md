@@ -21,7 +21,7 @@ Throughout the year, Federal employees nominated teams and individuals across th
 
 **CIO Council Workforce Committee including Jason Gray (ED), Gary Washington (USDA), Mark Johnson (USAID), Antoinetta Grant (USDA), Elnora Wright (OPM)** *- Led a series of programs designed to fill critical IT and cybersecurity positions through a combination of innovative government-wide recruitment efforts and piloting reskilling initiatives.*
 
-**SBA Office of the CIO inluding Guy Cavallo, Sanjay Gupta, Beau Houser, Russ Miller, G. Nagesh Rao** *- Modernized the Small Business Administration’s technology infrastructure yielding $11 million in savings. The updated systems and software are more efficient and have have led to increased productivity from SBA employees.*
+**SBA Office of the CIO including Guy Cavallo, Sanjay Gupta, Beau Houser, Russ Miller, G. Nagesh Rao** *- Modernized the Small Business Administration’s technology infrastructure yielding $11 million in savings. The updated systems and software are more efficient and have have led to increased productivity from SBA employees.*
 
 **Federal Data Strategy Development Team** *- Improved government-wide data-driven policies through the development 10 year data strategy, principles, practices and priority projects in support of the PMA.*
 
