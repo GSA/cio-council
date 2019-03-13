@@ -30,4 +30,18 @@ Build a diverse team of business decision-makers, financial analysts, and IT and
 Understand your current data collection and aggregation methods, business processes, and resources your agency already has to support TBM.
 
 **Play 3: Identify Measurable Desired Outcome**
-Start targeting your TBM efforts and key outcomes with your stakeholders. Consider how technology services will be delivered and break that down into initial projects. 
+Start targeting your TBM efforts and key outcomes with your stakeholders. Consider how technology services will be delivered and break that down into initial projects.
+
+**Play 4: Start Collecting and Aligning Data**
+
+Start working with the data to examine the trade-offs of IT spend and their impact on the organization. There’s no such thing as perfect data, but you can derive value out of the data that exists right now.
+
+**Play 5: Look for Insights**
+Use the data you've accumulated to determine how IT spend supports your desired goals. TBM is a decision engine that allows you to examine tradeoffs, move forward in the best direction, and definitively predict the business outcome.
+
+**Play 6: Rollout and Adoption**
+Help your organization become more familiar with the terminology, goals, and achievements of TBM. Start integrating TBM principles, data, and value discussions into meetings and funding reviews.
+
+**Play 7: Keep Maturing the TBM Implementation**
+Assess the strengths and weaknesses and develop tactics to evolve your organization. TBM is a dynamic practice and your results will improve as your goal-setting, data collection, analysis, and decision-making mature.
+
