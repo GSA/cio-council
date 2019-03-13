@@ -7,8 +7,8 @@ display-date: 13 March 2019
 author: CIO COUNCIL OPERATIONS
 permalink: /How-to-win-with-Technology-Business-Management/
 tags: 2019 cio-council
-image: /assets/img/blog/gog-banner.jpg
-image-thumbnail: /assets/img/blog/gears-of-gov-awards-logo.png
+image: /assets/img/blog/TBM.jpeg
+image-thumbnail: /assets/img/blog/TBM.jpeg
 img-alt: 
 ---
 # How to Win with Technology Business Management (TBM)
