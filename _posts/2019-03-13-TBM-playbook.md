@@ -47,7 +47,3 @@ Assess the strengths and weaknesses and develop tactics to evolve your organizat
 
 Interested in learning more about TBM and its applications? [Follow the federal government’s progress](https://www.performance.gov/CAP/CAP_goal_10.html) with TBM implementation or download the [Playbook](https://tech.gsa.gov/playbooks/tbm/). 
 
-<?php $test = "This is a test"; 
-echo $test;
-
-?>
