@@ -24,12 +24,15 @@ As co-leads of the President’s Management Agenda Cross Agency Priority goal on
 Our playbook lays out 7 ”plays” based on the key considerations and lessons learned from our TBM experience to help other federal agencies win in their TBM implementations.
 
 **Play 1: Identify Key Players and Stakeholders**
+
 Build a diverse team of business decision-makers, financial analysts, and IT and acquisition professionals to drive change through the collection, analysis, reporting, and informed review of IT data. Successful TBM implementation requires the buy-in and involvement from decision-makers at all levels of the organization.
 
 **Play 2: Determine Current State**
+
 Understand your current data collection and aggregation methods, business processes, and resources your agency already has to support TBM.
 
 **Play 3: Identify Measurable Desired Outcome**
+
 Start targeting your TBM efforts and key outcomes with your stakeholders. Consider how technology services will be delivered and break that down into initial projects.
 
 **Play 4: Start Collecting and Aligning Data**
@@ -37,12 +40,15 @@ Start targeting your TBM efforts and key outcomes with your stakeholders. Consid
 Start working with the data to examine the trade-offs of IT spend and their impact on the organization. There’s no such thing as perfect data, but you can derive value out of the data that exists right now.
 
 **Play 5: Look for Insights**
+
 Use the data you've accumulated to determine how IT spend supports your desired goals. TBM is a decision engine that allows you to examine tradeoffs, move forward in the best direction, and definitively predict the business outcome.
 
 **Play 6: Rollout and Adoption**
+
 Help your organization become more familiar with the terminology, goals, and achievements of TBM. Start integrating TBM principles, data, and value discussions into meetings and funding reviews.
 
 **Play 7: Keep Maturing the TBM Implementation**
+
 Assess the strengths and weaknesses and develop tactics to evolve your organization. TBM is a dynamic practice and your results will improve as your goal-setting, data collection, analysis, and decision-making mature.
 
 Interested in learning more about TBM and its applications? [Follow the federal government’s progress](https://www.performance.gov/CAP/CAP_goal_10.html) with TBM implementation or download the [Playbook](https://tech.gsa.gov/playbooks/tbm/). 
