@@ -29,5 +29,5 @@ Build a diverse team of business decision-makers, financial analysts, and IT and
 **Play 2: Determine Current State**
 Understand your current data collection and aggregation methods, business processes, and resources your agency already has to support TBM.
 
-P**lay 3: Identify Measurable Desired Outcome**
+**Play 3: Identify Measurable Desired Outcome**
 Start targeting your TBM efforts and key outcomes with your stakeholders. Consider how technology services will be delivered and break that down into initial projects. 
