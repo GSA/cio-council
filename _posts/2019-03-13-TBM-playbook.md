@@ -11,7 +11,7 @@ image: /assets/img/blog/gog-banner.jpg
 image-thumbnail: /assets/img/blog/gears-of-gov-awards-logo.png
 img-alt: 
 ---
-#How to Win with Technology Business Management (TBM)
+# How to Win with Technology Business Management (TBM)
 
 TBM focuses on cost transparency, maximizing outcomes for innovation, and ensuring that IT spending aligns with business strategy and priorities. TBM is not just compliance reporting -- it’s about making good decisions in every aspect of agency technology.
 
