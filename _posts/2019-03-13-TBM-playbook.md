@@ -4,7 +4,7 @@ title: 'How to Win with Technology Business Management (TBM)'
 description:
 date: 2019-3-13
 display-date: 13 March 2019
-author: CIO COUNCIL OPERATIONS
+author: Jason Gray, CHIEF INFORMATION OFFICER, DEPARTMENT OF EDUCATION and David Shive, CHIEF INFORMATION OFFICER, GENERAL SERVICES ADMINISTRATION
 permalink: /How-to-win-with-Technology-Business-Management/
 tags: 2019 cio-council
 image: /assets/img/blog/TBM.jpeg
