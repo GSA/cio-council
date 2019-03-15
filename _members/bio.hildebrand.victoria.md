@@ -10,6 +10,7 @@ bio-image-url: /assets/img/members/bio_Hildebrand.png
 bio-image-alt-text: Victoria "Vicki" Hildebrand
 bio-phone:
 bio-email:
+published: false
 ---
 Vicki Hildebrand was named Chief Information Officer (CIO) of the U.S. Department of Transportation by United States Department of Transportation Secretary Elaine L. Chao. As the CIO, she is the principle advisor to the Secretary on all information technology related matters.
 
