@@ -11,6 +11,7 @@ bio-phone:
 bio-email: 
 
 ---
+Testing Change
 Ryan Cote was named Chief Information Officer (CIO) of the U.S. Department of Transportation by United States Department of Transportation Secretary Elaine L. Chao. As the CIO, he is the principle advisor to the Secretary on all information technology related matters.
 
 New to government, Ryan comes to the Department from Gartner, Inc., the world’s leading information technology research and advisory company. Gartner provides senior leaders across the enterprise with the indispensable insights, advice and tools they need to achieve their mission-critical priorities and build the organizations of tomorrow. At Gartner, Ryan served as a CIO Executive Partner, advising global CIOs in its Executive Partners program. Gartner serves CIOs and Enterprise leaders around the world in more than 15,000 organizations in 100+ countries.
