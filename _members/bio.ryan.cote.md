@@ -1,7 +1,7 @@
 ---
 layout: bio
 permalink: /about/members-and-leadership/cote-ryan/
-background-image: /assets/img/members/Ryan_Cote.jpg
+background-image: /assets/img/members/Ryan_Cote-cropped.jpg
 bio-name-text: MR. Ryan Cote
 bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. Department of Transportation
