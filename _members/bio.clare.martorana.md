@@ -1,7 +1,7 @@
 ---
 layout: bio
 title: Ms. Clare Martorana
-permalink: /about/members-and-leadership/clare-martorana
+permalink: /about/members-and-leadership/clare-martorana/
 background-image: /assets/img/Personnel_Management_Seal.png
 bio-name-text: Ms. Clare Martorana
 bio-title-text: CHIEF INFORMATION OFFICER,
