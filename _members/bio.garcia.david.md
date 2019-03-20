@@ -10,6 +10,7 @@ bio-image-url: /assets/img/members/bio_Garcia.png
 bio-image-alt-text: David Garcia
 bio-phone:
 bio-email:
+published: false
 ---
 
 For over two decades, David has worked in executive roles, and has won numerous national awards for business within Information Technology.
