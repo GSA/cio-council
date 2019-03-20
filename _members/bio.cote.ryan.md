@@ -1,5 +1,6 @@
 ---
 layout: bio
+title: Mr. Ryan Cote
 permalink: /about/members-and-leadership/cote-ryan/
 background-image: /assets/img/members/ryan-cote.jpg
 bio-name-text: MR. Ryan Cote
