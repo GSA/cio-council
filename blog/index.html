@@ -43,7 +43,7 @@ pagination:
     Page {{ paginator.page }} of {{ paginator.total_pages }}
 
     {% if paginator.next_page %}
-    <a style="margin-left: 15rem;" href="{{ site.baseurl }}{{ paginator.next_page_path }}/">
+    <a style="margin-left: 15rem;" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
       Next {{ paginator.per_page }} posts &#8250;
     </a>
     {% else %}
