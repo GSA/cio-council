@@ -2,7 +2,7 @@
 layout: federalreskilling-cohort-1
 image: /assets/img/initiatives/reskilling-header950.png
 img-alt: Image of the Federal Cybersecurity Reskilling Academy logo
-permalink: /reskilling/
+permalink: /reskilling-cohort-1/
 title: Federal Cybersecurity Reskilling Academy Cohort 1
 hero-text: Federal Cybersecurity Reskilling Academy
 hero-byline: Council Initiative
