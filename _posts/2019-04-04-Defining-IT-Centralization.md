@@ -1,14 +1,10 @@
 ---
 title: "Defining IT Centralization"
-date: YYYY-MM-DD (optional)
-authors:
-- Erin Strenio
-- Amy Ashida
-tags:
-- 10x
-- it centralization - new tag
-- best practices
-excerpt: ""
+date: 2019-04-04
+authors:Erin Strenio Amy Ashida
+tags: 10x best practices it centralization
+
+excerpt:
 image: /assets/blog/slug/image.jpg/png/gif
 ---
 Why prioritizing users is important during IT centralization 
