@@ -10,6 +10,8 @@ bio-image-url: /assets/img/members/bio_Mummaw.png
 bio-image-alt-text: Karen Mummaw
 bio-phone: 202-647-6575
 bio-email: mummawke@state.gov
+
+published: false
 ---
 Ms. Karen E. Mummaw, a member of the Senior Foreign Service with the rank of Minister-Counselor, is currently the Acting Chief Information Officer for the U.S. Department of State.  As the Acting CIO and leader of the Bureau of Information Resource Management (IRM), she establishes the strategic direction of technology at the Department.  This strategy encompasses the development and implementation of cybersecurity management, IT modernization, and IT service delivery to all Department offices, including the 275 overseas posts.  She is directly responsible for IRM’s budget of $720 million and oversees the Department’s total IT budget of approximately $2.4 billion.
 
