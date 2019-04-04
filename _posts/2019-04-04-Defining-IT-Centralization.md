@@ -1,7 +1,8 @@
 ---
-title: "Defining IT Centralization"
+layout: blog
+title: 'Defining IT Centralization'
 date: 2019-04-04
-authors:Erin Strenio Amy Ashida
+authors: Erin Strenio Amy Ashida
 tags: 10x best practices it centralization
 
 excerpt:
