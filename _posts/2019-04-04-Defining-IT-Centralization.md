@@ -6,7 +6,7 @@ authors: Erin Strenio Amy Ashida
 tags: 10x best practices it centralization
 
 excerpt:
-image: /assets/blog/slug/image.jpg/png/gif
+image: /assets/img/blog/gears-of-gov-awards-logo.png
 ---
 #Why prioritizing users is important during IT centralization #
 
