@@ -10,9 +10,9 @@ tags:
 image-thumbnail: /assets/img/18F-Logo-M.png
 img-alt: 18F Logo
 ---
-*The President’s Management Agenda rightly focuses on the need to modernize IT to better serve citizens and support agency missions in the digital age. There is also a heavy emphasis on the opportunity to reduce costs, redundancies and free up valuable work hours through increased standards and shared services. But putting people at the center of every step of these efforts isn’t just “good change management”, it is essential to find the right solution and making it stick.  This guest blog series by Erin Strenio and Amy Ashida of 18F showcases the benefits of human-centered design as one of the tools to achieve the goals of the PMA.
+*The President’s Management Agenda rightly focuses on the need to modernize IT to better serve citizens and support agency missions in the digital age. There is also a heavy emphasis on the opportunity to reduce costs, redundancies and free up valuable work hours through increased standards and shared services. But putting people at the center of every step of these efforts isn’t just “good change management”, it is essential to find the right solution and making it stick.  This guest blog series by Erin Strenio and Amy Ashida of 18F showcases the benefits of human-centered design as one of the tools to achieve the goals of the PMA.*
 
-This is the first in a series of posts on the importance of human-centered design when evaluating IT centralization. As part of a 10x project, they synthesized 18F's learnings from agency partners that have been through centralization efforts before and have wisdom to share. The series explores how and why taking the time to prioritize users will mitigate risks and yield services that work better for the people they serve.*
+*This is the first in a series of posts on the importance of human-centered design when evaluating IT centralization. As part of a 10x project, they synthesized 18F's learnings from agency partners that have been through centralization efforts before and have wisdom to share. The series explores how and why taking the time to prioritize users will mitigate risks and yield services that work better for the people they serve.*
 
 ***
 
