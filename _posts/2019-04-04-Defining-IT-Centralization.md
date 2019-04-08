@@ -6,7 +6,7 @@ date: 2019-4-8
 display-date: 8 April 2019
 author: Erin Strenio, Content Designer at 18F and Amy Ashida, UX Designer at 18F
 permalink: /Defining-IT-Centralization/
-tags: 10x best practices it centralization
+tags:
 image-thumbnail: /assets/img/18F-Logo-M.png
 img-alt: 18F Logo
 ---
