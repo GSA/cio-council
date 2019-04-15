@@ -9,7 +9,7 @@ bio-agency-text: U.S. DEPARTMENT OF STATE
 bio-image-url: /assets/img/members/State_Department_Seal.png
 bio-image-alt-text: STUART MCGUIGAN
 bio-phone: Coming soon
-bio-email: Coming soon
+bio-email: CIO@state.gov
 ---
 Mr. Stuart McGuigan, a member of the Senior Executive Service, was named Chief Information Officer
 for the U.S. Department of State enterprise on March 25, 2019. As Chief Information Officer (CIO), he
