@@ -2,55 +2,67 @@
 layout: base
 ---
 
-<section >
-  <div class="standard-unit" style="background-image: url('{{ page.background-image | prepend: site.baseurl }}'); height: 200px;">
-    <section class="usa-grid usa-section">
-        <div  style="position: absolute; bottom: 0;">
-        <h1 class="page_header">{{ page.hero-text }}</h1>
-        </div>
-      </section>    
+<section>
+  <div class="usa-hero" style="background-image: url('{{ page.hero-image | prepend: site.baseurl }}')">
+ 
   </div>
 </section>
+<section class="usa-section usa-section-dark">
+The federal government must attract top IT talent to modernize federal IT systems and
+deliver the most secure and effective services to the American people. To recruit the best
+qualified IT talent, in the most timely and cost-effective manner, we need to transform the
+federal IT hiring process.
 
- 
-<section class="usa-grid usa-section">
- 
-   {% include PMA.html %}
-  
- </section>
-
-  
-{% if page.banner-heading %}
-<section class="usa-section banner tagline" style="background-color: #a1b1bc;">
-  <div class="usa-grid">
-
-    <div class="usa-width-one-whole usa-end-row">
-     
-<!--
-    <div class="usa-width-whole hero-content">
-  -->
-<h2>{{ page.banner-heading }}</h2>
-      {% if page.banner-text %}
-        <p>{{ page.banner-text }}</p>
-      {% endif %}
-      {% if page.banner-button-text %}
-      <div class="center-content">
-        <a href="{{ page.banner-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.banner-button-text }}</a>
-      </div>
-      {% endif %}
-    </div>
-  </div>
+The CIO Council has partnered with the technology hiring experts at HackerRank to pilot
+the first, large-scale, inter-agency code challenge. Code challenges are used extensively in
+the private sector to source and pre-qualify IT talent, and they are viewed as an industry
+best practice. The #CIOCode Challenge pilot program begins April 15 and includes three
 </section>
-{% endif %}
-    
-    <BR>
 
- {% include quick.links.html %}
+<section class="usa-section-light usa-section">
+  <a class="usa-button" href="{{ page.hero-button-link | prepend: site.baseurl }}">{{ page.hero-button-text }}</a><br>
+  <p id="timer"></p>
+</section>
 
+<section class="usa-section-light usa-section">
+ <section class="cd-h-timeline js-cd-h-timeline margin-bottom--md">
+   <div class="cd-h-timeline__container container">
+      <div class="cd-h-timeline__dates">
+         <div class="cd-h-timeline__line">
+            <ol>
+               <li><a href="#0" data-date="16/01/2014" class="cd-h-timeline__date cd-h-timeline__date--selected">16 Jan</a></li>
+               <li><a href="#0" data-date="28/02/2014" class="cd-h-timeline__date">28 Feb</a></li>
+               <!-- other dates here -->
+            </ol>
 
+            <span class="cd-h-timeline__filling-line" aria-hidden="true"></span>
+         </div> <!-- .cd-h-timeline__line -->
+      </div> <!-- .cd-h-timeline__dates -->
 
+      <ul>
+         <li><a href="#0" class="text--replace cd-h-timeline__navigation cd-h-timeline__navigation--prev cd-h-timeline__navigation--inactive">Prev</a></li>
+         <li><a href="#0" class="text--replace cd-h-timeline__navigation cd-h-timeline__navigation--next">Next</a></li>
+      </ul>
+   </div> <!-- .cd-h-timeline__container -->
 
+   <div class="cd-h-timeline__events">
+      <ol>
+         <li class="cd-h-timeline__event cd-h-timeline__event--selected text-component">
+            <div class="cd-h-timeline__event-content container">
+               <h2 class="cd-h-timeline__event-title">Horizontal Timeline</h2>
+               <em class="cd-h-timeline__event-date">January 16th, 2014</em>
+               <p class="cd-h-timeline__event-description text--subtle"> 
+               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+               </p>
+            </div>
+         </li>
 
+         <li class="cd-h-timeline__event text-component">
+            <!-- event description here -->
+         </li>
 
-
-
+         <!-- other descriptions here -->
+      </ol>
+   </div> <!-- .cd-h-timeline__events -->
+</section>
+</section>
