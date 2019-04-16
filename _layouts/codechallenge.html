@@ -4,6 +4,14 @@ layout: base
 
 <section>
   <div class="usa-hero" style="background-image: url('{{ page.hero-image | prepend: site.baseurl }}')">
+    <div class="usa-grid">
+      <div class="usa-hero-callout usa-section hero-styling">
+        <h2 style="font-family: 'Raleway', sans-serif; COLOR: #2d2d2d; font-size: 30px; text-align: left;">{{ page.hero-text }}</h2>
+        <h4 style="COLOR: #2d2d2d; font-size: 12px; text-align: left;">{{ page.hero-byline }}</h4>
+        <a class="usa-button" href="{{ page.hero-button-link | prepend: site.baseurl }}">{{ page.hero-button-text }}</a>
+      </div>
+    </div>
+  </div>
  
   </div>
 </section>
