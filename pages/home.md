@@ -7,5 +7,5 @@ image-alt: "Photo by Headway on Unsplash"
 hero-text: "Introducing: the Federal Cyber Reskilling Academy"
 hero-byline: The Federal Cybersecurity Reskilling Academy offers Federal employees the opportunity for hands-on training in cybersecurity.
 hero-button-text: Learn More
-hero-button-link: "/reskilling/"
+hero-button-link: "/CodeChallenge/"
 ---
