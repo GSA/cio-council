@@ -1,3 +1,4 @@
 ---
+layout: CodeChallenge
 permalink: /CodeChallenge
 ---
