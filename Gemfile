@@ -18,7 +18,6 @@ group :jekyll_plugins do
 end
 
 group :development do
-  gem 'capybara'
   gem 'chromedriver-helper'
   gem 'colorize'
   gem 'pry'
