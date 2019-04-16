@@ -1,6 +1,6 @@
 ---
 layout: codechallenge
-permalink: /codechallenge
+permalink: /codechallenge/
 title: Code Challenge
 
 ---
