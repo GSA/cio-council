@@ -1,5 +1,6 @@
 ---
 layout: base
+permalink: /federalreskilling-cohort-2/
 ---
 <picture>
   <source media="(min-width: 950px)" srcset="{{ site.baseurl }}/assets/img/initiatives/reskilling-header950.png">
