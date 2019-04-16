@@ -1,4 +1,27 @@
+---
+layout: base
+---
+<picture>
+  <source media="(min-width: 950px)" srcset="{{ site.baseurl }}/assets/img/initiatives/reskilling-header950.png">
+  <source media="(min-width: 600px)" srcset="{{ site.baseurl }}/assets/img/initiatives/reskilling-header600.png">
+  <source media="(min-width: 300px)" srcset="{{ site.baseurl }}/assets/img/initiatives/reskilling-header300.png">
+  <img src=" {{ site.baseurl }}/assets/img/initiatives/reskilling-header950.png" alt="Federal Cyber Reskilling Academy" style="width:auto;">
+</picture>
 
+  <section class="usa-section" style="margin:0%;">
+    <div class="usa-grid usa-content">
+      <div class="usa-width-one-whole">
+        <h2 class="rs-heading"><span class="rs-1">&gt; </span>Reskilling Cohort 2</h2>
+        <p>Cohort 2 of the Federal Cybersecurity Reskilling Academy is open to ALL Federal employees. Individuals who do not work in the            IT field and have no IT experience are welcome to apply.</p>
+            <p>The application will close on May 15, 2019. After submitting their initial application, all applicants will be required                 to complete two assessments to determine their aptitude for the program. These will be distributed on a rolling basis as                applications are received, and all assessments will be due by May 22, 2019.</p>
+            <p>Selected participants will be notified beginning June 10, 2019. Cohort 2 training will run July 8 through September 20,              2019. See below for a full training timeline, a program schedule, and frequently asked questions.</p>
+        <br>
+        <br>
+        <br>
+        <img src="{{ site.baseurl }}/assets/img/initiatives/rs-linebreak.png" class="rs-img">
+    </div>
+    </div>
+   </section>
 
 <section class="usa-section">
     <div class="usa-grid usa-content">
