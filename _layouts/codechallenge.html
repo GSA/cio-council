@@ -29,47 +29,136 @@ layout: base
   </div>
 </section>
 
-<section class="usa-section-light usa-section">
- <section class="cd-h-timeline js-cd-h-timeline margin-bottom--md">
-   <div class="cd-h-timeline__container container">
-      <div class="cd-h-timeline__dates">
-         <div class="cd-h-timeline__line">
-            <ol>
-               <li><a href="#0" data-date="16/01/2014" class="cd-h-timeline__date cd-h-timeline__date--selected">16 Jan</a></li>
-               <li><a href="#0" data-date="28/02/2014" class="cd-h-timeline__date">28 Feb</a></li>
-               <!-- other dates here -->
-            </ol>
 
-            <span class="cd-h-timeline__filling-line" aria-hidden="true"></span>
-         </div> <!-- .cd-h-timeline__line -->
-      </div> <!-- .cd-h-timeline__dates -->
+<style>
+html, body {
+  color: #681;
+	background: #fff;
+	min-width: 700px;
+}
 
-      <ul>
-         <li><a href="#0" class="text--replace cd-h-timeline__navigation cd-h-timeline__navigation--prev cd-h-timeline__navigation--inactive">Prev</a></li>
-         <li><a href="#0" class="text--replace cd-h-timeline__navigation cd-h-timeline__navigation--next">Next</a></li>
-      </ul>
-   </div> <!-- .cd-h-timeline__container -->
+/* ---- Timeline ---- */
+ol {
+	position: relative;
+	display: block;
+	margin: 100px;
+	height: 4px;
+	background: #31708F;
+}
+ol::before,
+ol::after {
+	content: "";
+	position: absolute;
+	top: -8px;
+	display: block;
+	width: 0;
+	height: 0;
+  border-radius: 10px;
+	border: 10px solid #31708F;
+}
+ol::before {
+	left: -5px;
+}
+ol::after {
+	right: -10px;
+	border: 10px solid transparent;
+	border-right: 0;
+	border-left: 20px solid #31708F;
+  border-radius: 3px;
+}
 
-   <div class="cd-h-timeline__events">
-      <ol>
-         <li class="cd-h-timeline__event cd-h-timeline__event--selected text-component">
-            <div class="cd-h-timeline__event-content container">
-               <h2 class="cd-h-timeline__event-title">Horizontal Timeline</h2>
-               <em class="cd-h-timeline__event-date">January 16th, 2014</em>
-               <p class="cd-h-timeline__event-description text--subtle"> 
-               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
-               </p>
-            </div>
-         </li>
+/* ---- Timeline elements ---- */
+li {
+	position: relative;
+	display: inline-block;
+	float: left;
+	width: 150px;
+	font: bold 14px arial;
+  height: 50px;
+}
+li .diplome {
+  position: absolute;
+  top: -47px;
+  left: 36%;
+  color: #000000;
+}
+li .point {
+	content: "";
+	top: -4px;
+	left: 43%;
+	display: block;
+	width: 6px;
+	height: 6px;
+	border: 4px solid #31708F;
+	border-radius: 10px;
+	background: #fff;
+  position: absolute;
+}
+li .description {
+  display: none;
+  background-color: #f4f4f4;
+  padding: 10px;
+  margin-top: 20px;
+  position: relative;
+  font-weight: normal;
+  z-index: 1;
+}
+.description::before {
+  content: '';
+  width: 0; 
+  height: 0; 
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 5px solid #f4f4f4;
+  position: absolute;
+  top: -5px;
+  left: 43%;
+}
 
-         <li class="cd-h-timeline__event text-component">
-            <!-- event description here -->
-         </li>
+/* ---- Hover effects ---- */
+li:hover {
+	cursor: pointer;
+  color: #48A4D2;
+}
+li:hover .description {
+  display: block;
+}
+</style>
 
-         <!-- other descriptions here -->
-      </ol>
-   </div> <!-- .cd-h-timeline__events -->
-</section>
+<ol>
+  <li>
+    <p class="diplome">BAC S</p>
+    <span class="point"></span>
+    <p class="description">
+      Ceci est la description du bac S
+    </p>
+  </li>
+  <li>
+    <p class="diplome">BTS / DUT</p>
+    <span class="point"></span>
+    <p class="description">En lien avec la biologie et/ou la zoologie</p>
+  </li>
+  <li>
+    <p class="diplome">Licence</p>
+    <span class="point"></span>
+    <p class="description">En lien avec la biologie et/ou la zoologie</p>
+  </li>
+  <li>
+    <p class="diplome">Master</p>
+      <span class="point"></span>
+    <p class="description">TEST</p></li>
+  <li>
+  <p class="diplome">Doctorat</p>
+    <span class="point"></span>
+    <p class="description">Souvent nécessaire pour pouvoir accéder aux concours d’embauche de centres de recherche tels que l’INRA ou le CNRS</p>
+  </li>
+</ol>
+
+
+
+
+
+
 </section>
 
 <script>
