@@ -2,168 +2,201 @@
 layout: base
 ---
 
-<section>
-  <div class="usa-hero" style="background-image: url('{{ page.hero-image | prepend: site.baseurl }}'); ">
-    <div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
-  </div>
- 
-</section>
-<section class="usa-section usa-section-dark">
-  <div class="usa-grid usa-graphic_list-row">
-    The federal government must attract top IT talent to modernize federal IT systems and
-    deliver the most secure and effective services to the American people. To recruit the best
-    qualified IT talent, in the most timely and cost-effective manner, we need to transform the
-    federal IT hiring process.
-
-    The CIO Council has partnered with the technology hiring experts at HackerRank to pilot
-    the first, large-scale, inter-agency code challenge. Code challenges are used extensively in
-    the private sector to source and pre-qualify IT talent, and they are viewed as an industry
-    best practice. The #CIOCode Challenge pilot program begins April 15 and includes three
-  </div>
-</section>
-
-<section class="usa-section-light usa-section">
-  <div class="usa-grid usa-graphic_list-row">
-    <a align="center" class="usa-button" href="{{ page.hero-button-link | prepend: site.baseurl }}">{{ page.hero-button-text }}</a><br>
-    <h2 id="timer" align="center"></h2>
-  </div>
-</section>
-
-
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script>document.getElementsByTagName("html")[0].className += " js";</script>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <title>Code Challenge</title>
+</head>
 <style>
-html, body {
-  color: #681;
-	background: #fff;
-	min-width: 700px;
+body, html {
+  height: 100%;
+	background-color: white;
+	
 }
 
-/* ---- Timeline ---- */
-ol {
-	position: relative;
-	display: block;
-	margin: 100px;
-	height: 4px;
-	background: #31708F;
-}
-ol::before,
-ol::after {
-	content: "";
-	position: absolute;
-	top: -8px;
-	display: block;
-	width: 0;
-	height: 0;
-  border-radius: 10px;
-	border: 10px solid #31708F;
-}
-ol::before {
-	left: -5px;
-}
-ol::after {
-	right: -10px;
-	border: 10px solid transparent;
-	border-right: 0;
-	border-left: 20px solid #31708F;
-  border-radius: 3px;
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: url("/assets/img/codechallengegreen.jpg");
+  min-height: 75%;
 }
 
-/* ---- Timeline elements ---- */
-li {
-	position: relative;
-	display: inline-block;
-	float: left;
-	width: 150px;
-	font: bold 14px arial;
-  height: 50px;
-}
-li .diplome {
-  position: absolute;
-  top: -47px;
-  left: 36%;
-  color: #000000;
-}
-li .point {
-	content: "";
-	top: -4px;
-	left: 43%;
-	display: block;
-	width: 6px;
-	height: 6px;
-	border: 4px solid #31708F;
-	border-radius: 10px;
-	background: #fff;
-  position: absolute;
-}
-li .description {
+.menu {
   display: none;
-  background-color: #f4f4f4;
-  padding: 10px;
-  margin-top: 20px;
-  position: relative;
-  font-weight: normal;
-  z-index: 1;
-}
-.description::before {
-  content: '';
-  width: 0; 
-  height: 0; 
-  border-left: 5px solid transparent;
-  border-right: 5px solid transparent;
-  border-bottom: 5px solid #f4f4f4;
-  position: absolute;
-  top: -5px;
-  left: 43%;
-}
-
-/* ---- Hover effects ---- */
-li:hover {
-	cursor: pointer;
-  color: #48A4D2;
-}
-li:hover .description {
-  display: block;
 }
 </style>
 
-<ol>
-  <li>
-    <p class="diplome">BAC S</p>
-    <span class="point"></span>
-    <p class="description">
-      Ceci est la description du bac S
-    </p>
-  </li>
-  <li>
-    <p class="diplome">BTS / DUT</p>
-    <span class="point"></span>
-    <p class="description">En lien avec la biologie et/ou la zoologie</p>
-  </li>
-  <li>
-    <p class="diplome">Licence</p>
-    <span class="point"></span>
-    <p class="description">En lien avec la biologie et/ou la zoologie</p>
-  </li>
-  <li>
-    <p class="diplome">Master</p>
-      <span class="point"></span>
-    <p class="description">TEST</p></li>
-  <li>
-  <p class="diplome">Doctorat</p>
-    <span class="point"></span>
-    <p class="description">Souvent nécessaire pour pouvoir accéder aux concours d’embauche de centres de recherche tels que l’INRA ou le CNRS</p>
-  </li>
-</ol>
+<header class="w3-display-container w3-content w3-wide" style="max-width:1500px;">
+  <img class="w3-image" src="assets/img/codechallengegreen.jpg" width="1500">
+</header>
+  <section class="cd-h-timeline js-cd-h-timeline margin-bottom--md">
+	<div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px">
+	  
+		<p class="w3-justify">
+			The federal government must attract top IT talent to modernize federal IT systems and deliver the most secure and effective services to the American people. To recruit the best qualified IT talent, in the most timely and cost-effective manner, we need to transform the federal IT hiring process.<br><br>
+		</p>
 
+		<p class="w3-justify">
+			The CIO Council has partnered with the technology hiring experts at HackerRank to pilot the first, large-scale, inter-agency code challenge. Code challenges are used extensively in the private sector to source and pre-qualify IT talent, and they are viewed as an industry best practice. The #CIOCode Challenge pilot program begins April 15 and includes three separate online skill assessments, which run for one month each.
+		</p>
+		<p><button class="w3-button w3-blue" style="width:200px">Sign Up</button></p>
+		<br>
+		<h3 id="timer"></h3>
+		
+		
+	</div>
+	
+	  
+	  
+  <div class="w3-panel w3-padding-16 w3-light-grey">  
+    <div class="cd-h-timeline__container container">
+      <div class="cd-h-timeline__dates" >
+        <div class="cd-h-timeline__line" >
+          <ol>
+            <li><a href="#0" data-date="16/01/2014" class="cd-h-timeline__date cd-h-timeline__date--selected">16 Jan</a></li>
+            <li><a href="#0" data-date="28/02/2014" class="cd-h-timeline__date">28 Feb</a></li>
+            <li><a href="#0" data-date="20/04/2014" class="cd-h-timeline__date">20 Mar</a></li>
+            <li><a href="#0" data-date="20/05/2014" class="cd-h-timeline__date">20 May</a></li>
+            <li><a href="#0" data-date="09/07/2014" class="cd-h-timeline__date">09 Jul</a></li>
+            <li><a href="#0" data-date="30/08/2014" class="cd-h-timeline__date">30 Aug</a></li>
+            <li><a href="#0" data-date="15/09/2014" class="cd-h-timeline__date">15 Sep</a></li>
+            <li><a href="#0" data-date="01/11/2014" class="cd-h-timeline__date">01 Nov</a></li>
+            <li><a href="#0" data-date="10/12/2014" class="cd-h-timeline__date">10 Dec</a></li>
+            <li><a href="#0" data-date="19/01/2015" class="cd-h-timeline__date">29 Jan</a></li>
+            <li><a href="#0" data-date="03/03/2015" class="cd-h-timeline__date">3 Mar</a></li>
+          </ol>
 
+          <span class="cd-h-timeline__filling-line" aria-hidden="true"></span>
+        </div> <!-- .cd-h-timeline__line -->
+      </div> <!-- .cd-h-timeline__dates -->
+        
+      <ul>
+        <li><a href="#0" class="text--replace cd-h-timeline__navigation cd-h-timeline__navigation--prev cd-h-timeline__navigation--inactive">Prev</a></li>
+        <li><a href="#0" class="text--replace cd-h-timeline__navigation cd-h-timeline__navigation--next">Next</a></li>
+      </ul>
+    </div> <!-- .cd-h-timeline__container -->
 
+    <div class="cd-h-timeline__events">
+      <ol>
+        <li class="cd-h-timeline__event cd-h-timeline__event--selected text-component">
+          <div class="cd-h-timeline__event-content container">
+            <h2 class="cd-h-timeline__event-title">Horizontal Timeline</h2>
+            <em class="cd-h-timeline__event-date">January 16th, 2014</em>
+            <p class="cd-h-timeline__event-description text--subtle"> 
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+            </p>
+          </div>
+        </li>
 
+        <li class="cd-h-timeline__event text-component">
+          <div class="cd-h-timeline__event-content container">
+            <h2 class="cd-h-timeline__event-title">Event title here</h2>
+            <em class="cd-h-timeline__event-date">February 28th, 2014</em>
+            <p class="cd-h-timeline__event-description text--subtle"> 
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+            </p>
+          </div>
+        </li>
 
+        <li class="cd-h-timeline__event text-component">
+          <div class="cd-h-timeline__event-content container">
+            <h2 class="cd-h-timeline__event-title">Event title here</h2>
+            <em class="cd-h-timeline__event-date">March 20th, 2014</em>
+            <p class="cd-h-timeline__event-description text--subtle"> 
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+            </p>
+          </div>
+        </li>
 
-</section>
+        <li class="cd-h-timeline__event text-component">
+          <div class="cd-h-timeline__event-content container">
+            <h2 class="cd-h-timeline__event-title">Event title here</h2>
+            <em class="cd-h-timeline__event-date">May 20th, 2014</em>
+            <p class="cd-h-timeline__event-description text--subtle"> 
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+            </p>
+          </div>
+        </li>
 
+        <li class="cd-h-timeline__event text-component">
+          <div class="cd-h-timeline__event-content container">
+            <h2 class="cd-h-timeline__event-title">Event title here</h2>
+            <em class="cd-h-timeline__event-date">July 9th, 2014</em>
+            <p class="cd-h-timeline__event-description text--subtle"> 
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+            </p>
+          </div>
+        </li>
+
+        <li class="cd-h-timeline__event text-component">
+          <div class="cd-h-timeline__event-content container">
+            <h2 class="cd-h-timeline__event-title">Event title here</h2>
+            <em class="cd-h-timeline__event-date">August 30th, 2014</em>
+            <p class="cd-h-timeline__event-description text--subtle"> 
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+            </p>
+          </div>
+        </li>
+
+        <li class="cd-h-timeline__event text-component">
+          <div class="cd-h-timeline__event-content container">
+            <h2 class="cd-h-timeline__event-title">Event title here</h2>
+            <em class="cd-h-timeline__event-date">September 15th, 2014</em>
+            <p class="cd-h-timeline__event-description text--subtle"> 
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+            </p>
+          </div>
+        </li>
+
+        <li class="cd-h-timeline__event text-component">
+          <div class="cd-h-timeline__event-content container">
+            <h2 class="cd-h-timeline__event-title">Event title here</h2>
+            <em class="cd-h-timeline__event-date">November 1st, 2014</em>
+            <p class="cd-h-timeline__event-description text--subtle"> 
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+            </p>
+          </div>
+        </li>
+
+        <li class="cd-h-timeline__event text-component">
+          <div class="cd-h-timeline__event-content container">
+            <h2 class="cd-h-timeline__event-title">Event title here</h2>
+            <em class="cd-h-timeline__event-date">December 10th, 2014</em>
+            <p class="cd-h-timeline__event-description text--subtle"> 
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+            </p>
+          </div>
+        </li>
+
+        <li class="cd-h-timeline__event text-component">
+          <div class="cd-h-timeline__event-content container">
+            <h2 class="cd-h-timeline__event-title">Event title here</h2>
+            <em class="cd-h-timeline__event-date">January 29th, 2015</em>
+            <p class="cd-h-timeline__event-description text--subtle"> 
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+            </p>
+          </div>
+        </li>
+
+        <li class="cd-h-timeline__event text-component">
+          <div class="cd-h-timeline__event-content container">
+            <h2 class="cd-h-timeline__event-title">Event title here</h2>
+            <em class="cd-h-timeline__event-date">March 3rd, 2015</em>
+            <p class="cd-h-timeline__event-description text--subtle"> 
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum praesentium officia, fugit recusandae ipsa, quia velit nulla adipisci? Consequuntur aspernatur at, eaque hic repellendus sit dicta consequatur quae, ut harum ipsam molestias maxime non nisi reiciendis eligendi! Doloremque quia pariatur harum ea amet quibusdam quisquam, quae, temporibus dolores porro doloribus.
+            </p>
+          </div>
+        </li>
+      </ol>
+    </div> <!-- .cd-h-timeline__events -->
+	  </div>
+  </section>
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("July 5, 2019 15:37:25").getTime();
+var countDownDate = new Date("Jan 5, 2020 15:37:25").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -187,7 +220,10 @@ var x = setInterval(function() {
   // If the count down is over, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "EXPIRED";
+    document.getElementById("timer").innerHTML = "EXPIRED";
   }
 }, 1000);
 </script>
+  <script src="assets/js/util.js"></script> <!-- util functions included in the CodyHouse framework -->
+  <script src="assets/js/swipe-content.js"></script> <!-- A Vanilla JavaScript plugin to detect touch interactions -->
+  <script src="assets/js/main.js"></script>
