@@ -105,14 +105,16 @@
     font-size:0.8em;
     padding-bottom:0.75em;
     padding-bottom:var(--space-sm);
-    color:#f48c00;
-    color:#f48c00;
     -webkit-user-select:none;
     -moz-user-select:none;
     -ms-user-select:none;
     user-select:none;
     text-decoration:none
     }
+.cd-h-timeline__date#orange{
+    color:#f48c00;
+    color:#f48c00;
+  }
 
   .js .cd-h-timeline__date::after{
     content:'';
