@@ -113,8 +113,15 @@
     }
 .cd-h-timeline__date#orange{
     color:#f48c00;
-    color:#f48c00;
   }
+
+.cd-h-timeline__date#green{
+    color:#0ec002;
+  }
+.cd-h-timeline__date#pink{
+    color:#ec027e;
+      }
+
 
   .js .cd-h-timeline__date::after{
     content:'';
