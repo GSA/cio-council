@@ -140,7 +140,7 @@
 
     @media (min-width: 64rem){
       .js .cd-h-timeline__date
-      {font-size:1.3em}}
+      {font-size:1em}}
 
   .js .cd-h-timeline__date--selected{
     pointer-events:none
