@@ -105,8 +105,8 @@
     font-size:0.8em;
     padding-bottom:0.75em;
     padding-bottom:var(--space-sm);
-    color:hsl(0, 0%, 22%);
-    color:var(--cd-color-1);
+    color:#f48c00;
+    color:#f48c00;
     -webkit-user-select:none;
     -moz-user-select:none;
     -ms-user-select:none;
