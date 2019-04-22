@@ -6,5 +6,5 @@ permalink: /reskilling-cohort-1/
 title: Federal Cybersecurity Reskilling Academy Cohort 1
 hero-text: Federal Cybersecurity Reskilling Academy
 hero-byline: Council Initiative
-description: The Federal Cybersecurity Reskilling Academies looks to take two cohorts of current federal employees from and training them to be entry level Incident Response Analysts, Cyber Defense Analysts, Digital Forensic Analysts, or Security Operations Center (SOC) Analysts.
+description: The Federal Cybersecurity Reskilling Academies look to train two cohorts of current federal employees to be entry level Incident Response Analysts, Cyber Defense Analysts, Digital Forensic Analysts, or Security Operations Center (SOC) Analysts.
 ---
