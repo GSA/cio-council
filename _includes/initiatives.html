@@ -1,7 +1,7 @@
 
 <section class="usa-graphic_list">
 {% for event in site.initiatives %}
-   {% if page.layout == "federalreskilling-cohort-1" %}
+   {% if page.layout == "federalreskilling-cohort-1" or page.layout == "federalreskilling-cohort-2" %}
     {% break %}
    {% else %}
   
@@ -23,5 +23,6 @@
     </div>
     <br><br>
   </div>
+       {% endif %}
 {% endfor %}
 </section>
