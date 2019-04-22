@@ -1,6 +1,10 @@
 
 <section class="usa-graphic_list">
 {% for event in site.initiatives %}
+   {% if page.layout == "federalreskilling-cohort-1" %}
+    {% break %}
+   {% else %}
+  
   {% assign half = forloop.index | modulo: 2 %}
   {% if half == 1 %}
   <div class="usa-width-one-whole usa-end-row usa-media_block">
