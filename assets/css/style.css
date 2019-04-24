@@ -85,8 +85,8 @@
     top:0;
     height:100%;
     width:100%;
-    background-color:hsl(74, 93%, 32%);
-    background-color:var(--cd-color-2);
+    background-color: gray;
+    background-color:gray;
     -webkit-transform:scaleX(0);
     -ms-transform:scaleX(0);
     transform:scaleX(0);
@@ -156,9 +156,9 @@
     }
 
   .js .cd-h-timeline__date--selected::after{
-    background-color:hsl(74, 93%, 32%);
-    background-color:var(--cd-color-2);
-    border-color:hsl(74, 93%, 32%);border-color:var(--cd-color-2)
+    background-color:gray;
+    background-color:gray;
+    border-color:gray);border-color:gray
     }
 
   .js .cd-h-timeline__date--older-event::after{
