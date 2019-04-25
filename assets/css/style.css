@@ -162,7 +162,7 @@
     }
 
   .js .cd-h-timeline__date--older-event::after{
-    border-color:hsl(74, 93%, 32%);
+    border-color:hsl(214, 0%, 64%);
     border-color:var(--cd-color-2)
     }
 
