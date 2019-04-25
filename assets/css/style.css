@@ -142,9 +142,9 @@
     }
 
   .js .cd-h-timeline__date:hover::after{
-    background-color:hsl(74, 93%, 32%);
+    background-color:hsl(214, 0%, 64%);
     background-color:var(--cd-color-2);
-    border-color:hsl(74, 93%, 32%);
+    border-color:hsl(214°, 0%, 64%);
     border-color:var(--cd-color-2)}
 
     @media (min-width: 64rem){
