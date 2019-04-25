@@ -147,7 +147,7 @@
     border-color:hsl(214°, 0%, 64%);
     border-color:var(--cd-color-2)}
 
-    @media (min-width: 64rem){
+    @media (min-width: 80rem){
       .js .cd-h-timeline__date
       {font-size:1em}}
 
