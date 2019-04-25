@@ -42,7 +42,7 @@
 .js .cd-h-timeline__dates{
   position:relative;
   height:100%
-  ;margin:0 40px;
+  ;margin:0 60px;
   overflow:hidden}
 
 .js .cd-h-timeline__dates::after,.js .cd-h-timeline__dates::before{
