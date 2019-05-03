@@ -3490,7 +3490,7 @@ input.usa-input-medium {
 
 .usa-hero-callout > *:first-child {
   margin-top: 0;
-  margin-bottom: 3rem;
+  margin-bottom: 0rem;
 }
 
 .usa-hero-callout .usa-button {
