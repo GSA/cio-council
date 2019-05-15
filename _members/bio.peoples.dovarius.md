@@ -4,7 +4,7 @@ title: Mr. Dovarius L. Peoples
 permalink: /about/members-and-leadership/peoples-dovarius/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. DOVARIUS L. PEOPLES
-bio-title-text: CHIEF INFORMATION SECURITY OFFICER,
+bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. ARMY CORPS OF ENGINEERS
 bio-image-url: /assets/img/members/bio_Peoples.png
 bio-image-alt-text: Dovarius Peoples
