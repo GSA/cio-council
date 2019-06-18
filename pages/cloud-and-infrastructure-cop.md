@@ -27,7 +27,7 @@ Subscribe to receive C&I CoP meeting invites, updates and tips on IT optimizatio
 * Only those with a “.gov” or “.mil” email may join. Email [dcoi@gsa.gov](mailto:dcoi@gsa.gov) to request to join using another official federal email address.
 
 #### View Online Resources
-**Visit the [C&I CoP Homepage](https://community.max.gov/display/Egov/CIO+Council+Data+Center+Optimization+Initiative+Community+of+Practice).**  
+**Visit the [C&I CoP Homepage](https://community.max.gov/display/Egov/CIO+Council+Data+Center+Optimization+Initiative+Community+of+Practice)**  
 The C&I CoP’s MAX.gov page is the main online repository of CoP information. Find past presentations, upcoming meeting information, and other CoP-specific resources. Anyone with a federal email address can sign up and access the C&I CoP CIO Council MAX page.
 
 **Find C&I CoP resources on the [CIO Council Knowledge Portal](https://community.max.gov/x/8YwyK )**  
