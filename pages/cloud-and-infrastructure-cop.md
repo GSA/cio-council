@@ -35,5 +35,5 @@ The DCOI PMO, a co-sponsor of the CoP, has produced resources ranging from guida
 
 Email [dcoi@gsa.gov](mailto:dcoi@gsa.gov) to contribute to or suggest resources for the Knowledge Portal.
 
-**Review the [Application Rationalization Playbook](https://www.cio.gov/resources/document-library/) in the Document Library**  
+**Review the [Application Rationalization Playbook](https://www.cio.gov/assets/files/Application-Rationalization-Playbook.pdf/)**  
 The Playbook is a practical guide for application rationalization and IT portfolio management under Cloud Smart. It helps Portfolio Managers think through their agency’s approach to IT modernization. It also addresses challenges and opportunities for IT leaders, managers, and technical practitioners, and offers suggestions on how to overcome barriers to success. Each agency should tailor it to fit their unique needs. Application rationalization will ultimately help federal agencies mature IT portfolio management capabilities, empower leaders to make informed decisions, and improve the delivery of key mission and business services.
