@@ -11,7 +11,7 @@ image-thumbnail: /assets/img/blog/Women-in-IT-banner-2019-square.png
 img-alt: Women in IT Graphic
 ---
 
-<img src="{{ site.baseurl }}/assets/img/blog/Women-in-IT-banner-2019-cropped.png" alt="women in IT Banner" width="700">
+<img src="{{ site.baseurl }}/assets/img/blog/Women-in-IT-banner-2019-crop.png" alt="women in IT Banner" width="700">
 
 Earlier this month, women across the federal government gathered for the second annual Women in Federal Information Technology and Cybersecurity Event: The Significance of HER Perspective. Over 200 attendees heard from Federal IT leaders as they shared experiences and perspectives, gave advice on their career paths in IT, and held flash mentoring sessions.
 
