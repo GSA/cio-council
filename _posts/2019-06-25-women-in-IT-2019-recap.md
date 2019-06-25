@@ -7,8 +7,8 @@ display-date: 25 June 2019
 author: CIO COUNCIL OPERATIONS
 permalink: /Women-in-IT-2019/
 tags: 2019 workforce
-image-thumbnail: /assets/img/blog/Women-in-IT-banner-2019.png
-img-alt: Women in IT Banner
+image-thumbnail: /assets/img/blog/Women-in-IT-banner-2019-square.png
+img-alt: Women in IT Graphic
 ---
 
 <img src="{{ site.baseurl }}/assets/img/blog/Women-in-IT-banner-2019.png" alt="women in IT Banner" width="1000">
