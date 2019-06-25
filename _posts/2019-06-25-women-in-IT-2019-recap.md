@@ -11,14 +11,14 @@ image-thumbnail: /assets/img/blog/Women-in-IT-banner-2019-square.png
 img-alt: Women in IT Graphic
 ---
 
-<img src="{{ site.baseurl }}/assets/img/blog/Women-in-IT-banner-2019.png" alt="women in IT Banner" width="1000">
+<img src="{{ site.baseurl }}/assets/img/blog/Women-in-IT-banner-2019-cropped.png" alt="women in IT Banner" width="700">
 
 Earlier this month, women across the federal government gathered for the second annual Women in Federal Information Technology and Cybersecurity Event: The Significance of HER Perspective. Over 200 attendees heard from Federal IT leaders as they shared experiences and perspectives, gave advice on their career paths in IT, and held flash mentoring sessions.
 
 ## The Role of Women in Federal IT
 As a key pillar of the [President’s Management Agenda (PMA)](https://www.performance.gov/PMA/PMA.html), IT Modernization is critical to achieve the long-term vision of modernizing the Federal Government. GSA’s Office of Government-wide Policy’s Deputy Associate Administrator, Beth Angerman, emphasized the importance of encouraging women to take on leadership roles in IT and cybersecurity. She noted that over the last 20 years she’s seen more women not only sitting at the table, but also driving conversations around technology modernization and innovation.
 
-<img src="{{ site.baseurl }}/assets/img/blog/Angerman-Women-in-IT.png" alt="Angerman at Women in IT" width="800">
+<img src="{{ site.baseurl }}/assets/img/blog/Angerman-Women-in-IT.png" alt="Angerman at Women in IT" width="700">
 *Beth Angerman speaks at the Women in Federal IT and Cybersecurity Event on June 4, 2019*
 
 ### “For every woman sitting in the C-suite at their agency, there is a woman watching her from afar wondering how she’ll ever get to that place. For every woman who walks into a meeting and sits confidently at the table, there is a woman who thinks she still belongs in those chairs along the wall” - Beth Angerman, Deputy Associate Administrator of GSA
@@ -26,15 +26,15 @@ As a key pillar of the [President’s Management Agenda (PMA)](https://www.perfo
 ## The Importance of Mentorship
 Suzette Kent, Federal CIO (FCIO), shared her vision of more women in IT leadership roles and encouraged mentorship to inspire others. FCIO Kent pointed to several examples of female CIOs in the private sector, their achievements, and how this is possible within the Federal government.
 
-<img src="{{ site.baseurl }}/assets/img/blog/FCIO-Kent-Women-in-IT.png" alt="FCIO Kent at Women in IT" width="800">
+<img src="{{ site.baseurl }}/assets/img/blog/FCIO-Kent-Women-in-IT.png" alt="FCIO Kent at Women in IT" width="700">
 
 ## Key Messages on the Way Forward
 The event had two panel discussions, “What SHE Brings to the Table” and “HER Perspective Is Needed.” These discussions touched on the value of women’s opinions and the importance of speaking up and sharing perspectives. The panels also included conversations about developing a network of supportive women to guide others through the STEM world and how critical resilience is to overcoming challenges to achieve success.
 
-<img src="{{ site.baseurl }}/assets/img/blog/Panel-Women-in-IT.png" alt="Panel 1 at Women in IT" width="800">
+<img src="{{ site.baseurl }}/assets/img/blog/Panel-Women-in-IT.png" alt="Panel 1 at Women in IT" width="700">
 *What SHE Brings to the Table featured moderator Robyn Rees of the National Science Foundation (NSF), and panelists: Maria Roat, the CIO of the Small Business Administration; Venice Goodwine, the Chief Information Security Officer of the U.S. Department of Agriculture; Dorothy Aronson, the CIO of the National Science Foundation (NSF); and Jason Gray, the CIO of the Department of Education.*
 
-<img src="{{ site.baseurl }}/assets/img/blog/Panel2-Women-in-IT.png" alt="Panel 2 at Women in IT" width="800">
+<img src="{{ site.baseurl }}/assets/img/blog/Panel2-Women-in-IT.png" alt="Panel 2 at Women in IT" width="700">
 *HER Perspective is Needed featured moderator Rotimi Abimbola, the Chief of Staff at the Department of Interior’s CIO Office, and panelists: Lynn Moaney, the Deputy Chief Financial Officer of USDA; Ann Kim, the Deputy Chief Information Officer (DCIO) of the Department of Education; and Amy Haseltine, DCIO of HHS.*
 
 Kent aims for women in Federal IT to occupy 30 percent of roles over the next two years. While the goal is ambitious, events like Women in Federal IT and Cybersecurity signal the need for not only more talent, but also for more women in leadership positions across the government.
