@@ -21,7 +21,7 @@ As a key pillar of the [President’s Management Agenda (PMA)](https://www.perfo
 <img src="{{ site.baseurl }}/assets/img/blog/Angerman-Women-in-IT.png" alt="Angerman at Women in IT" width="700">
 *Beth Angerman speaks at the Women in Federal IT and Cybersecurity Event on June 4, 2019*
 
-> “For every woman sitting in the C-suite at their agency, there is a woman watching her from afar wondering how she’ll ever get to that place. For every woman who walks into a meeting and sits confidently at the table, there is a woman who thinks she still belongs in those chairs along the wall” <br>- Beth Angerman, Deputy Associate Administrator of GSA
+> **“For every woman sitting in the C-suite at their agency, there is a woman watching her from afar wondering how she’ll ever get to that place. For every woman who walks into a meeting and sits confidently at the table, there is a woman who thinks she still belongs in those chairs along the wall”** <br>- Beth Angerman, Deputy Associate Administrator of GSA
 
 ## The Importance of Mentorship
 Suzette Kent, Federal CIO (FCIO), shared her vision of more women in IT leadership roles and encouraged mentorship to inspire others. FCIO Kent pointed to several examples of female CIOs in the private sector, their achievements, and how this is possible within the Federal government.
