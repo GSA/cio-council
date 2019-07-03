@@ -1,0 +1,4 @@
+---
+layout: CodeChallenge
+permalink: /CodeChallenge
+---

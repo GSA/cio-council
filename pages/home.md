@@ -2,10 +2,10 @@
 layout: home
 body-class: home
 permalink: /
-hero-image: "/assets/img/banners/2018.11.30-fcra-banner.jpg"
-image-alt: "Photo by Headway on Unsplash"
-hero-text: "Introducing: the Federal Cyber Reskilling Academy"
-hero-byline: The Federal Cybersecurity Reskilling Academy offers Federal employees the opportunity for hands-on training in cybersecurity.
+hero-image: "/assets/img/banners/code-challenge-3.jpg"
+image-alt: "Photo of HTML/CSS Code"
+hero-text: "#CIOCode Challenge 2 Starts Now!"
+hero-byline: Test your problem-solving skills, coding knowledge, and fundamentals using a coding language of your choice.
 hero-button-text: Learn More
-hero-button-link: "/reskilling/"
+hero-button-link: "/codechallenge/"
 ---

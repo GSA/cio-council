@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-ruby '~>2.6.1'
-
 gem 'accesslint-ci', '0.2.8'
 gem 'html-proofer', '~> 3.6.0'
 gem 'jekyll', '~> 3.3.0'
@@ -9,7 +7,6 @@ gem 'jemoji'
 gem 'parallel'
 
 group :jekyll_plugins do
-  gem 'jekyll-archives', git: 'git://github.com/jekyll/jekyll-archives.git', ref: '112c508'
   gem 'jekyll-feed', "~> 0.6"
   gem 'jekyll-paginate-v2'
   gem 'jekyll-redirect-from'
