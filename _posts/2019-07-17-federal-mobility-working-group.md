@@ -4,11 +4,11 @@ title: 'Working Together to Advance Federal Mobility'
 description: The Federal CIO Council is excited to unveil the Federal Mobility Group (FMG), a federal Community of Practice that coalesces the membership and goals of the existing Mobile Services Category Team (MSCT) with those of the Mobile Technology Tiger Team (MTTT).
 date: 2019-7-16
 display-date: 16 July 2019
-author: CIO COUNCIL OPERATIONS
+author: Federal Mobility Working Group
 permalink: /2019/07/17/Federal-Mobility-Working-Group/
 tags: 2019
-image-thumbnail: /assets/img/blog/gear-logo-blog.png
-img-alt: logo
+image-thumbnail: /assets/img/blog/Mobile-FMG.png
+img-alt: Woman with Mobile by Petter Lagson
 ---
 
 The Federal CIO Council is excited to unveil the Federal Mobility Group (FMG), a federal Community of Practice that coalesces the membership and goals of the existing Mobile Services Category Team (MSCT) with those of the Mobile Technology Tiger Team (MTTT). The MSCT was established in 2016 by the OMB Category Management Leadership Council (via memo M-16-20), with a mission to improve acquisition and management of mobile devices and services. The MTTT, chartered by the Federal CIO Council in 2013 to address mobile security requirements of the Digital Government Strategy, is charged with monitoring mobile security technologies and initiatives to ensure the evolution of federal mobile security after the Strategy is implemented.
