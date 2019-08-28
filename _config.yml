@@ -2,7 +2,7 @@
 title: CIO.gov
 description: Official Web Site of CIO.gov
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.cio.gov/" # the base hostname & protocol for your site
+url: "https://www.cio.gov" # the base hostname & protocol for your site
 logo: /assets/img/logo-main.png
 iconenvelope: /assets/img/iconenvelope.png
 iconpaper: /assets/img/iconpaper.png
